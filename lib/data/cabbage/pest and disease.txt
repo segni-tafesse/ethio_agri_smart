@@ -1,0 +1,15 @@
+Pest and disease
+PESTS:
+  Diamondback moth.
+  Cabbage head borer.
+  Cabbage leaf webber.
+  Cabbage aphids.
+  Painted bug.
+  Tobacco caterpillar.
+  Cabbage butterfly.
+  IPM for Cabbage and Cauliflower
+PESTICIDES:
+  Flonicamid 0.8% 
+   Acetamiprid 0.4%
+   Disulfoton sulfoxide oxygen analog 0.3%
+   Pyraclostrobin 0.1%

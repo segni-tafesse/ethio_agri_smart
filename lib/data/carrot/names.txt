@@ -1,0 +1,3 @@
+NAMES:
+1,Scientific/Botanical name : Daucus carota.
+2,Common name: Daucus carota subsp, sativus.

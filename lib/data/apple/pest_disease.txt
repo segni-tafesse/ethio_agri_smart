@@ -1,0 +1,7 @@
+Pest and disease
+PESTS: The common pests of Apple are maggot flies, plum curculio, and codling moth.
+PESTICIDES: The best way to control pests in Apple is while those pests are mating and looking for potential egg-laying sites, so during this period we can use pesticides like: 
+  Chlorantrani liprole  41.2%
+  Acetamiprid. 28.7%
+  Lmidacloprid 20.2%
+  Carbendazlm(MBC) 17.3%

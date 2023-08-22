@@ -1,0 +1,12 @@
+Pest and disease
+PESTS: This are some common pests which hurts the carrot.
+1.  Cutworms. 
+2.  Wireworms. 
+3.  Tawny Mole Cricket. ...
+4.  Leafminers. ...
+5.  Melon and Green Peach Aphids.
+PESTICIDES:
+1.  Linuron70.7%
+2.  Trifluralin49.7%
+3.  Pyraclostrobin36.5%
+4.  DDE p,p'28.1%
