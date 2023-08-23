@@ -1,3 +1,4 @@
+import 'package:ethio_agri_smart/details_screen.dart';
 import 'package:ethio_agri_smart/model/crop_model.dart';
 import 'package:flutter/material.dart';
 
@@ -25,6 +26,8 @@ class _SearchPageState extends State<SearchPage> {
   static List<CropModel> main_crops_list = [
     CropModel("Apple:Malus sylvestris",
         "https://images.unsplash.com/photo-1630563451961-ac2ff27616ab?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGFwcGxlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"),
+    CropModel("Avocado:Malus sylvestris",
+        "https://images.unsplash.com/photo-1630563451961-ac2ff27616ab?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGFwcGxlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"),
   ];
 
   List<CropModel> display_list = List.from(main_crops_list);
@@ -41,7 +44,8 @@ class _SearchPageState extends State<SearchPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Colors.black,
+        title: Text("Search for crops"),
+        backgroundColor: Colors.green,
         elevation: 0.0,
       ),
       body: Padding(
@@ -50,14 +54,6 @@ class _SearchPageState extends State<SearchPage> {
           mainAxisAlignment: MainAxisAlignment.start,
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            Text(
-              'Search for a  crop',
-              style: TextStyle(
-                color: Colors.black,
-                fontSize: 22.0,
-                fontWeight: FontWeight.bold,
-              ),
-            ),
             SizedBox(
               height: 20.0,
             ),
@@ -94,18 +90,29 @@ class _SearchPageState extends State<SearchPage> {
                   : ListView.builder(
                       itemCount: display_list.length,
                       itemBuilder: (context, index) => InkWell(
-                        onTap: () => print(display_list[index].crop_title!),
-                        child: ListTile(
-                          contentPadding: EdgeInsets.all(8.0),
-                          title: Text(
-                            display_list[index].crop_title!,
-                            style: TextStyle(
-                              color: Colors.white,
-                              fontWeight: FontWeight.bold,
+                        onTap: () {
+                          Navigator.push(context, MaterialPageRoute(
+                            builder: (context) {
+                              return DetailsScreen();
+                            },
+                          ));
+                        },
+                        child: Column(
+                          children: [
+                            ListTile(
+                              contentPadding: EdgeInsets.all(8.0),
+                              title: Text(
+                                display_list[index].crop_title!,
+                                style: TextStyle(
+                                  color: Colors.white,
+                                  fontWeight: FontWeight.bold,
+                                ),
+                              ),
+                              leading: Image.network(
+                                  display_list[index].crop_poster_url!),
                             ),
-                          ),
-                          leading: Image.network(
-                              display_list[index].crop_poster_url!),
+                            const Divider()
+                          ],
                         ),
                       ),
                     ),
