@@ -1,7 +1,11 @@
 import 'package:flutter/material.dart';
+import './first.dart';
+import './firsr_screen.dart';
+import './onepage.dart';
 
 //eyos wrote this comment
 void main() => runApp(MaterialApp(
+      debugShowCheckedModeBanner: false,
       home: Home(),
     ));
 
@@ -85,20 +89,18 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
           child: Column(
             children: [
               ElevatedButton(
-                onPressed: () {},
+                onPressed: () {
+                  Navigator.push(context, MaterialPageRoute(
+                    builder: (context) {
+                      return MyApp();
+                    },
+                  ));
+                },
                 child: Text('Recommendations'),
               ),
               ElevatedButton(
                 onPressed: () {},
                 child: Text('Decision Support'),
-              ),
-              ElevatedButton(
-                onPressed: () {},
-                child: Text('Notifications'),
-              ),
-              ElevatedButton(
-                onPressed: () {},
-                child: Text('Artifical Intelligence(AI)'),
               ),
             ],
           ),
