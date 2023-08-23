@@ -52,12 +52,11 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
           ],
           elevation: 20,
           flexibleSpace: Container(
-            decoration: BoxDecoration(
-                image: DecorationImage(
-              image: NetworkImage(
-                  'https://images.unsplash.com/photo-1605031907073-19290740c3e4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z3JlZW4lMjB3aGVhdHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60'),
-              fit: BoxFit.cover,
-            )),
+            width: double.infinity,
+            child: Image.asset(
+              "images/background-image.jpg",
+              width: double.infinity,
+            ),
           ),
           bottom: TabBar(
             indicatorColor: Colors.blue[900],
@@ -114,3 +113,6 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
         ),
       );
 }
+
+
+//Image.asset("images/apple.png")
