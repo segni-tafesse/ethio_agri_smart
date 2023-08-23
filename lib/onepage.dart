@@ -24,7 +24,13 @@ class SearchPage extends StatefulWidget {
 }
 
 class _SearchPageState extends State<SearchPage> {
-  static List<CropModel> main_crops_list = [];
+  late String appleImageUrl =
+      "https://images.unsplash.com/photo-1630563451961-ac2ff27616ab?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGFwcGxlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60";
+  static List<CropModel> main_crops_list = [
+    CropModel("Apple:Malus sylvestris",
+        "https://images.unsplash.com/photo-1630563451961-ac2ff27616ab?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGFwcGxlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"),
+  ];
+
   List<CropModel> display_list = List.from(main_crops_list);
   void updateList(String value) {
     setState(() {
@@ -101,15 +107,6 @@ class _SearchPageState extends State<SearchPage> {
                               color: Colors.white,
                               fontWeight: FontWeight.bold,
                             ),
-                          ),
-                          subtitle:
-                              Text('${display_list[index].crop_release_year!}',
-                                  style: TextStyle(
-                                    color: Colors.white60,
-                                  )),
-                          trailing: Text(
-                            "${display_list[index].rating}",
-                            style: TextStyle(color: Colors.amber),
                           ),
                           leading: Image.network(
                               display_list[index].crop_poster_url!),
