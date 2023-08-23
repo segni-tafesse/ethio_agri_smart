@@ -91,26 +91,29 @@ class _SearchPageState extends State<SearchPage> {
                     )
                   : ListView.builder(
                       itemCount: display_list.length,
-                      itemBuilder: (context, index) => ListTile(
-                        contentPadding: EdgeInsets.all(8.0),
-                        title: Text(
-                          display_list[index].crop_title!,
-                          style: TextStyle(
-                            color: Colors.white,
-                            fontWeight: FontWeight.bold,
+                      itemBuilder: (context, index) => InkWell(
+                        onTap: () => print(display_list[index].crop_title!),
+                        child: ListTile(
+                          contentPadding: EdgeInsets.all(8.0),
+                          title: Text(
+                            display_list[index].crop_title!,
+                            style: TextStyle(
+                              color: Colors.white,
+                              fontWeight: FontWeight.bold,
+                            ),
                           ),
+                          subtitle:
+                              Text('${display_list[index].crop_release_year!}',
+                                  style: TextStyle(
+                                    color: Colors.white60,
+                                  )),
+                          trailing: Text(
+                            "${display_list[index].rating}",
+                            style: TextStyle(color: Colors.amber),
+                          ),
+                          leading: Image.network(
+                              display_list[index].crop_poster_url!),
                         ),
-                        subtitle:
-                            Text('${display_list[index].crop_release_year!}',
-                                style: TextStyle(
-                                  color: Colors.white60,
-                                )),
-                        trailing: Text(
-                          "${display_list[index].rating}",
-                          style: TextStyle(color: Colors.amber),
-                        ),
-                        leading:
-                            Image.network(display_list[index].crop_poster_url!),
                       ),
                     ),
             ),
