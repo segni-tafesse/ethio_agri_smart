@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import './first.dart';
 import './firsr_screen.dart';
 import './onepage.dart';
+import './navigation_drawer.dart';
 
 //eyos wrote this comment
 void main() => runApp(MaterialApp(
@@ -30,6 +31,7 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
   Widget build(BuildContext context) => DefaultTabController(
       length: 1,
       child: Scaffold(
+        drawer: Mydrawer(),
         appBar: AppBar(
           title: const Text(
             'ETHIO-AgriSmart',
@@ -39,10 +41,16 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
             ),
           ),
           centerTitle: true,
-          leading: IconButton(
-            icon: Icon(Icons.menu),
-            onPressed: () {},
-          ),
+          // leading: IconButton(
+          //   icon: Icon(Icons.menu),
+          //   onPressed: () {
+          //     Navigator.push(context, MaterialPageRoute(
+          //       builder: (context) {
+          //         return Mydrawer();
+          //       },
+          //     ));
+          //   },
+          // ),
           actions: [
             IconButton(
               icon: Icon(Icons.share),
@@ -54,8 +62,9 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
           flexibleSpace: Container(
             width: double.infinity,
             child: Image.asset(
-              "images/background-image.jpg",
+              "images/Wall.jpg",
               width: double.infinity,
+              fit: BoxFit.cover,
             ),
           ),
           bottom: TabBar(
