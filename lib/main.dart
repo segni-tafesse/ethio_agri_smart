@@ -1,3 +1,7 @@
+import 'package:ethio_agri_smart/response_example.dart';
+import 'package:flutter/services.dart';
+import 'data_service.dart';
+import './weather.dart';
 import 'package:flutter/material.dart';
 import './onepage.dart';
 import './navigation_drawer.dart';
@@ -15,7 +19,8 @@ class Home extends StatefulWidget {
 
 class _HomeState extends State<Home> with TickerProviderStateMixin {
   late TabController _tabController;
-
+  final _dataService = DataService();
+  String temperature = '';
   void initState() {
     super.initState();
     _tabController = TabController(
@@ -31,8 +36,8 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
       child: Scaffold(
         drawer: Mydrawer(),
         appBar: AppBar(
-          title: const Text(
-            'ETHIO-AgriSmart',
+          title: Text(
+            "Ethio Agri smart",
             style: TextStyle(
               fontSize: 25,
               fontWeight: FontWeight.bold,
@@ -105,8 +110,23 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
                 child: Text('Recommendations'),
               ),
               ElevatedButton(
-                onPressed: () {},
-                child: Text('Decision Support'),
+                onPressed: () async {
+                  final response = await _dataService.getWeather('Addis Ababa');
+                  temperature = response.tempInfo!.temperature!.toString();
+
+                  setState(() {
+                    temperature = "${temperature} degree celsius";
+                  });
+
+                  Navigator.push(context, MaterialPageRoute(
+                    builder: (context) {
+                      return Scaffold(
+                          body: Center(
+                              child: Text(temperature + "degree celsius")));
+                    },
+                  ));
+                },
+                child: Text('Notifications'),
               ),
             ],
           ),
@@ -123,3 +143,4 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
 
 
 //Image.asset("images/apple.png")
+
