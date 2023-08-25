@@ -8,6 +8,7 @@ import './weather.dart';
 import 'package:flutter/material.dart';
 import './onepage.dart';
 import './navigation_drawer.dart';
+import './button.dart';
 
 //eyos wrote this comment
 void main() => runApp(MaterialApp(
@@ -62,7 +63,15 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
               icon: Icon(Icons.share),
               onPressed: () {},
             ),
-            Icon(Icons.notifications_none)
+            IconButton(
+                icon: Icon(Icons.notifications_none),
+                onPressed: () {
+                  Navigator.push(context, MaterialPageRoute(
+                    builder: (context) {
+                      return WeatherInterface();
+                    },
+                  ));
+                }),
           ],
           elevation: 20,
           flexibleSpace: Container(
@@ -99,10 +108,11 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
           ),
         ),
         body: Container(
-          padding: EdgeInsets.all(100),
+          padding: EdgeInsets.all(95),
           child: Column(
             children: [
               ElevatedButton(
+                style: buttonprimary,
                 onPressed: () {
                   Navigator.push(context, MaterialPageRoute(
                     builder: (context) {
@@ -113,6 +123,7 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
                 child: Text('Recommendations'),
               ),
               ElevatedButton(
+                style: buttonprimary,
                 onPressed: () {
                   Navigator.push(context, MaterialPageRoute(
                     builder: (context) {
@@ -120,7 +131,7 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
                     },
                   ));
                 },
-                child: Text('Notifications'),
+                child: Text('WeatherFlora'),
               ),
             ],
           ),
