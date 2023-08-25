@@ -1,4 +1,7 @@
+// ignore_for_file: use_build_context_synchronously
+
 import 'package:ethio_agri_smart/response_example.dart';
+import 'package:ethio_agri_smart/weather_interface.dart';
 import 'package:flutter/services.dart';
 import 'data_service.dart';
 import './weather.dart';
@@ -110,19 +113,10 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
                 child: Text('Recommendations'),
               ),
               ElevatedButton(
-                onPressed: () async {
-                  final response = await _dataService.getWeather('Addis Ababa');
-                  temperature = response.tempInfo!.temperature!.toString();
-
-                  setState(() {
-                    temperature = "${temperature} degree celsius";
-                  });
-
+                onPressed: () {
                   Navigator.push(context, MaterialPageRoute(
                     builder: (context) {
-                      return Scaffold(
-                          body: Center(
-                              child: Text(temperature + "degree celsius")));
+                      return WeatherInterface();
                     },
                   ));
                 },
