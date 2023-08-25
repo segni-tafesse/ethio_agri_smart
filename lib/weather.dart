@@ -2,7 +2,7 @@ import 'dart:convert';
 
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
-import 'response_example.dart';
+import 'weatherInfo_model.dart';
 
 Future<WeatherResponse> getWeather(String city) async {
   final queryParameter = {

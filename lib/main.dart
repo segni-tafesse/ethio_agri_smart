@@ -1,7 +1,7 @@
 // ignore_for_file: use_build_context_synchronously
 
-import 'package:ethio_agri_smart/response_example.dart';
-import 'package:ethio_agri_smart/weather_interface.dart';
+import 'package:ethio_agri_smart/weatherInfo_model.dart';
+import 'package:ethio_agri_smart/weather_screen.dart';
 import 'package:flutter/services.dart';
 import 'data_service.dart';
 import './weather.dart';

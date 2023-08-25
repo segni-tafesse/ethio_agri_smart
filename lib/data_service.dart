@@ -3,7 +3,7 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 import 'package:flutter_dotenv/flutter_dotenv.dart';
 
-import 'response_example.dart';
+import 'weatherInfo_model.dart';
 
 class DataService {
   //https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
