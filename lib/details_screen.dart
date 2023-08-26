@@ -10,6 +10,9 @@ class DetailsScreen extends StatelessWidget {
         title: Text('Apple'),
         centerTitle: true,
         backgroundColor: Colors.red[400],
+        actions: [
+          IconButton(icon: Icon(Icons.more_vert_outlined), onPressed: () {}),
+        ],
       ),
       body: SingleChildScrollView(
         child: Column(
@@ -22,8 +25,7 @@ class DetailsScreen extends StatelessWidget {
               ),
             ),
             Image(
-              image: NetworkImage(
-                  'https://c4.wallpaperflare.com/wallpaper/568/403/810/table-basket-apples-red-wallpaper-preview.jpg'),
+              image: AssetImage('images/apple.jpg'),
             ),
             Center(
               child: Text(

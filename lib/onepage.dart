@@ -92,6 +92,9 @@ class _SearchPageState extends State<SearchPage> {
         title: Text("Search for crops"),
         backgroundColor: Colors.green,
         elevation: 0.0,
+        actions: [
+          IconButton(icon: Icon(Icons.more_vert_outlined), onPressed: () {}),
+        ],
       ),
       body: Padding(
         padding: EdgeInsets.all(16),
@@ -126,7 +129,7 @@ class _SearchPageState extends State<SearchPage> {
                       child: Text(
                         "No Result found",
                         style: TextStyle(
-                          color: Colors.white,
+                          color: Colors.black,
                           fontSize: 22.0,
                           fontWeight: FontWeight.bold,
                         ),

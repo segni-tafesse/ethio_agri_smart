@@ -6,7 +6,7 @@ import './data_service.dart';
 
 class WeatherInterface extends StatefulWidget {
   WeatherInterface({Key? key}) : super(key: key);
-
+  String dropdownValue = 'one';
   @override
   State<WeatherInterface> createState() => _WeatherInterfaceState();
 }

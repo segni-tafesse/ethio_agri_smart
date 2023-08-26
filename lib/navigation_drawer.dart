@@ -16,7 +16,7 @@ class _MydrawerState extends State<Mydrawer> {
                 child: Center(
                     child: Image(
                         image: NetworkImage(
-                            'https://as2.ftcdn.net/v2/jpg/02/32/77/73/1000_F_232777362_ruz4rYAhbaROERJOeTijhCctFr49o2BV.jpg')))),
+                            'https://w7.pngwing.com/pngs/333/57/png-transparent-plant-logo-graphy-rice-leaf-photography-grass.png')))),
             ExpansionTile(title: Text('Setting')),
             ExpansionTile(title: Text('About Us')),
             ExpansionTile(title: Text('RATE US')),
