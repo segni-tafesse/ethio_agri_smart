@@ -111,107 +111,444 @@ class _WeatherInterfaceState extends State<WeatherInterface> {
                                     fontWeight: FontWeight.bold),
                               ),
                               temperature > 10 && temperature < 15
-                                  ? Text(
-                                      ' -Apple \n -Barley \n -EarthPea \n -Carrot \n -Maize \n -Cabbage \n -Maize \n-Millet, \n -Potato \n -Rose \n -Sorghum \n -Tomato \n -Wheat \n -Garlic \n -Beans\n')
+                                  ? Center(
+                                      child: DropdownButton<String>(
+                                      items: [
+                                        DropdownMenuItem<String>(
+                                            value: '1',
+                                            child: Center(
+                                              child: Text(
+                                                " -Apple \n -Barley \n -EarthPea \n -Carrot \n -Maize \n -Cabbage \n -Maize \n-Millet, \n -Potato \n -Rose \n -Sorghum \n -Tomato \n -Wheat \n -Garlic \n -Beans\n",
+                                                style: TextStyle(
+                                                    fontSize: 15.0,
+                                                    fontWeight:
+                                                        FontWeight.bold),
+                                              ),
+                                            )),
+                                      ],
+                                      onChanged: (_value) => {
+                                        print(_value.toString()),
+                                      },
+                                      hint: Text('Fertilizers'),
+                                    ))
                                   : Text(''),
                               temperature >= 15 && temperature < 20
-                                  ? Text(
-                                      ' -Avocado\n -Barley \n -Cabbage \n -Carrot\n -Earthpea \n -Grape \n -Lemon \n-Mandarin \n -Millet \n -Onion \n -Orange \n -Rose \n -Sunflower \n -Sorghum \n -Tea\n -Tomato \n -Wheat \n -Yam \n')
+                                  ? Center(
+                                      child: DropdownButton<String>(
+                                      items: [
+                                        DropdownMenuItem<String>(
+                                            value: '1',
+                                            child: Center(
+                                              child: Text(
+                                                " -Avocado\n -Barley \n -Cabbage \n -Carrot\n -Earthpea \n -Grape \n -Lemon \n-Mandarin \n -Millet \n -Onion \n -Orange \n -Rose \n -Sunflower \n -Sorghum \n -Tea\n -Tomato \n -Wheat \n -Yam \n",
+                                                style: TextStyle(
+                                                    fontSize: 15.0,
+                                                    fontWeight:
+                                                        FontWeight.bold),
+                                              ),
+                                            )),
+                                      ],
+                                      onChanged: (_value) => {
+                                        print(_value.toString()),
+                                      },
+                                      hint: Text('Fertilizers'),
+                                    ))
                                   : Text(''),
                               temperature >= 20 && temperature < 30
-                                  ? Text(
-                                      ' -Banana \n -Avocado \n -Carrot \n -Dates \n -Earthpea \n -Grape \n -Lemon \n-Mandarin \n -Millet \n -Onion \n -Orange \n -Oil Palm \n -Rose \n -Rice \n -Sunflower \n -Sorghum \n -Coconut\n -Tomato \n -Peanut \n -Teff \n -Coffee\n')
+                                  ? Center(
+                                      child: DropdownButton<String>(
+                                      items: [
+                                        DropdownMenuItem<String>(
+                                            value: '1',
+                                            child: Center(
+                                              child: Text(
+                                                " -Banana \n -Avocado \n -Carrot \n -Dates \n -Earthpea \n -Grape \n -Lemon \n-Mandarin \n -Millet \n -Onion \n -Orange \n -Oil Palm \n -Rose \n -Rice \n -Sunflower \n -Sorghum \n -Coconut\n -Tomato \n -Peanut \n -Teff \n -Coffee\n",
+                                                style: TextStyle(
+                                                    fontSize: 15.0,
+                                                    fontWeight:
+                                                        FontWeight.bold),
+                                              ),
+                                            )),
+                                      ],
+                                      onChanged: (_value) => {
+                                        print(_value.toString()),
+                                      },
+                                      hint: Text('Fertilizers'),
+                                    ))
                                   : Text(''),
                               temperature >= 30
-                                  ? Text(
-                                      '  -Dates  \n -Millet \n -Tomato \n -Rose \n -Yam \n -Coconut')
+                                  ? Center(
+                                      child: DropdownButton<String>(
+                                      items: [
+                                        DropdownMenuItem<String>(
+                                            value: '1',
+                                            child: Center(
+                                              child: Text(
+                                                " -Dates  \n -Millet \n -Tomato \n -Rose \n -Yam \n -Coconut",
+                                                style: TextStyle(
+                                                    fontSize: 15.0,
+                                                    fontWeight:
+                                                        FontWeight.bold),
+                                              ),
+                                            )),
+                                      ],
+                                      onChanged: (_value) => {
+                                        print(_value.toString()),
+                                      },
+                                      hint: Text('Fertilizers'),
+                                    ))
                                   : Text(''),
-                              Text(
-                                "Current weather is suitable for using PESTICIDES for: ",
-                                style: TextStyle(
-                                    fontSize: 18.0,
-                                    fontWeight: FontWeight.bold),
-                              ),
                               temperature >= 10 && temperature < 15
-                                  ? Text(
-                                      '  -Banana \n -Cabbage \n -Carrot \n -Dates \n -EarthPea \n -Wheat \n ')
+                                  ? Center(
+                                      child: DropdownButton<String>(
+                                      items: [
+                                        DropdownMenuItem<String>(
+                                            value: '1',
+                                            child: Center(
+                                              child: Text(
+                                                "-Banana \n -Cabbage \n -Carrot \n -Dates \n -EarthPea \n -Wheat \n ",
+                                                style: TextStyle(
+                                                    fontSize: 15.0,
+                                                    fontWeight:
+                                                        FontWeight.bold),
+                                              ),
+                                            )),
+                                      ],
+                                      onChanged: (_value) => {
+                                        print(_value.toString()),
+                                      },
+                                      hint: Text('Pesticides'),
+                                    ))
                                   : Text(''),
                               temperature >= 15 && temperature < 20
-                                  ? Text(
-                                      '  -Apple \n -Avocado \n -Banana \n -Barley \n -Cabbage \n -Carrot \n -EarthPea \n -Lemon \n -Maize \n -Mandarin \n -Mango \n -Mango \n -Onion \n -Orange \n -Rose \n -Sunflower \n -sorghum \n -Tea \n -Tomato \n -Wheat \n -Garlic \n-Wheat \n -Beans \n')
+                                  ? Center(
+                                      child: DropdownButton<String>(
+                                      items: [
+                                        DropdownMenuItem<String>(
+                                            value: '1',
+                                            child: Center(
+                                              child: Text(
+                                                " -Apple \n -Avocado \n -Banana \n -Barley \n -Cabbage \n -Carrot \n -EarthPea \n -Lemon \n -Maize \n -Mandarin \n -Mango \n -Mango \n -Onion \n -Orange \n -Rose \n -Sunflower \n -sorghum \n -Tea \n -Tomato \n -Wheat \n -Garlic \n-Wheat \n -Beans \n",
+                                                style: TextStyle(
+                                                    fontSize: 15.0,
+                                                    fontWeight:
+                                                        FontWeight.bold),
+                                              ),
+                                            )),
+                                      ],
+                                      onChanged: (_value) => {
+                                        print(_value.toString()),
+                                      },
+                                      hint: Text('Pesticides'),
+                                    ))
                                   : Text(''),
                               temperature >= 20 && temperature < 30
-                                  ? Text(
-                                      '  -Apple \n -Avocado \n -Banana \n -Barley \n -Carrot \n-Dates \n -EarthPea \n -Grapes \n-Lemon \n-Maize \n -Mandarin \n-Mango \n-Millet \n-Oil Palm \n-Onion \n-Orange \n-Rice \n-Rose \n-SunFlower \n-Sorghum \n-Tea \n-Tomato \n-Wheat \n-Yam \n-Peanut \n -Garlic \n-Coconut \n-Teff \n-Coffee \n-Beans  \n')
+                                  ? Center(
+                                      child: DropdownButton<String>(
+                                      items: [
+                                        DropdownMenuItem<String>(
+                                            value: '1',
+                                            child: Center(
+                                              child: Text(
+                                                " -Apple \n -Avocado \n -Banana \n -Barley \n -Carrot \n-Dates \n -EarthPea \n -Grapes \n-Lemon \n-Maize \n -Mandarin \n-Mango \n-Millet \n-Oil Palm \n-Onion \n-Orange \n-Rice \n-Rose \n-SunFlower \n-Sorghum \n-Tea \n-Tomato \n-Wheat \n-Yam \n-Peanut \n -Garlic \n-Coconut \n-Teff \n-Coffee \n-Beans  \n ",
+                                                style: TextStyle(
+                                                    fontSize: 15.0,
+                                                    fontWeight:
+                                                        FontWeight.bold),
+                                              ),
+                                            )),
+                                      ],
+                                      onChanged: (_value) => {
+                                        print(_value.toString()),
+                                      },
+                                      hint: Text('Pesticides'),
+                                    ))
                                   : Text(''),
                               temperature >= 30
-                                  ? Text(
-                                      '  -Banana \n -Cabbage \n-Carrot \n-Dates \n-Coconut \n  ')
+                                  ? Center(
+                                      child: DropdownButton<String>(
+                                      items: [
+                                        DropdownMenuItem<String>(
+                                            value: '1',
+                                            child: Center(
+                                              child: Text(
+                                                "  -Banana \n -Cabbage \n-Carrot \n-Dates \n-Coconut \n  ",
+                                                style: TextStyle(
+                                                    fontSize: 15.0,
+                                                    fontWeight:
+                                                        FontWeight.bold),
+                                              ),
+                                            )),
+                                      ],
+                                      onChanged: (_value) => {
+                                        print(_value.toString()),
+                                      },
+                                      hint: Text('Pesticides'),
+                                    ))
                                   : Text(''),
-                              Text(
-                                "Current weather is suitable for using HERBICIDES for: ",
-                                style: TextStyle(
-                                    fontSize: 18.0,
-                                    fontWeight: FontWeight.bold),
-                              ),
                               temperature >= 10 && temperature < 15
-                                  ? Text(
-                                      '  -Avocado \n-Banana \n-Cabbage \n-Carrot \n-Dates \n-Potato \n-Wheat  \n ')
+                                  ? Center(
+                                      child: DropdownButton<String>(
+                                      items: [
+                                        DropdownMenuItem<String>(
+                                            value: '1',
+                                            child: Center(
+                                              child: Text(
+                                                "   -Avocado \n-Banana \n-Cabbage \n-Carrot \n-Dates \n-Potato \n-Wheat  \n   ",
+                                                style: TextStyle(
+                                                    fontSize: 15.0,
+                                                    fontWeight:
+                                                        FontWeight.bold),
+                                              ),
+                                            )),
+                                      ],
+                                      onChanged: (_value) => {
+                                        print(_value.toString()),
+                                      },
+                                      hint: Text('Herbicides'),
+                                    ))
                                   : Text(''),
                               temperature >= 15 && temperature < 20
-                                  ? Text(
-                                      '  -Apple \n -Avocado \n -Banana \n -Barley \n -Cabbage \n -Carrot \n -Dates \n-Earth Pea\n -Lemon \n -Mandarin \n-Millet  \n -Onion \n -Orange \n -Rose \n -Sunflower\n -Tea \n -Tomato \n -Wheat \n -Garlic  \n -Beans \n')
+                                  ? Center(
+                                      child: DropdownButton<String>(
+                                      items: [
+                                        DropdownMenuItem<String>(
+                                            value: '1',
+                                            child: Center(
+                                              child: Text(
+                                                "    -Apple \n -Avocado \n -Banana \n -Barley \n -Cabbage \n -Carrot \n -Dates \n-Earth Pea\n -Lemon \n -Mandarin \n-Millet  \n -Onion \n -Orange \n -Rose \n -Sunflower\n -Tea \n -Tomato \n -Wheat \n -Garlic  \n -Beans \n   ",
+                                                style: TextStyle(
+                                                    fontSize: 15.0,
+                                                    fontWeight:
+                                                        FontWeight.bold),
+                                              ),
+                                            )),
+                                      ],
+                                      onChanged: (_value) => {
+                                        print(_value.toString()),
+                                      },
+                                      hint: Text('Herbicides'),
+                                    ))
                                   : Text(''),
                               temperature >= 20 && temperature < 30
-                                  ? Text(
-                                      '  -Apple \n -Avocado \n -Banana \n -Barley \n -Carrot \n-Cabbage \n-Dates \n -EarthPea \n -Grapes \n-Lemon \n-Maize \n -Mandarin \n-Mango \n-Millet \n-Oil Palm \n-Onion \n-Orange \n-Rice \n-Rose \n-SunFlower \n-Sorghum \n-Tea \n-Tomato \n-Wheat \n-Yam \n-Peanut \n -Garlic \n-Coconut \n-Teff \n-Coffee \n-Beans  \n')
+                                  ? Center(
+                                      child: DropdownButton<String>(
+                                      items: [
+                                        DropdownMenuItem<String>(
+                                            value: '1',
+                                            child: Center(
+                                              child: Text(
+                                                "  -Apple \n -Avocado \n -Banana \n -Barley \n -Carrot \n-Cabbage \n-Dates \n -EarthPea \n -Grapes \n-Lemon \n-Maize \n -Mandarin \n-Mango \n-Millet \n-Oil Palm \n-Onion \n-Orange \n-Rice \n-Rose \n-SunFlower \n-Sorghum \n-Tea \n-Tomato \n-Wheat \n-Yam \n-Peanut \n -Garlic \n-Coconut \n-Teff \n-Coffee \n-Beans  \n",
+                                                style: TextStyle(
+                                                    fontSize: 15.0,
+                                                    fontWeight:
+                                                        FontWeight.bold),
+                                              ),
+                                            )),
+                                      ],
+                                      onChanged: (_value) => {
+                                        print(_value.toString()),
+                                      },
+                                      hint: Text('Herbicides'),
+                                    ))
                                   : Text(''),
                               temperature >= 30
-                                  ? Text('  -Coconut \n  ')
+                                  ? Center(
+                                      child: DropdownButton<String>(
+                                      items: [
+                                        DropdownMenuItem<String>(
+                                            value: '1',
+                                            child: Center(
+                                              child: Text(
+                                                " -Coconut \n ",
+                                                style: TextStyle(
+                                                    fontSize: 15.0,
+                                                    fontWeight:
+                                                        FontWeight.bold),
+                                              ),
+                                            )),
+                                      ],
+                                      onChanged: (_value) => {
+                                        print(_value.toString()),
+                                      },
+                                      hint: Text('Herbicides'),
+                                    ))
                                   : Text(''),
-                              Text(
-                                "Current weather is suitable for SOWING : ",
-                                style: TextStyle(
-                                    fontSize: 18.0,
-                                    fontWeight: FontWeight.bold),
-                              ),
                               temperature >= 10 && temperature < 15
-                                  ? Text(
-                                      '  -Barley \n-Cabbage \n-Carrot \n -Earth Pea \n-Grapes \n-Maize \n-Onion \n-Potato \n-Sunflower \n-Garlic \n-Wheat  \n ')
+                                  ? Center(
+                                      child: DropdownButton<String>(
+                                      items: [
+                                        DropdownMenuItem<String>(
+                                            value: '1',
+                                            child: Center(
+                                              child: Text(
+                                                " -Barley \n-Cabbage \n-Carrot \n -Earth Pea \n-Grapes \n-Maize \n-Onion \n-Potato \n-Sunflower \n-Garlic \n-Wheat  \n",
+                                                style: TextStyle(
+                                                    fontSize: 15.0,
+                                                    fontWeight:
+                                                        FontWeight.bold),
+                                              ),
+                                            )),
+                                      ],
+                                      onChanged: (_value) => {
+                                        print(_value.toString()),
+                                      },
+                                      hint: Text('Sowing'),
+                                    ))
                                   : Text(''),
                               temperature >= 15 && temperature < 20
-                                  ? Text(
-                                      '  -Apple \n -Barley \n -Cabbage \n -Carrot\n-Earth Pea\n -Mandarin \n-Millet  \n -Onion \n -Potato \n -Rice \n -Sunflower\n -Garlic \n -Teff \n -Wheat   \n -Beans \n')
+                                  ? Center(
+                                      child: DropdownButton<String>(
+                                      items: [
+                                        DropdownMenuItem<String>(
+                                            value: '1',
+                                            child: Center(
+                                              child: Text(
+                                                "   -Apple \n -Barley \n -Cabbage \n -Carrot\n-Earth Pea\n -Mandarin \n-Millet  \n -Onion \n -Potato \n -Rice \n -Sunflower\n -Garlic \n -Teff \n -Wheat   \n -Beans \n",
+                                                style: TextStyle(
+                                                    fontSize: 15.0,
+                                                    fontWeight:
+                                                        FontWeight.bold),
+                                              ),
+                                            )),
+                                      ],
+                                      onChanged: (_value) => {
+                                        print(_value.toString()),
+                                      },
+                                      hint: Text('Sowing'),
+                                    ))
                                   : Text(''),
                               temperature >= 20 && temperature < 30
-                                  ? Text(
-                                      '   -Avocado \n -Banana  \n -Carrot \n-Cabbage  \n -EarthPea \n-Lemon \n -Mandarin \n-Mango \n-Millet \n-Oil Palm \n-Onion \n-Orange \n-Potato \n-Rose \n-SunFlower \n-Sorghum \n-Tea \n-Tomato  \n-Yam \n-Peanut  \n-Coconut \n-Teff \n-Coffee \n-Beans  \n')
+                                  ? Center(
+                                      child: DropdownButton<String>(
+                                      items: [
+                                        DropdownMenuItem<String>(
+                                            value: '1',
+                                            child: Center(
+                                              child: Text(
+                                                "  -Avocado \n -Banana  \n -Carrot \n-Cabbage  \n -EarthPea \n-Lemon \n -Mandarin \n-Mango \n-Millet \n-Oil Palm \n-Onion \n-Orange \n-Potato \n-Rose \n-SunFlower \n-Sorghum \n-Tea \n-Tomato  \n-Yam \n-Peanut  \n-Coconut \n-Teff \n-Coffee \n-Beans  \n ",
+                                                style: TextStyle(
+                                                    fontSize: 15.0,
+                                                    fontWeight:
+                                                        FontWeight.bold),
+                                              ),
+                                            )),
+                                      ],
+                                      onChanged: (_value) => {
+                                        print(_value.toString()),
+                                      },
+                                      hint: Text('Sowing'),
+                                    ))
                                   : Text(''),
                               temperature >= 30
-                                  ? Text(
-                                      '  -Dates \n -OilPalm \n-Yam \n-Coconut  ')
+                                  ? Center(
+                                      child: DropdownButton<String>(
+                                      items: [
+                                        DropdownMenuItem<String>(
+                                            value: '1',
+                                            child: Center(
+                                              child: Text(
+                                                " -Dates \n -OilPalm \n-Yam \n-Coconut ",
+                                                style: TextStyle(
+                                                    fontSize: 15.0,
+                                                    fontWeight:
+                                                        FontWeight.bold),
+                                              ),
+                                            )),
+                                      ],
+                                      onChanged: (_value) => {
+                                        print(_value.toString()),
+                                      },
+                                      hint: Text('Sowing'),
+                                    ))
                                   : Text(''),
-                              Text(
-                                "Current weather is suitable for PLOTTING LAND FOR : ",
-                                style: TextStyle(
-                                    fontSize: 18.0,
-                                    fontWeight: FontWeight.bold),
-                              ),
                               temperature >= 10 && temperature < 15
-                                  ? Text(
-                                      '  -Apple \n-Banana \n-Barley \n-Cabbage \n-Dates \n -Earth Pea \n-Grapes \n-Mandarin\n-Millet \n-Onion \n-Potato \n-Sunflower \n-Garlic  \n-Tomato \n-Wheat \n-Teff  \n ')
+                                  ? Center(
+                                      child: DropdownButton<String>(
+                                      items: [
+                                        DropdownMenuItem<String>(
+                                            value: '1',
+                                            child: Center(
+                                              child: Text(
+                                                "  -Apple \n-Banana \n-Barley \n-Cabbage \n-Dates \n -Earth Pea \n-Grapes \n-Mandarin\n-Millet \n-Onion \n-Potato \n-Sunflower \n-Garlic  \n-Tomato \n-Wheat \n-Teff  \n ",
+                                                style: TextStyle(
+                                                    fontSize: 15.0,
+                                                    fontWeight:
+                                                        FontWeight.bold),
+                                              ),
+                                            )),
+                                      ],
+                                      onChanged: (_value) => {
+                                        print(_value.toString()),
+                                      },
+                                      hint: Text('Plotting'),
+                                    ))
                                   : Text(''),
                               temperature >= 15 && temperature < 20
-                                  ? Text(
-                                      '  -Banana \n -Barley \n -Dates \n -Carrot\n-Earth Pea\n -Lemon \n-Maize \n-Mandarin \n-Millet  \n -Orange \n -Potato \n -Rose \n -Sunflower\n -Sorghum \n -Tea \n -Wheat   \n -Peanut \n-Teff \n-Garlic \n-Beans \n')
+                                  ? Center(
+                                      child: DropdownButton<String>(
+                                      items: [
+                                        DropdownMenuItem<String>(
+                                            value: '1',
+                                            child: Center(
+                                              child: Text(
+                                                "  -Banana \n -Barley \n -Dates \n -Carrot\n-Earth Pea\n -Lemon \n-Maize \n-Mandarin \n-Millet  \n -Orange \n -Potato \n -Rose \n -Sunflower\n -Sorghum \n -Tea \n -Wheat   \n -Peanut \n-Teff \n-Garlic \n-Beans \n ",
+                                                style: TextStyle(
+                                                    fontSize: 15.0,
+                                                    fontWeight:
+                                                        FontWeight.bold),
+                                              ),
+                                            )),
+                                      ],
+                                      onChanged: (_value) => {
+                                        print(_value.toString()),
+                                      },
+                                      hint: Text('Plotting'),
+                                    ))
                                   : Text(''),
                               temperature >= 20 && temperature < 30
-                                  ? Text(
-                                      '   -Avocado \n -Barley  \n -Carrot \n- Maize  \n -EarthPea \n-Lemon \n -Mandarin \n-Mango \n-Millet \n-Oil Palm \n-Orange \n-Rice  \n-Sorghum \n-Tea   \n-Yam \n-Peanut  \n-Coconut \n-Teff \n-Coffee \n-Beans  \n')
+                                  ? Center(
+                                      child: DropdownButton<String>(
+                                      items: [
+                                        DropdownMenuItem<String>(
+                                            value: '1',
+                                            child: Center(
+                                              child: Text(
+                                                " -Avocado \n -Barley  \n -Carrot \n- Maize  \n -EarthPea \n-Lemon \n -Mandarin \n-Mango \n-Millet \n-Oil Palm \n-Orange \n-Rice  \n-Sorghum \n-Tea   \n-Yam \n-Peanut  \n-Coconut \n-Teff \n-Coffee \n-Beans  \n ",
+                                                style: TextStyle(
+                                                    fontSize: 15.0,
+                                                    fontWeight:
+                                                        FontWeight.bold),
+                                              ),
+                                            )),
+                                      ],
+                                      onChanged: (_value) => {
+                                        print(_value.toString()),
+                                      },
+                                      hint: Text('Plotting'),
+                                    ))
                                   : Text(''),
                               temperature >= 30
-                                  ? Text(
-                                      '  -Dates \n -Barley\n-EarthPea\n-OilPalm\n-Millet\n-Sorghum\n-Peanut \n-Beans  \n-Coconut  ')
+                                  ? Center(
+                                      child: DropdownButton<String>(
+                                      items: [
+                                        DropdownMenuItem<String>(
+                                            value: '1',
+                                            child: Center(
+                                              child: Text(
+                                                " -Dates \n -Barley\n-EarthPea\n-OilPalm\n-Millet\n-Sorghum\n-Peanut \n-Beans  \n-Coconut ",
+                                                style: TextStyle(
+                                                    fontSize: 15.0,
+                                                    fontWeight:
+                                                        FontWeight.bold),
+                                              ),
+                                            )),
+                                      ],
+                                      onChanged: (_value) => {
+                                        print(_value.toString()),
+                                      },
+                                      hint: Text('Plotting'),
+                                    ))
                                   : Text(''),
                               const SizedBox(
                                 height: 400,

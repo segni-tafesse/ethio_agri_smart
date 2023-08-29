@@ -16,7 +16,10 @@ class _PlantDiseaseIdentifierAppState extends State<PlantDiseaseIdentifierApp> {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-        appBar: AppBar(title: Text('Artificial intellignece')),
+        appBar: AppBar(
+          title: Text('Artificial intellignece'),
+          centerTitle: true,
+        ),
         body: Center(
           child: SingleChildScrollView(
             child: Column(
@@ -41,7 +44,7 @@ class _PlantDiseaseIdentifierAppState extends State<PlantDiseaseIdentifierApp> {
                 const SizedBox(height: 20),
                 selectedImage != null
                     ? SingleChildScrollView(child: Image.file(selectedImage!))
-                    : Text("please select and image")
+                    : Text("Please select an Image")
               ],
             ),
           ),

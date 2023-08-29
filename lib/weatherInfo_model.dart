@@ -65,15 +65,17 @@ class HumidityInfo {
     return HumidityInfo(humidity: humidity);
   }
 }
-// String HumidityInfoGetter() {
-//   return humidity.toString();
-// }
+
+String HumidityInfoGetter() {
+  var humidity;
+  return humidity.toString();
+}
 */
 class WeatherResponse {
   final String? cityName;
   final TemperatureInfo? tempInfo;
   //final PressureInfo? pressureInfo;
-  // final HumidityInfo? humidityInfo;
+  //final HumidityInfo? humidityInfo;
   final WeatherInfo? weatherInfo;
   final String? iconUrl;
 
@@ -82,7 +84,7 @@ class WeatherResponse {
     this.tempInfo,
     this.weatherInfo,
     this.iconUrl,
-    //  this.humidityInfo,
+    //this.humidityInfo,
     //  this.pressureInfo
   });
 
