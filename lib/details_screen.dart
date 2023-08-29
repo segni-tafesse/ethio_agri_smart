@@ -27,16 +27,45 @@ class DetailsScreen extends StatelessWidget {
             Image(
               image: AssetImage('images/apple.jpg'),
             ),
-            Center(
-              child: Text(
-                " NAMES: \n \n 1,Scientific/Botanical name : Malus sylvestris \n  2,Common name:Apple \n  \n CHARACTERISTICS OF APPLE  \n \n Plant type: Rose family(Rosaceae) \n \n Mature Size:7 to 8.5 cm \n \n Sun Exposure: full sun  \n \n Soil type :well-drained, loam soil . \n \n Soil Ph:  5.8-7.0 \n \n Bloom time: early spring to late summer. \n \n Color: Red, green and yellow \n \n Hardiness Zones: 3 to 5 or 5 to 8 \n \n .Native Area: Kazakhstan, in central Asia east of the Caspian sea. \n \n Toxicity: Apple flesh and peel are very healthful and pose no risk. Yet seeds release small amounts of Cyanide, which is highly toxic.\n",
-                style: TextStyle(fontSize: 15.0, fontWeight: FontWeight.bold),
-              ),
+            Divider(
+              height: 20,
             ),
             Center(
-              child: Text(
-                  "HOW TO GROW APPLES? \n  1.  Choosing the Right Variety: Start by selecting an apple variety suitable for your climate zone. Consider factors such as taste, texture, and whether you prefer dessert apples or cooking apples. \n 2.  Planting Location: Apple trees need a sunny location with well-drained soil. The soil should have a slightly acidic to neutral pH. Test the soil and make amendments if necessary before planting. \n 3.  Planting Process: Dig a hole that is wide and deep enough to accommodate the tree's roots. Place the tree in the hole and spread out the roots carefully. Backfill the hole with soil, firming it gently around the roots. Ensure that the graft union (the swollen area where the cultivar is grafted onto the rootstock) is above the soil level. \n 4.  Watering and Mulching: Water the newly planted tree thoroughly and regularly during the first growing season. Mulching around the base of the tree with organic material like wood chips or straw helps retain moisture, suppress weeds, and regulate soil temperature. \n 5.  Pruning and Training: Pruning is important for managing the shape, size, and productivity of the tree. Prune during the dormant season, removing dead, damaged, or crossing branches. \n 6.  Fertilizing: Apple trees benefit from regular fertilization. Apply a balanced fertilizer in early spring and late fall, following the instructions on the product packaging. \n 7.  Pest and Disease Management: Monitor your apple tree for common pests like aphids, codling moths, or apple maggots, and implement appropriate control measures if necessary. Organic approaches like maintaining good tree hygiene, promoting biodiversity, and using biological controls are often preferred. \n 8.  Harvesting: Apples typically ripen in late summer or fall, depending on the variety. Harvest the fruit when it reaches its proper maturity stage by gently twisting it or lifting and testing for easy separation.\n"),
-            ),
+                child: DropdownButton<String>(
+              items: [
+                DropdownMenuItem<String>(
+                    value: '5',
+                    child: Center(
+                      child: Text(
+                        " NAMES: \n \n 1,Scientific/Botanical name : Malus sylvestris \n ",
+                        style: TextStyle(
+                            fontSize: 15.0, fontWeight: FontWeight.bold),
+                      ),
+                    )),
+              ],
+              onChanged: (_value) => {
+                print(_value.toString()),
+              },
+              hint: Text('Names'),
+            )),
+            Center(
+                child: DropdownButton<String>(
+              items: [
+                DropdownMenuItem<String>(
+                    value: '5',
+                    child: Center(
+                      child: Text(
+                        " HOW TO GROW APPLES? \n  1.  Choosing the Right Variety: Start by selecting an apple variety suitable for your climate zone. Consider factors such as taste, texture, and whether you prefer dessert apples or cooking apples. \n 2.  Planting Location: Apple trees need a sunny location with well-drained soil. The soil should have a slightly acidic to neutral pH. Test the soil and make amendments if necessary before planting. \n 3.  Planting Process: Dig a hole that is wide and deep enough to accommodate the tree's roots. Place the tree in the hole and spread out the roots carefully. Backfill the hole with soil, firming it gently around the roots. Ensure that the graft union (the swollen area where the cultivar is grafted onto the rootstock) is above the soil level. \n 4.  Watering and Mulching: Water the newly planted tree thoroughly and regularly during the first growing season. Mulching around the base of the tree with organic material like wood chips or straw helps retain moisture, suppress weeds, and regulate soil temperature. \n 5.  Pruning and Training: Pruning is important for managing the shape, size, and productivity of the tree. Prune during the dormant season, removing dead, damaged, or crossing branches. \n 6.  Fertilizing: Apple trees benefit from regular fertilization. Apply a balanced fertilizer in early spring and late fall, following the instructions on the product packaging. \n 7.  Pest and Disease Management: Monitor your apple tree for common pests like aphids, codling moths, or apple maggots, and implement appropriate control measures if necessary. Organic approaches like maintaining good tree hygiene, promoting biodiversity, and using biological controls are often preferred. \n 8.  Harvesting: Apples typically ripen in late summer or fall, depending on the variety. Harvest the fruit when it reaches its proper maturity stage by gently twisting it or lifting and testing for easy separation.\n ",
+                        style: TextStyle(
+                            fontSize: 15.0, fontWeight: FontWeight.bold),
+                      ),
+                    )),
+              ],
+              onChanged: (_value) => {
+                print(_value.toString()),
+              },
+              hint: Text('How to Grow'),
+            )),
             Center(
               child: Text(
                   "Light \n \n Apple trees need full sun to grow properly and produce fruit. This level of exposure means the tree will see at least six to eight hours of direct sunlight each day. Anything less than this will result in poor fruit yields or a lack of fruit entirely. \n Soil \n Apples grow best on a well-drained, loam soils having a depth of 45 cm and a pH range of pH 5.5-6.5. The soil should be free from hard substrata and water-logged conditions. Soils with heavy clay or compact subsoil are to be avoided.\n Water \n Apple tree water requirements depend on rainfall. In general, for an established tree, you won't need to water it unless you are not getting much rain or there is a particularly dry spell or even drought. About an inch (2.5 cm.) or so of rainfall every week to ten days is adequate for most apple trees.\n "),
