@@ -131,7 +131,7 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
                 onPressed: () {
                   Navigator.push(context, MaterialPageRoute(
                     builder: (context) {
-                      return ImagePickerScreen();
+                      return Home();
                     },
                   ));
                 },

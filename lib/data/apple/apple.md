@@ -1,0 +1,21 @@
+<h1>CHARACTERISTICS OF APPLE</h1>
+
+Plant type: Rose family(Rosaceae)
+
+Mature Size:7 to 8.5 cm 
+
+Sun Exposure: full sun
+
+Soil type :well-drained, loam soil .
+
+Soil Ph:  5.8-7.0
+
+Bloom time: early spring to late summer.
+
+Color: Red, green and yellow
+
+Hardiness Zones: 3 to 5 or 5 to 8.
+
+Native Area: Kazakhstan, in central Asia east of the Caspian sea.
+
+Toxicity: Apple flesh and peel are very healthful and pose no risk. Yet seeds release small amounts of Cyanide, which is highly toxic.

@@ -1,59 +1,72 @@
-import 'dart:io';
 import 'package:flutter/material.dart';
-import 'package:image_picker/image_picker.dart';
 
-class ImagePickerScreen extends StatefulWidget {
-  @override
-  _ImagePickerScreenState createState() => _ImagePickerScreenState();
+void main() {
+  runApp(const MaterialApp(
+    home: Home(),
+  ));
 }
 
-class _ImagePickerScreenState extends State<ImagePickerScreen> {
-  //late File _image;
+class Home extends StatefulWidget {
+  const Home({super.key});
 
-  Future _getImage(ImageSource source) async {
-    final pickedImage = await ImagePicker().pickImage(source: source);
+  @override
+  State<Home> createState() => _HomeState();
+}
 
-    setState(() {
-      if (pickedImage != null) {
-        //_image = File(pickedImage.path);
-      }
-    });
-  }
-
+class _HomeState extends State<Home> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Image Picker'),
+        title: Text('capturing image'),
+        centerTitle: true,
       ),
-      body: Center(
+      body: Padding(
+        padding: const EdgeInsets.all(12.0),
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            // _image != null
-            //     ? Image.file(
-            //         _image,
-            //         height: 200,
-            //       )
-            //     :
-            Icon(
-              Icons.image,
-              size: 100,
+            Container(
+              width: 640,
+              height: 480,
+              alignment: Alignment.center,
+              decoration: BoxDecoration(
+                color: Colors.grey,
+                border: Border.all(width: 8, color: Colors.black),
+                borderRadius: BorderRadius.circular(12),
+              ),
+              child: const Text(
+                'image should appear here',
+                style: TextStyle(fontSize: 26),
+              ),
             ),
-            SizedBox(height: 16.0),
-            RaisedButton(
-              onPressed: () => _getImage(ImageSource.gallery),
-              child: Text('Pick Image from Gallery'),
+            const SizedBox(
+              height: 20,
             ),
-            RaisedButton(
-              onPressed: () => _getImage(ImageSource.camera),
-              child: Text('Take a Photo'),
+            Row(
+              children: [
+                Expanded(
+                  child: ElevatedButton(
+                    onPressed: () {},
+                    child: const Text('capture image',
+                        style: TextStyle(fontSize: 10)),
+                  ),
+                ),
+                const SizedBox(
+                  width: 20,
+                ),
+                Expanded(
+                  child: ElevatedButton(
+                    onPressed: () {},
+                    child: const Text('select image',
+                        style: TextStyle(fontSize: 10)),
+                  ),
+                )
+              ],
             ),
           ],
         ),
       ),
     );
   }
-
-  RaisedButton({required Future Function() onPressed, required Text child}) {}
 }
