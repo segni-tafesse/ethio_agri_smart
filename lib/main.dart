@@ -1,5 +1,5 @@
 // ignore_for_file: use_build_context_synchronously
-
+import 'package:ethio_agri_smart/AI_camera.dart';
 import 'package:ethio_agri_smart/color.dart';
 import 'package:ethio_agri_smart/weatherInfo_model.dart';
 import 'package:ethio_agri_smart/weather_screen.dart';
@@ -49,16 +49,6 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
             ),
           ),
           centerTitle: true,
-          // leading: IconButton(
-          //   icon: Icon(Icons.menu),
-          //   onPressed: () {
-          //     Navigator.push(context, MaterialPageRoute(
-          //       builder: (context) {
-          //         return Mydrawer();
-          //       },
-          //     ));
-          //   },
-          // ),
           actions: [
             IconButton(
               icon: Icon(Icons.share),
@@ -94,7 +84,7 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
                 text: 'Home',
               ),
               Tab(
-                icon: Icon(Icons.camera),
+                icon: Icon(Icons.camera_alt),
                 text: 'Camera',
               ),
               Tab(
@@ -102,8 +92,8 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
                 text: 'Weather',
               ),
               Tab(
-                icon: Icon(Icons.person),
-                text: 'community',
+                icon: Icon(Icons.calculate),
+                text: 'Fertlizer calculator',
               ),
             ],
           ),
@@ -135,6 +125,17 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
                   ));
                 },
                 child: Text('WeatherFlora'),
+              ),
+              ElevatedButton(
+                style: buttonprimary,
+                onPressed: () {
+                  Navigator.push(context, MaterialPageRoute(
+                    builder: (context) {
+                      return ImagePickerScreen();
+                    },
+                  ));
+                },
+                child: Text('Artificial Intelligence'),
               ),
             ],
           ),

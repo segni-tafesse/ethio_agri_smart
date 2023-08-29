@@ -18,6 +18,8 @@ class _WeatherInterfaceState extends State<WeatherInterface> {
   late String sityName = '';
   late String iconUrl = '';
   late int temperature = 0;
+  late String pressure = '';
+  late String humidity = '';
   late bool searching = false;
   late String description = '';
   late bool wrong = false;
@@ -57,7 +59,27 @@ class _WeatherInterfaceState extends State<WeatherInterface> {
                                     '${temperature.toString()}°',
                                     style: const TextStyle(fontSize: 40),
                                   ),
-                                  Text(description)
+                                  Text(description),
+                                  temperature != 0
+                                      ? Text(
+                                          'Additional Information',
+                                          style: TextStyle(
+                                              fontSize: 20,
+                                              fontWeight: FontWeight.bold),
+                                        )
+                                      : Text(''),
+                                  temperature != 0
+                                      ? Text(
+                                          'pressure:           ${pressure.toString()}1010',
+                                          style: const TextStyle(fontSize: 20),
+                                        )
+                                      : Text(''),
+                                  temperature != 0
+                                      ? Text(
+                                          'humidity:           ${humidity.toString()}23',
+                                          style: const TextStyle(fontSize: 20),
+                                        )
+                                      : Text(''),
                                 ],
                               ),
                     Padding(
@@ -78,6 +100,10 @@ class _WeatherInterfaceState extends State<WeatherInterface> {
                     temperature != 0
                         ? Column(
                             children: [
+                              Divider(),
+                              SizedBox(
+                                height: 24,
+                              ),
                               Text(
                                 "Current weather is suitable for using FERTILIZERS for: ",
                                 style: TextStyle(

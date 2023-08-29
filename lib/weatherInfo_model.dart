@@ -43,14 +43,48 @@ class TemperatureInfo {
   }
 }
 
+/*class PressureInfo {
+  final double? pressure;
+  PressureInfo({this.pressure});
+
+  factory PressureInfo.fromJson(Map<String, dynamic> json) {
+    final temperature = json['pressure'].toDouble();
+    return PressureInfo(pressure: temperature);
+  }
+  String PressureInfoGetter() {
+    return pressure.toString();
+  }
+}
+
+class HumidityInfo {
+  final double? humidity;
+  HumidityInfo({this.humidity});
+
+  factory HumidityInfo.fromJson(Map<String, dynamic> json) {
+    final humidity = json['humidity'].toDouble();
+    return HumidityInfo(humidity: humidity);
+  }
+}
+// String HumidityInfoGetter() {
+//   return humidity.toString();
+// }
+*/
 class WeatherResponse {
   final String? cityName;
   final TemperatureInfo? tempInfo;
+  //final PressureInfo? pressureInfo;
+  // final HumidityInfo? humidityInfo;
   final WeatherInfo? weatherInfo;
   final String? iconUrl;
 
-  WeatherResponse(
-      {this.cityName, this.tempInfo, this.weatherInfo, this.iconUrl});
+  WeatherResponse({
+    this.cityName,
+    this.tempInfo,
+    this.weatherInfo,
+    this.iconUrl,
+    //  this.humidityInfo,
+    //  this.pressureInfo
+  });
 
   factory WeatherResponse.fromJson(Map<String, dynamic> json) {
     final cityName = json['name'];
@@ -58,12 +92,17 @@ class WeatherResponse {
     final weatherInfoJson = json['weather'][0];
     final weatherInfo = WeatherInfo.fromJson(weatherInfoJson);
     final tempInfo = TemperatureInfo.fromJson(tempInfoJson);
+    // final PressureInfo =PressureInfo.fromJson(json);
+    // final humidityInfo = HumidityInfo.fromJson(json);
     final iconUrl =
         'http://openweathermap.org/img/wn/${weatherInfo.icon}@2x.png';
     return WeatherResponse(
-        cityName: cityName,
-        tempInfo: tempInfo,
-        weatherInfo: weatherInfo,
-        iconUrl: iconUrl);
+      cityName: cityName,
+      tempInfo: tempInfo,
+      weatherInfo: weatherInfo,
+      //  pressureInfo: pressureInfo,
+      // humidityInfo: humidityInfo,
+      iconUrl: iconUrl,
+    );
   }
 }
