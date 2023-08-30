@@ -3,13 +3,14 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 
-class PlantDiseaseIdentifierApp extends StatefulWidget {
+class PlantDiseaseIdentifierApp1 extends StatefulWidget {
   @override
-  State<PlantDiseaseIdentifierApp> createState() =>
+  State<PlantDiseaseIdentifierApp1> createState() =>
       _PlantDiseaseIdentifierAppState();
 }
 
-class _PlantDiseaseIdentifierAppState extends State<PlantDiseaseIdentifierApp> {
+class _PlantDiseaseIdentifierAppState
+    extends State<PlantDiseaseIdentifierApp1> {
   File? selectedImage;
 
   @override

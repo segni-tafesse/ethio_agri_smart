@@ -1,5 +1,6 @@
 // ignore_for_file: use_build_context_synchronously
 import 'package:ethio_agri_smart/artificial.dart';
+import 'package:ethio_agri_smart/camera.dart';
 import 'package:ethio_agri_smart/color.dart';
 import 'package:ethio_agri_smart/fer_car.dart';
 import 'package:ethio_agri_smart/weatherInfo_model.dart';
@@ -60,7 +61,7 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
                 onPressed: () {
                   Navigator.push(context, MaterialPageRoute(
                     builder: (context) {
-                      return WeatherInterface();
+                      return PlantDiseaseIdentifierApp();
                     },
                   ));
                 }),

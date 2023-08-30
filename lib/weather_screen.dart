@@ -105,7 +105,7 @@ class _WeatherInterfaceState extends State<WeatherInterface> {
                                 height: 24,
                               ),
                               Text(
-                                "Current weather is suitable for using FERTILIZERS for: ",
+                                "Current weather is suitable for using : ",
                                 style: TextStyle(
                                     fontSize: 18.0,
                                     fontWeight: FontWeight.bold),
@@ -130,6 +130,7 @@ class _WeatherInterfaceState extends State<WeatherInterface> {
                                         print(_value.toString()),
                                       },
                                       hint: Text('Fertilizers'),
+                                      isExpanded: true,
                                     ))
                                   : Text(''),
                               temperature >= 15 && temperature < 20
@@ -152,6 +153,7 @@ class _WeatherInterfaceState extends State<WeatherInterface> {
                                         print(_value.toString()),
                                       },
                                       hint: Text('Fertilizers'),
+                                      isExpanded: true,
                                     ))
                                   : Text(''),
                               temperature >= 20 && temperature < 30
@@ -174,6 +176,7 @@ class _WeatherInterfaceState extends State<WeatherInterface> {
                                         print(_value.toString()),
                                       },
                                       hint: Text('Fertilizers'),
+                                      isExpanded: true,
                                     ))
                                   : Text(''),
                               temperature >= 30
@@ -196,6 +199,7 @@ class _WeatherInterfaceState extends State<WeatherInterface> {
                                         print(_value.toString()),
                                       },
                                       hint: Text('Fertilizers'),
+                                      isExpanded: true,
                                     ))
                                   : Text(''),
                               temperature >= 10 && temperature < 15
@@ -218,6 +222,7 @@ class _WeatherInterfaceState extends State<WeatherInterface> {
                                         print(_value.toString()),
                                       },
                                       hint: Text('Pesticides'),
+                                      isExpanded: true,
                                     ))
                                   : Text(''),
                               temperature >= 15 && temperature < 20
@@ -240,6 +245,7 @@ class _WeatherInterfaceState extends State<WeatherInterface> {
                                         print(_value.toString()),
                                       },
                                       hint: Text('Pesticides'),
+                                      isExpanded: true,
                                     ))
                                   : Text(''),
                               temperature >= 20 && temperature < 30
@@ -262,6 +268,7 @@ class _WeatherInterfaceState extends State<WeatherInterface> {
                                         print(_value.toString()),
                                       },
                                       hint: Text('Pesticides'),
+                                      isExpanded: true,
                                     ))
                                   : Text(''),
                               temperature >= 30
@@ -284,6 +291,7 @@ class _WeatherInterfaceState extends State<WeatherInterface> {
                                         print(_value.toString()),
                                       },
                                       hint: Text('Pesticides'),
+                                      isExpanded: true,
                                     ))
                                   : Text(''),
                               temperature >= 10 && temperature < 15
@@ -306,6 +314,7 @@ class _WeatherInterfaceState extends State<WeatherInterface> {
                                         print(_value.toString()),
                                       },
                                       hint: Text('Herbicides'),
+                                      isExpanded: true,
                                     ))
                                   : Text(''),
                               temperature >= 15 && temperature < 20
@@ -328,6 +337,7 @@ class _WeatherInterfaceState extends State<WeatherInterface> {
                                         print(_value.toString()),
                                       },
                                       hint: Text('Herbicides'),
+                                      isExpanded: true,
                                     ))
                                   : Text(''),
                               temperature >= 20 && temperature < 30
@@ -350,6 +360,7 @@ class _WeatherInterfaceState extends State<WeatherInterface> {
                                         print(_value.toString()),
                                       },
                                       hint: Text('Herbicides'),
+                                      isExpanded: true,
                                     ))
                                   : Text(''),
                               temperature >= 30
@@ -372,6 +383,7 @@ class _WeatherInterfaceState extends State<WeatherInterface> {
                                         print(_value.toString()),
                                       },
                                       hint: Text('Herbicides'),
+                                      isExpanded: true,
                                     ))
                                   : Text(''),
                               temperature >= 10 && temperature < 15
@@ -394,6 +406,7 @@ class _WeatherInterfaceState extends State<WeatherInterface> {
                                         print(_value.toString()),
                                       },
                                       hint: Text('Sowing'),
+                                      isExpanded: true,
                                     ))
                                   : Text(''),
                               temperature >= 15 && temperature < 20
@@ -416,6 +429,7 @@ class _WeatherInterfaceState extends State<WeatherInterface> {
                                         print(_value.toString()),
                                       },
                                       hint: Text('Sowing'),
+                                      isExpanded: true,
                                     ))
                                   : Text(''),
                               temperature >= 20 && temperature < 30
@@ -438,6 +452,7 @@ class _WeatherInterfaceState extends State<WeatherInterface> {
                                         print(_value.toString()),
                                       },
                                       hint: Text('Sowing'),
+                                      isExpanded: true,
                                     ))
                                   : Text(''),
                               temperature >= 30
@@ -460,6 +475,7 @@ class _WeatherInterfaceState extends State<WeatherInterface> {
                                         print(_value.toString()),
                                       },
                                       hint: Text('Sowing'),
+                                      isExpanded: true,
                                     ))
                                   : Text(''),
                               temperature >= 10 && temperature < 15
@@ -482,6 +498,7 @@ class _WeatherInterfaceState extends State<WeatherInterface> {
                                         print(_value.toString()),
                                       },
                                       hint: Text('Plotting'),
+                                      isExpanded: true,
                                     ))
                                   : Text(''),
                               temperature >= 15 && temperature < 20
@@ -504,6 +521,7 @@ class _WeatherInterfaceState extends State<WeatherInterface> {
                                         print(_value.toString()),
                                       },
                                       hint: Text('Plotting'),
+                                      isExpanded: true,
                                     ))
                                   : Text(''),
                               temperature >= 20 && temperature < 30
@@ -526,6 +544,7 @@ class _WeatherInterfaceState extends State<WeatherInterface> {
                                         print(_value.toString()),
                                       },
                                       hint: Text('Plotting'),
+                                      isExpanded: true,
                                     ))
                                   : Text(''),
                               temperature >= 30
@@ -548,6 +567,7 @@ class _WeatherInterfaceState extends State<WeatherInterface> {
                                         print(_value.toString()),
                                       },
                                       hint: Text('Plotting'),
+                                      isExpanded: true,
                                     ))
                                   : Text(''),
                               const SizedBox(
