@@ -26,57 +26,56 @@ class _PlantDiseaseIdentifierAppState extends State<PlantDiseaseIdentifierApp> {
       });
 
       // _identifyPlantDisease();
-      _identifyPlantDisease();
     }
   }
 
-  Future<void> _identifyPlantDisease() async {
-    const apiKey = 'WQJsul6jVNFhcjA4CFEHsImbzaWQLR99icaZght2ra1EL67186';
-    print('identifying!');
-    if (_image != null) {
-      final url = Uri.parse('https://api.plant.id/v3/identify');
+  // Future<void> _identifyPlantDisease() async {
+  //   const apiKey = 'WQJsul6jVNFhcjA4CFEHsImbzaWQLR99icaZght2ra1EL67186';
+  //   print('identifying!');
+  //   if (_image != null) {
+  //     final url = Uri.parse('https://api.plant.id/v3/identify');
 
-      // final response = await http.post(
-      //   url,
-      //   headers: {
-      //     'Content-Type': 'application/json',
-      //     'Api-Key': apiKey,
-      //   },
-      //   body: json.encode({
-      //     'organs': ['leaf'],
-      //     'images': [_image!.path],
-      //   }),
-      // );
-      final response = await http.post(
-        url,
-        headers: {
-          'Content-Type': 'multipart/form-data',
-          'Api-Key': apiKey,
-        },
-        body: json.encode({
-          'organs': ['leaf'],
-          'images': [
-            'https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Hibiscus_Bacterial_leaf_spot_caused_by_Pseudomonas_cichorii_%285684575818%29.jpg'
-          ],
-        }),
-      );
+  //     // final response = await http.post(
+  //     //   url,
+  //     //   headers: {
+  //     //     'Content-Type': 'application/json',
+  //     //     'Api-Key': apiKey,
+  //     //   },
+  //     //   body: json.encode({
+  //     //     'organs': ['leaf'],
+  //     //     'images': [_image!.path],
+  //     //   }),
+  //     // );
+  //     final response = await http.post(
+  //       url,
+  //       headers: {
+  //         'Content-Type': 'multipart/form-data',
+  //         'Api-Key': apiKey,
+  //       },
+  //       body: json.encode({
+  //         'organs': ['leaf'],
+  //         'images': [
+  //           'https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Hibiscus_Bacterial_leaf_spot_caused_by_Pseudomonas_cichorii_%285684575818%29.jpg/220px-Hibiscus_Bacterial_leaf_spot_caused_by_Pseudomonas_cichorii_%285684575818%29.jpg'
+  //         ],
+  //       }),
+  //     );
 
-      if (response.statusCode == 200) {
-        final data = await json.decode(response.body);
+  //     if (response.statusCode == 200) {
+  //       final data = await json.decode(response.body);
 
-        setState(() {
-          _disease = data['suggestions'][0]['plant_diseases'][0]['name'];
-          _type = data['suggestions'][0]['plant']['name'];
-        });
-        print("the disease:$_disease");
-      } else {
-        setState(() {
-          _disease = 'Error';
-          _type = 'Error';
-        });
-      }
-    }
-  }
+  //       setState(() {
+  //         _disease = data['suggestions'][0]['plant_diseases'][0]['name'];
+  //         _type = data['suggestions'][0]['plant']['name'];
+  //       });
+  //       print("the disease:$_disease");
+  //     } else {
+  //       setState(() {
+  //         _disease = 'Error';
+  //         _type = 'Error';
+  //       });
+  //     }
+  //   }
+  // }
 
   @override
   Widget build(BuildContext context) {
@@ -95,9 +94,7 @@ class _PlantDiseaseIdentifierAppState extends State<PlantDiseaseIdentifierApp> {
               children: [
                 MaterialButton(
                   elevation: 2,
-                  // onPressed: () => _captureImage(ImageSource.camera),
-                  onPressed: () => _identifyPlantDisease(),
-
+                  onPressed: () => _captureImage(ImageSource.camera),
                   child: Text('Capture Photo'),
                   color: Colors.green,
                 ),
@@ -105,7 +102,7 @@ class _PlantDiseaseIdentifierAppState extends State<PlantDiseaseIdentifierApp> {
                 MaterialButton(
                   elevation: 2,
                   onPressed: () => _captureImage(ImageSource.gallery),
-                  child: Text('Pick from gallery'),
+                  child: Text('Pick from Gallery'),
                   color: Colors.blue,
                 ),
                 SizedBox(height: 16.0),

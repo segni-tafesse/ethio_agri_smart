@@ -80,7 +80,7 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
             indicatorWeight: 5,
             isScrollable: true,
             controller: _tabController,
-            tabs: [
+            tabs: const [
               Tab(
                 icon: Icon(Icons.home),
                 text: 'Home',
@@ -162,7 +162,3 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
         ),
       );
 }
-
-
-//Image.asset("images/apple.png")
-
