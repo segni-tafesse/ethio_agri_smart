@@ -61,7 +61,7 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
                 onPressed: () {
                   Navigator.push(context, MaterialPageRoute(
                     builder: (context) {
-                      return PlantDiseaseIdentifierApp();
+                      return PlantDiseaseIdentifierApp1();
                     },
                   ));
                 }),
@@ -80,7 +80,7 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
             indicatorWeight: 5,
             isScrollable: true,
             controller: _tabController,
-            tabs: const [
+            tabs: [
               Tab(
                 icon: Icon(Icons.home),
                 text: 'Home',

@@ -30,7 +30,7 @@ class _PlantDiseaseIdentifierAppState extends State<PlantDiseaseIdentifierApp> {
   }
 
   // Future<void> _identifyPlantDisease() async {
-  //   const apiKey = 'WQJsul6jVNFhcjA4CFEHsImbzaWQLR99icaZght2ra1EL67186';
+  //  const apiKey = 'WQJsul6jVNFhcjA4CFEHsImbzaWQLR99icaZght2ra1EL67186';
   //   print('identifying!');
   //   if (_image != null) {
   //     final url = Uri.parse('https://api.plant.id/v3/identify');
