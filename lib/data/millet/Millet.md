@@ -41,7 +41,7 @@ Millet has wide adaptability to different soil from very poor to very fertile an
 1 cup dry, raw millet yields about 3 ½ cups cooked millet. How much liquid do I need to cook millet? To cook 1 cup of millet in a pilaf-style (as described below), you'll need 2 cups of water. If you want to make a creamier porridge, increase the water to 3 cups.
 # Temperature and Humidity
 Finger millet grows best in an environment with medium rainfall, an annual temperature range of 11 to 27°C and a soil pH of 5.0 to 8.2 (Duke 1978, 1979). Areas with low precipitation and low relative humidity during seed ripening and maturation are best for regeneration.
-# fertilizers
+# Fertilizers
 For sorghum and millet, the main types of fertilizer which should be applied before planting are phosphorus (P) fertilizers as well as organic matter.
 Nitrogen fertilizer is often required for profitable production. Proso millet planted following another crop, such as wheat, has a higher nitrogen requirement than after summer fallow.
 # Pests
