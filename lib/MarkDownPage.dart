@@ -28,6 +28,7 @@ class MarkDownPage extends StatelessWidget {
               data: snapshot.data!,
               styleSheet: MarkdownStyleSheet(
                 h1: const TextStyle(
+                  //color: Colors.blue,
                   fontSize: 30,
                   fontWeight: FontWeight.bold,
                 ),
