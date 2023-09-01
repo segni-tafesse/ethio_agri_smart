@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:flutter/material.dart';
+//import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'weatherInfo_model.dart';
 
@@ -16,6 +16,6 @@ Future<WeatherResponse> getWeather(String city) async {
   final response = await http.get(uri);
   //print(response.body);
   final json = jsonDecode(response.body);
-  final int statuscodes = response.statusCode;
+  //final int statuscodes = response.statusCode;
   return WeatherResponse.fromJson(json);
 }
