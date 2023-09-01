@@ -1,13 +1,8 @@
 // ignore_for_file: use_build_context_synchronously
 import 'package:ethio_agri_smart/artificial.dart';
 import 'package:ethio_agri_smart/camera.dart';
-import 'package:ethio_agri_smart/color.dart';
 import 'package:ethio_agri_smart/fer_car.dart';
-import 'package:ethio_agri_smart/weatherInfo_model.dart';
 import 'package:ethio_agri_smart/weather_screen.dart';
-import 'package:flutter/services.dart';
-import 'data_service.dart';
-import './weather.dart';
 import 'package:flutter/material.dart';
 import './onepage.dart';
 import './navigation_drawer.dart';
@@ -26,7 +21,7 @@ class Home extends StatefulWidget {
 
 class _HomeState extends State<Home> with TickerProviderStateMixin {
   late TabController _tabController;
-  final _dataService = DataService();
+  //final _dataService = DataService();
   String temperature = '';
   void initState() {
     super.initState();

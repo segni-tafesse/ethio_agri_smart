@@ -62,7 +62,7 @@ class _PlantDiseaseIdentifierAppState
       return;
     }
     setState(() {
-      selectedImage = File(returnedImage!.path);
+      selectedImage = File(returnedImage.path);
     });
   }
 
@@ -74,7 +74,7 @@ class _PlantDiseaseIdentifierAppState
       return;
     }
     setState(() {
-      selectedImage = File(returnedImage!.path);
+      selectedImage = File(returnedImage.path);
     });
   }
 }

@@ -1,7 +1,6 @@
 import 'dart:convert';
 
 import 'package:http/http.dart' as http;
-import 'package:flutter_dotenv/flutter_dotenv.dart';
 
 import 'weatherInfo_model.dart';
 
@@ -19,7 +18,7 @@ class DataService {
     final response = await http.get(uri);
     //print(response.body);
     final json = jsonDecode(response.body);
-    final int statuscodes = response.statusCode;
+    //final int statuscodes = response.statusCode;
     return WeatherResponse.fromJson(json);
   }
 
