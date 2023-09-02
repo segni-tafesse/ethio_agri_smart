@@ -49,19 +49,19 @@ class _FertilizerCalculatorAppState extends State<FertilizerCalculatorApp> {
         } else if (_plantTypeNameController.text == 'Dates') {
           _dap = (hectares * 150) / numberOfPlants;
           _mop = (acres * 100) / numberOfPlants;
-          _urea = (hectares * 200) / numberOfPlants;
+          _urea = (hectares * 20) / numberOfPlants;
         } else if (_plantTypeNameController.text == 'Earth pea') {
-          _dap = (hectares * 150) / numberOfPlants;
+          _dap = (hectares * 15) / numberOfPlants;
           _mop = (acres * 100) / numberOfPlants;
           _urea = (hectares * 200) / numberOfPlants;
         } else if (_plantTypeNameController.text == 'Grape') {
           _dap = (hectares * 150) / numberOfPlants;
-          _mop = (acres * 100) / numberOfPlants;
+          _mop = (acres * 10) / numberOfPlants;
           _urea = (hectares * 200) / numberOfPlants;
         } else if (_plantTypeNameController.text == 'Lemon') {
-          _dap = (hectares * 150) / numberOfPlants;
+          _dap = (hectares * 10) / numberOfPlants;
           _mop = (acres * 100) / numberOfPlants;
-          _urea = (hectares * 200) / numberOfPlants;
+          _urea = (hectares * 20) / numberOfPlants;
         } else if (_plantTypeNameController.text == 'Maize') {
           _dap = (hectares * 150) / numberOfPlants;
           _mop = (acres * 100) / numberOfPlants;
@@ -77,13 +77,13 @@ class _FertilizerCalculatorAppState extends State<FertilizerCalculatorApp> {
         } else if (_plantTypeNameController.text == 'Millet') {
           _dap = (hectares * 150) / numberOfPlants;
           _mop = (acres * 100) / numberOfPlants;
-          _urea = (hectares * 200) / numberOfPlants;
+          _urea = (hectares * 300) / numberOfPlants;
         } else if (_plantTypeNameController.text == 'Oilpalm') {
           _dap = (hectares * 150) / numberOfPlants;
           _mop = (acres * 100) / numberOfPlants;
           _urea = (hectares * 200) / numberOfPlants;
         } else if (_plantTypeNameController.text == 'Onion') {
-          _dap = (hectares * 150) / numberOfPlants;
+          _dap = (hectares * 10) / numberOfPlants;
           _mop = (acres * 100) / numberOfPlants;
           _urea = (hectares * 200) / numberOfPlants;
         } else if (_plantTypeNameController.text == 'Banana') {
@@ -93,7 +93,7 @@ class _FertilizerCalculatorAppState extends State<FertilizerCalculatorApp> {
         } else if (_plantTypeNameController.text == 'Orange') {
           _dap = (hectares * 150) / numberOfPlants;
           _mop = (acres * 100) / numberOfPlants;
-          _urea = (hectares * 200) / numberOfPlants;
+          _urea = (hectares * 60) / numberOfPlants;
         } else if (_plantTypeNameController.text == 'Potato') {
           _dap = (hectares * 150) / numberOfPlants;
           _mop = (acres * 100) / numberOfPlants;
@@ -109,23 +109,23 @@ class _FertilizerCalculatorAppState extends State<FertilizerCalculatorApp> {
         } else if (_plantTypeNameController.text == 'Sunfflower') {
           _dap = (hectares * 150) / numberOfPlants;
           _mop = (acres * 100) / numberOfPlants;
-          _urea = (hectares * 200) / numberOfPlants;
+          _urea = (hectares * 250) / numberOfPlants;
         } else if (_plantTypeNameController.text == 'Sorghum') {
           _dap = (hectares * 150) / numberOfPlants;
           _mop = (acres * 100) / numberOfPlants;
           _urea = (hectares * 200) / numberOfPlants;
         } else if (_plantTypeNameController.text == 'Tea') {
-          _dap = (hectares * 150) / numberOfPlants;
+          _dap = (hectares * 10) / numberOfPlants;
           _mop = (acres * 100) / numberOfPlants;
-          _urea = (hectares * 200) / numberOfPlants;
+          _urea = (hectares * 00) / numberOfPlants;
         } else if (_plantTypeNameController.text == 'Tomato') {
           _dap = (hectares * 150) / numberOfPlants;
-          _mop = (acres * 100) / numberOfPlants;
-          _urea = (hectares * 200) / numberOfPlants;
+          _mop = (acres * 89100) / numberOfPlants;
+          _urea = (hectares * 230) / numberOfPlants;
         } else if (_plantTypeNameController.text == 'Wheat') {
           _dap = (hectares * 150) / numberOfPlants;
-          _mop = (acres * 100) / numberOfPlants;
-          _urea = (hectares * 200) / numberOfPlants;
+          _mop = (acres * 180) / numberOfPlants;
+          _urea = (hectares * 70) / numberOfPlants;
         } else if (_plantTypeNameController.text == 'Yam') {
           _dap = (hectares * 150) / numberOfPlants;
           _mop = (acres * 100) / numberOfPlants;

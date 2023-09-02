@@ -3,7 +3,8 @@ import 'package:ethio_agri_smart/artificial.dart';
 import 'package:ethio_agri_smart/camera.dart';
 import 'package:ethio_agri_smart/decision_sup.dart';
 import 'package:ethio_agri_smart/fer_car.dart';
-
+import 'package:ethio_agri_smart/market.dart';
+import 'package:ethio_agri_smart/new.dart';
 import 'package:ethio_agri_smart/weather_screen.dart';
 import 'package:flutter/material.dart';
 import './onepage.dart';
@@ -130,7 +131,7 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
                 onPressed: () {
                   Navigator.push(context, MaterialPageRoute(
                     builder: (context) {
-                      return PlantDiseaseIdentifierApp();
+                      return PlantDiseaseIdentifierApp12();
                     },
                   ));
                 },
@@ -152,11 +153,22 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
                 onPressed: () {
                   Navigator.push(context, MaterialPageRoute(
                     builder: (context) {
-                      return MyApp3();
+                      return MyApp30();
                     },
                   ));
                 },
                 child: Text('Decision Support'),
+              ),
+              ElevatedButton(
+                style: buttonprimary,
+                onPressed: () {
+                  Navigator.push(context, MaterialPageRoute(
+                    builder: (context) {
+                      return MyApp3();
+                    },
+                  ));
+                },
+                child: Text('Crop Market'),
               ),
             ],
           ),
