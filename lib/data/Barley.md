@@ -53,7 +53,7 @@ Barley may be grown in subtropical climatic condition. The crop requires around 
 Barley is considered to be physiologically mature at approximately 35% moisture in the seeds and can be cut when the moisture content is 20-30% and allowed to dry in windrows or swaths. Barley harvested at 18% or higher moisture content can be easily damaged during threshing in the combine.
 # Fertilizers
 Generally, barley plants, to grow best and give high yields, need mainly nitrogen (N), phosphate (P-P2O5), and potassium (K-K2O), but also sulfur (S) and copper (Cu) .
-In the cultivation of malting barley, nitrogen fertilization should be applied from 7 to 14 days before sowing the grain. It takes about 19 kg of nitrogen for every 1 t of the expected grain yield, but taking into account soil nitrogen reserves, a dose of 50-70 kg N/ha is recommended.
+In the cultivation of malting barley, nitrogen fertilization should be applied from 7 to 14 days before sowing the grain. It takes about 19 kg of nitrogen for every 1 t of the expected grain yield, but taking into account soil nitrogen reserves, a dose of 50-70 kg N/ha is recommended.+-----------
 # Possible Disease of Barley
 
 ## Virus

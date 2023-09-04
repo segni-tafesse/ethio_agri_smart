@@ -46,6 +46,74 @@ Humidity
 # Fertilizer
 
 Mandarin orange needs well-drained soil. Too much moisture and the wrong soil type can make the tree susceptible to disease. Fertilize the Mandarin orange every 1-2 months for best results. Use a fertilizer high in phosphorous during the growing season(10-30-20).
+# Possible Disease of Mandarin
+## Virus
+ Here are a few possible viral diseases that mandarins may encounter:
+
+1. Citrus Tristeza Virus (CTV): Citrus Tristeza Virus is a significant viral disease that affects a wide range of citrus species, including mandarins. It can cause a variety of symptoms, such as stunted growth, leaf yellowing, decline in tree vigor, and reduced fruit quality and yield. CTV is primarily transmitted through grafting infected plant material, making it crucial to source certified virus-free nursery stock.
+
+2. Citrus Vein Phloem Degeneration (CVPD): CVPD is caused by a complex of viruses, including the Citrus Vein Enation Virus (CVEV). It affects the phloem tissue of mandarin trees, resulting in vein yellowing, vein corking, and overall decline in tree health. Infected trees may exhibit stunted growth, reduced fruit size, and low yield.
+
+3. Citrus Ringspot Virus (CRSV): CRSV is a viral disease that can infect various citrus species, including mandarins. It causes characteristic ringspot symptoms on the fruit, resulting in bumpy, distorted, and discolored rinds. Infected trees may also exhibit leaf mottling, stunting, and reduced productivity.
+
+4. Citrus Leprosis Virus (CiLV): CiLV is a viral disease transmitted by the citrus leprosis mite. It causes necrotic lesions on the leaves, stems, and fruit of mandarin trees. These lesions may appear corky or scaly and can affect tree health and productivity.
+
+5. Citrus Psorosis Virus (CPsV): CPsV is a viral disease that affects various citrus species, including mandarins. It can cause chlorotic patterns and corky bark on infected trees. Infected trees may experience reduced vigor, leaf drop, and decreased fruit quality.
+
+## Fungus
+ Fungal diseases are a common threat to mandarins, affecting their leaves, fruit, and overall health. Let us explore some possible fungal diseases that mandarin trees may encounter:
+
+1. Citrus Canker (Xanthomonas citri subsp. citri): While citrus canker is primarily caused by a bacterial pathogen, it can sometimes be associated with certain fungi. Fungal pathogens such as Colletotrichum spp. or Alternaria spp. can invade the canker lesions, leading to secondary infections and further damage to the fruit and leaves.
+
+2. Phytophthora Root Rot (Phytophthora spp.): Phytophthora fungi are notorious for causing root rot in a variety of plants, including mandarins. These fungi thrive in poorly drained or waterlogged soil conditions, leading to root decay, wilting, and decline in tree health. Symptoms may include yellowing leaves, stunted growth, and reduced fruit quality.
+
+3. Alternaria Brown Spot (Alternaria spp.): Alternaria fungi can cause brown spot disease in mandarin trees. This disease typically affects the fruit, causing small, circular, brown lesions with a target-like appearance. Severe infections can lead to premature fruit drop, reduced yield, and compromised fruit quality.
+
+4. Greasy Spot (Mycosphaerella citri): Greasy spot is a fungal disease caused by Mycosphaerella citri. It affects the leaves of mandarin trees, causing dark, oily-looking spots. These spots may coalesce and result in premature leaf drop, reduced tree vigor, and decreased fruit productivity.
+
+5. Melanose (Diaporthe citri): Melanose is a fungal disease caused by the pathogen Diaporthe citri. It affects the fruit, leaves, and stems of mandarin trees, resulting in raised, dark lesions and corky tissue. Severe infections can cause fruit cracking, blemishes, and reduced market value.
+## Bacteria
+While bacterial diseases are less common than fungal or viral diseases, they can still pose a threat to the health and productivity of mandarins. Let us explore some possible bacterial diseases that mandarin trees may encounter:
+
+1. Citrus Canker (Xanthomonas citri subsp. citri): Citrus canker is a notorious bacterial disease caused by the pathogen Xanthomonas citri subsp. citri. It affects the leaves, stems, and fruit of mandarin trees, resulting in raised corky lesions with a characteristic halo. Infected fruit may drop prematurely, and the overall tree health and productivity can be compromised.
+
+2. Citrus Bacterial Spot (Xanthomonas citri subsp. citrumelo): Citrus bacterial spot, caused by Xanthomonas citri subsp. citrumelo, can affect mandarins. It causes dark, raised lesions on the leaves, stems, and fruit. Severe infections can lead to defoliation and reduced fruit quality and yield.
+
+3. Citrus Blast (Pseudomonas syringae pv. syringae): Citrus blast is caused by the bacterium Pseudomonas syringae pv. syringae. It primarily affects the fruit of mandarin trees, causing watery, sunken lesions that may later become corky. Infected fruit often drops prematurely, leading to economic losses.
+# Pre-prevention of Disease of Mandarin
+Preparing and implementing preventive measures can go a long way in promoting the health and vitality of our mandarin orchards. Let us explore some pre-prevention strategies to help keep diseases at bay:
+
+1. Select Disease-Resistant Varieties: When establishing a mandarin orchard, choose varieties known for their resistance or tolerance to prevalent diseases in your region. Consult with local agricultural experts or nurseries to identify suitable varieties that have a natural ability to withstand certain diseases.
+
+2. Optimal Site Selection: Choose a site for your mandarin orchard that provides favorable growing conditions. Ensure proper sunlight exposure, good soil drainage, and adequate air circulation. Avoid low-lying areas prone to waterlogging, as excessive moisture can promote the development of diseases.
+
+3. Soil Preparation and Drainage: Prior to planting mandarin trees, ensure proper soil preparation. Test the soil and amend it if necessary to create optimal conditions for growth. Improving soil drainage is crucial, as waterlogged soil can lead to root diseases. Incorporating organic matter and providing adequate drainage mechanisms can help create a healthy root environment.
+
+4. Certified Disease-Free Nursery Stock: Source mandarin trees from reputable nurseries that provide certified disease-free stock. This reduces the risk of introducing diseases into your orchard from the onset.
+
+5. Sanitation Practices: Practice good orchard sanitation throughout the year. Regularly remove fallen leaves, fruit, and other plant debris from the orchard floor. This helps reduce the presence of disease-causing pathogens and their overwintering sites.
+
+6. Proper Irrigation Practices: Implement proper irrigation techniques to avoid overwatering and minimize leaf wetness. Drip irrigation or other targeted irrigation methods can help deliver water directly to the root zone, reducing the risk of foliar diseases.
+
+7. Integrated Pest Management (IPM): Implement an IPM approach to manage insect pests, as they can contribute to the spread of diseases. Monitor pest populations regularly and employ appropriate control measures when necessary.
+
+# Post-prevention of Disease of Mandarin
+ Post-prevention strategies are essential to maintain the health and vitality of our mandarin trees and to mitigate the risk of diseases. Let us explore some post-prevention practices to further safeguard our precious mandarin orchards:
+
+1. Regular Monitoring: Continuously monitor your mandarin trees for any signs of disease. Regularly inspect leaves, fruit, and stems for symptoms such as spots, lesions, discoloration, or any other abnormalities. Early detection is crucial for prompt intervention and containment of diseases.
+
+2. Proper Pruning: Practice proper pruning techniques to maintain good airflow and sunlight penetration within the canopy. Remove any dead, diseased, or damaged branches promptly. This helps prevent the spread of diseases and improves overall tree health.
+
+3. Disease Identification and Diagnosis: If you observe any suspicious symptoms or are unsure about the nature of a disease affecting your mandarin trees, consult with agricultural experts, extension services, or plant pathologists. Accurate disease identification and diagnosis are vital for implementing the most effective control measures.
+
+4. Prompt Disease Management: If a disease is detected, take immediate action to manage it. Depending on the specific disease, this may involve applying appropriate fungicides or bactericides as recommended by experts. Follow the recommended application rates and schedules to effectively control the disease.
+
+5. Cultural Practices: Maintain good orchard sanitation even after planting. Remove and destroy any fallen leaves, fruit, or other plant debris regularly. This reduces the presence of disease-causing pathogens and minimizes the risk of reinfection.
+
+6. Integrated Pest Management (IPM): Continue implementing an IPM approach to manage insect pests. Insects can act as vectors for disease transmission, so monitoring and controlling their populations are crucial for preventing the spread of diseases.
+
+7. Regular Fertilization and Nutrient Management: Ensure proper fertilization and nutrient management practices to keep mandarin trees healthy and resilient. A well-nourished tree is better equipped to fight off diseases and recover from any potential damage.
+
 # Pests
 Orange trees can be heavily affected by insects (mainly aphids) and also by fungal, bacterial and virus diseases. Aphids (mainly Aphis spiraecola) are small flies that are fed with the underside of leaves, often resulting in the curl of citrus leaves.
 # Pesticides

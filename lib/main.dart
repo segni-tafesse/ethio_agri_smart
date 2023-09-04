@@ -5,11 +5,13 @@ import 'package:ethio_agri_smart/decision_sup.dart';
 import 'package:ethio_agri_smart/fer_car.dart';
 import 'package:ethio_agri_smart/market.dart';
 import 'package:ethio_agri_smart/new.dart';
+import 'package:ethio_agri_smart/pest.dart';
 import 'package:ethio_agri_smart/weather_screen.dart';
 import 'package:flutter/material.dart';
 import './onepage.dart';
 import './navigation_drawer.dart';
 import './button.dart';
+import 'pest.dart';
 
 //eyos wrote this comment
 void main() => runApp(MaterialApp(
@@ -146,7 +148,7 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
                     },
                   ));
                 },
-                child: Text('Calculator'),
+                child: Text('Fer Calculator'),
               ),
               ElevatedButton(
                 style: buttonprimary,
@@ -169,6 +171,17 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
                   ));
                 },
                 child: Text('Crop Market'),
+              ),
+              ElevatedButton(
+                style: buttonprimary,
+                onPressed: () {
+                  Navigator.push(context, MaterialPageRoute(
+                    builder: (context) {
+                      return MyApp20();
+                    },
+                  ));
+                },
+                child: Text('Pest Calculator '),
               ),
             ],
           ),

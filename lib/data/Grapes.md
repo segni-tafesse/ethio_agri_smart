@@ -50,6 +50,71 @@ The ideal condition for grapes is 30 – 32 F with 90 – 95 percent relative hu
 # Fertilizers
 Apply 5-10 pounds (2-4.5 kg.) of poultry or rabbit manure, or 5-20 (2-9 kg.) pounds of steer or cow manure per vine. Other nitrogen-rich grapevine fertilizers (such as urea, ammonium nitrate, and ammonium sulfate) should be applied after the vine has blossomed or when grapes are about ¼ inch (0.5 cm.)
 We recommend using Stark® Tre-Pep® fertilizer for your grapes, applied 2-3 inches deep and 10-12 inches away from the plant. A second and third application may be made at the same rate after six and twelve weeks of growth. Always apply fertilizer according to the package directions.
+# Possible Disease of Grape
+## Virus
+Viral diseases can indeed pose significant challenges to the health and productivity of grapevines. Here are a few notable viral diseases that can affect grapes:
+
+1. Grapevine Leafroll Disease: Grapevine leafroll disease is caused by a complex of viruses, including Grapevine leafroll-associated viruses (GLRaV). Infected vines display symptoms such as red discoloration and rolling of the leaves, reduced vigor, delayed fruit ripening, and decreased fruit quality. Leafroll disease can severely impact grape production and wine quality. Unfortunately, there is no cure for this disease, and management typically involves planting virus-free vines and strict sanitation measures to prevent its spread.
+
+2. Grapevine Fanleaf Virus: Grapevine fanleaf virus (GFLV) is another significant viral disease affecting grapes. Infected vines exhibit symptoms such as fan-shaped leaves, yellowing, stunted growth, and deformed fruit. Fanleaf virus is primarily spread through infected planting material and nematode vectors. Controlling nematodes and using virus-tested planting material are key management strategies for this disease.
+
+3. Grapevine Pinot Gris Virus: Grapevine Pinot Gris virus (GPGV) is a relatively newly discovered virus that can cause significant damage to grapevines. Infected vines may exhibit symptoms such as leaf mottling, yellowing, leaf curling, and reduced yields. GPGV is primarily transmitted through infected plant material and grafting. Sanitation practices and using certified virus-free planting material are important for preventing its spread.
+
+4. Grapevine Fleck Virus: Grapevine fleck virus (GFkV) can cause flecking and discoloration of grape leaves, affecting photosynthesis and overall vine health. Infected vines may also experience reduced vigor and yield. GFkV is typically spread through grafting and pruning tools. Implementing strict sanitation practices and using virus-tested planting material are crucial to manage this virus.
+
+## Fungus
+Fungi can indeed wreak havoc on grapevines, impacting their growth, fruit quality, and overall vine health. Here are a few notable fungal diseases that can afflict grapes:
+
+1. Powdery Mildew: Powdery mildew, caused by the fungus Erysiphe necator, is a common and persistent fungal disease in grapevines. It appears as a white or grayish powdery growth on the leaves, shoots, and berries. Infected leaves may curl, wither, or even drop prematurely. Severe cases can lead to reduced yield and poor fruit quality. Regular monitoring and timely application of fungicides are typically employed to manage powdery mildew.
+
+2. Downy Mildew: Downy mildew, caused by the fungus-like pathogen Plasmopara viticola, thrives in cool, humid conditions. It causes yellowish-green spots on the upper leaf surface, while a corresponding grayish-white mold develops on the lower surface. Infected berries may become discolored and shriveled. To control downy mildew, cultural practices such as proper pruning, adequate airflow, and the use of fungicides are often implemented.
+
+3. Botrytis Bunch Rot: Botrytis bunch rot, caused by the fungus Botrytis cinerea, can be a significant concern for grape clusters, particularly in damp conditions. It leads to a gray mold on the berries, resulting in their decay and shriveling. This can cause reduced yield and compromised fruit quality. To manage Botrytis bunch rot, promoting good airflow, removing infected berries, and using selective pruning practices are essential.
+
+4. Black Rot: Black rot, caused by the fungus Guignardia bidwellii, thrives in warm and wet conditions. It causes black, circular lesions on leaves, stems, and berries. Infected berries may shrivel and develop black, raisin-like structures. Cultural practices such as pruning to improve airflow, clearing infected plant debris, and applying appropriate fungicides can help control black rot.
+
+5. Anthracnose: Anthracnose, caused by various fungal species, can infect grapevines and cause dark, sunken lesions on leaves, stems, and berries. Infected berries may develop brown, necrotic spots. Cultural practices such as pruning to increase airflow, removing infected plant material, and applying appropriate fungicides can aid in the management of anthracnose.
+## Bacteria
+ While fungal diseases often take the spotlight, bacteria can indeed wreak havoc on grapevines, impacting their growth, fruit quality, and overall vine health. Here are a few notable bacterial diseases that can afflict grapes:
+
+1. Pierce's Disease: Pierce's disease, caused by the bacterium Xylella fastidiosa, is a devastating bacterial disease that affects many grapevine varieties. It is primarily transmitted by certain insect vectors, such as sharpshooters or spittlebugs. Infected vines may display symptoms such as wilting, leaf scorching, and eventual death. Managing Pierce's disease involves controlling the insect vectors, using disease-resistant grape varieties, and implementing strict sanitation practices.
+
+2. Crown Gall: Crown gall, caused by the bacterium Agrobacterium vitis, can affect grapevines, especially at the base of the trunk or main roots. It leads to the formation of characteristic rough, tumor-like growths known as galls. These galls can disrupt the flow of water and nutrients, impacting vine vigor and overall health. Preventing crown gall involves using certified disease-free planting material and implementing proper sanitary practices.
+
+3. Bacterial Blight: Bacterial blight, caused by the bacterium Pseudomonas syringae pv. syringae, can affect grapevines during cool and wet conditions. It causes small, water-soaked lesions on leaves, shoots, and berries, which may eventually turn brown and necrotic. Infected berries can become shriveled and develop sunken lesions. Management of bacterial blight involves pruning infected plant material, applying appropriate copper-based sprays, and promoting good airflow.
+
+4. Bacterial Leaf Spot: Bacterial leaf spot, caused by the bacterium Xanthomonas campestris pv. viticola, can affect grapevines, particularly during wet and warm periods. It causes small, dark, water-soaked spots on leaves, which may enlarge and become necrotic. Severe infections can lead to defoliation and reduced vine vigor. Managing bacterial leaf spot involves pruning infected leaves, using copper-based sprays, and ensuring proper vineyard sanitation.
+# Pre-prevention of Disease of Grape
+ Here are some pre-prevention strategies to consider:
+
+1. Select Disease-Resistant Varieties: Choosing grapevine varieties that have inherent resistance or tolerance to common diseases prevalent in your region can be a wise approach. Consult with local experts or extension services to identify suitable varieties that are less susceptible to prevalent diseases in your area.
+
+2. Plant Certified Disease-Free Material: Begin with healthy, certified disease-free planting material. This ensures that you are not introducing diseases into your vineyard right from the start. Obtain vines from reputable nurseries that follow rigorous disease testing and certification protocols.
+
+3. Site Selection and Vineyard Layout: Carefully choose the site for your vineyard, considering factors such as sunlight exposure, soil drainage, and airflow. Proper site selection and vineyard layout can contribute to better air circulation and reduce humidity, mitigating the risk of fungal diseases.
+
+4. Sanitation Practices: Implement strict sanitation practices to minimize the spread of diseases. This includes regularly removing and destroying any diseased plant material, such as infected leaves, pruned canes, or fallen fruit. Keeping the vineyard clean and free of debris can help reduce the presence of pathogens.
+
+5. Pruning and Canopy Management: Proper pruning and canopy management techniques can promote good airflow and sunlight penetration, reducing the favorable conditions for fungal diseases. Prune vines to allow for adequate spacing between shoots and remove excess foliage to improve air circulation within the vine canopy.
+
+6. Irrigation Management: Proper irrigation practices can help prevent the development of certain diseases. Avoid excessive moisture on the leaves and berries, as it can create a conducive environment for fungal diseases. Implement irrigation systems that provide water directly to the root zone while minimizing leaf wetness.
+
+# Post- prevention of Disease of Grape
+Here are some key post-prevention actions to consider:
+
+1. Regular Monitoring: Continuously monitor your grapevines for any signs of disease. This includes regular inspections of leaves, shoots, and fruit clusters. Look out for discoloration, spots, wilting, or any other abnormal symptoms. Early detection allows for timely intervention and minimizes the spread of diseases.
+
+2. Disease Identification: Familiarize yourself with the common diseases that can affect grapevines in your region. Understand their symptoms, progression, and potential impact on vine health and fruit quality. This knowledge will help you identify diseases accurately and take appropriate action.
+
+3. Isolate and Remove Infected Plants: If you encounter diseased plants or clusters, promptly isolate and remove them from the vineyard. This prevents the spread of diseases to healthy vines. Dispose of the infected material properly, either by burning or burying it away from the vineyard.
+
+4. Fungicide and Bactericide Applications: In cases where diseases are detected, the targeted application of suitable fungicides or bactericides may be necessary. Consult with local agricultural experts or extension services to determine the most effective and appropriate products for your specific disease challenge. Follow label instructions carefully and adhere to recommended application rates and timing.
+
+5. Cultural Practices: Implement cultural practices that discourage disease development and promote vine health. This includes proper pruning techniques, adequate airflow within the canopy, and managing vine vigor through appropriate fertilization and irrigation practices. Healthy vines are more resistant to diseases.
+
+6. Nutrient Management: Ensure that your grapevines receive balanced nutrition. A well-nourished vine is better equipped to resist diseases. Conduct regular soil tests and adjust fertilizer applications based on the specific nutrient requirements of your grapevines.
+
+7. Integrated Pest Management (IPM): Continue practicing integrated pest management techniques to minimize the impact of pests, which can also contribute to disease development. Employ biological controls, beneficial insects, and cultural practices to maintain a healthy ecosystem in your vineyard.
 # Pests
 Some common pest of grape are:
 Aphids.

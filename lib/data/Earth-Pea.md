@@ -63,10 +63,69 @@ Earth peas are leguminous plants, which means they have the ability to fix nitro
 However, providing some supplemental fertilizer can still be beneficial for the growth and productivity of earth peas. A balanced fertilizer with a ratio of nitrogen (N), phosphorus (P), and potassium (K) such as a 10-10-10 or 14-14-14 can be used. This will provide additional nutrients that may be lacking in the soil.
 
 It is recommended to apply the fertilizer at planting time or during early growth stages. Follow the instructions on the fertilizer packaging for the appropriate application rates, as excessive fertilizer can lead to imbalances and negatively affect plant health.
+# Possible Disease of Earht Pea
+## Virus
+While Earth peas, or Pisum sativum, are generally resilient, they can be susceptible to viral infections that can impact their growth and productivity. Here are a few notable viral diseases that can affect Earth peas:
 
-Additionally, earth peas can benefit from organic matter incorporation into the soil. Adding compost or well-rotted manure before planting can improve soil fertility and provide a slow-release source of nutrients.
+1. Pea Seed-borne Mosaic Virus (PSbMV): This viral disease is commonly transmitted through infected seeds. It causes distinct mosaic patterns on the leaves, with light and dark green patches. Infected plants may also exhibit stunted growth, reduced yield, and distorted pods. Preventing PSbMV starts with using certified disease-free seeds and practicing good sanitation to avoid the introduction and spread of the virus. Unfortunately, no treatment exists for PSbMV-infected plants, so prevention is key.
 
-Regular soil testing is also recommended to determine if any specific nutrient deficiencies exist and adjust fertilizer applications accordingly.
+2. Pea Enation Mosaic Virus (PEMV): PEMV is another viral disease that affects Earth peas. It is transmitted by aphids and causes enation (wart-like growths) on the leaves, stunting of plants, and reduced yield. Controlling aphid populations through insecticidal sprays or introducing beneficial insects can help manage the spread of PEMV. Resistant cultivars are also available, so selecting those can be an effective prevention strategy.
+
+3. Pea Leaf Roll Virus (PLRV): PLRV is transmitted by aphids and can infect Earth peas, leading to leaf rolling, yellowing, and stunted growth. Infected plants may also produce smaller, distorted pods. Controlling aphids through insecticidal sprays, implementing physical barriers, or introducing beneficial insects can help reduce the spread of PLRV. Again, using resistant cultivars can provide added protection against this virus.
+
+## Fungus
+ While Earth peas, or Pisum sativum, are generally quite resilient, there are a few fungal diseases that can pose a threat to their well-being. Here are a couple of notable fungal diseases that can affect Earth peas:
+
+1. Powdery Mildew: Powdery mildew is a common fungal disease that can affect Earth peas. It manifests as a white, powdery growth on the leaves, stems, and pods of the plant. Infected plants may exhibit stunted growth, reduced yield, and premature defoliation. To manage powdery mildew, ensure proper spacing between plants for adequate airflow, avoid overhead irrigation, and apply fungicides if necessary.
+
+2. Fusarium Wilt: Fusarium wilt, caused by various Fusarium species, can affect Earth peas. It leads to wilting, yellowing, and decline of the plant. Infected plants may show vascular discoloration and stunted growth. Unfortunately, there is no cure for Fusarium wilt, and affected plants should be promptly removed and destroyed to prevent further spread.
+
+3. Damping-off: Damping-off is a seedling disease caused by various soil-borne fungi, such as Pythium or Rhizoctonia species. It affects Earth pea seeds and young seedlings, causing rotting of the stem at or below the soil line. Infected seedlings may collapse and die. To prevent damping-off, use disease-free seeds, ensure well-drained soil, and avoid overwatering.
+
+## Bacteria
+While Earth peas, or Pisum sativum, are generally resilient, there are a few bacterial diseases that can pose a challenge to their health. Here are a couple of notable bacterial diseases that can affect Earth peas:
+
+1. Bacterial Blight: Bacterial blight, caused by the bacterium Pseudomonas syringae pv. pisi, can impact Earth peas. It typically manifests as water-soaked lesions on the leaves, stems, and pods. These lesions may turn brown or black, leading to tissue death and potential yield loss. To manage bacterial blight, practice crop rotation, avoid overhead irrigation, and consider copper-based bactericides if necessary.
+
+2. Bacterial Wilt: Bacterial wilt, caused by the bacterium Ralstonia solanacearum, can also affect Earth peas. It leads to wilting, yellowing, and decline of the plant. Infected plants may exhibit vascular discoloration and eventually die. Unfortunately, there is no cure for bacterial wilt, and infected plants should be promptly removed and destroyed to prevent further spread.
+# Pre-prevention of Disease of Earth Pea
+Taking preventive measures before diseases strike is essential to safeguard the health and productivity of your Earth pea plants. Here are some steps you can take to prevent disease outbreaks:
+
+1. Source Healthy Seeds: Start with high-quality, disease-free seeds from reputable sources. Ensure that the seeds are certified and free from any signs of infection or damage. Healthy seeds provide a strong foundation for your Earth pea plants.
+
+2. Crop Rotation: Implement a crop rotation plan to minimize the buildup of soil-borne pathogens that can affect Earth peas. Avoid planting Earth peas or other related legume crops in the same area year after year. Rotate with non-host crops to break the disease cycle and maintain soil health.
+
+3. Proper Soil Preparation: Prepare the soil properly before planting your Earth peas. Ensure good drainage and proper soil structure by incorporating organic matter such as compost or well-rotted manure. Healthy, well-drained soil reduces the risk of soil-borne diseases and promotes vigorous plant growth.
+
+4. Sanitation Practices: Practice good sanitation in your garden or field. Remove and destroy any plant debris, including infected leaves, stems, or pods. This helps prevent the spread of diseases and eliminates potential breeding grounds for pathogens.
+
+5. Adequate Spacing: Provide sufficient spacing between Earth pea plants to allow for good airflow and reduce humidity. Crowded plants are more susceptible to diseases due to poor air circulation. Follow the recommended spacing guidelines for your specific Earth pea variety.
+
+6. Proper Watering: Water your Earth pea plants properly to avoid moisture-related diseases. Avoid overwatering, as excessive moisture can create conditions favorable for fungal and bacterial growth. Water at the base of the plants rather than overhead to minimize leaf wetness.
+
+7. Integrated Pest Management (IPM): Implement an integrated approach to pest management. Regularly monitor your Earth pea plants for pests, such as aphids or beetles, which can transmit diseases. Use appropriate cultural, mechanical, or biological control methods to manage pests effectively and reduce disease transmission.
+
+8. Balanced Nutrition: Ensure that your Earth pea plants receive proper nutrition. Conduct soil tests to determine any nutrient deficiencies and adjust fertilizer applications accordingly. Providing optimal nutrition strengthens plant health and enhances disease resistance.
+# Post-prevention of Disease of Earh Pea
+ The post-prevention of diseases in Earth peas, an important follow-up to maintain the health and vitality of your plants! While pre-prevention measures are crucial, it is equally important to continue monitoring and implementing post-prevention strategies throughout the growing season. Here are some post-prevention practices to consider:
+
+1. Regular Inspection: Continuously monitor your Earth pea plants for any signs of disease or stress. Check for symptoms such as wilting, discoloration, spots, or unusual growth patterns. Early detection allows for prompt action and minimizes the spread of diseases.
+
+2. Prompt Action: If you observe any signs of disease, take immediate action to prevent further spread. Remove and destroy infected plant parts, such as affected leaves, stems, or pods. Prune affected areas if necessary, making clean cuts to avoid further damage.
+
+3. Disease Identification: It is crucial to accurately identify the specific disease affecting your Earth peas. Consult with local agricultural experts, extension services, or plant pathology laboratories to confirm the diagnosis. Knowing the exact disease helps determine the most effective control measures.
+
+4. Cultural Control: Implement cultural practices that discourage disease development. These may include proper spacing between plants for good airflow, avoiding overhead irrigation, and ensuring adequate sunlight penetration. Healthy, well-maintained plants are better equipped to resist and recover from diseases.
+
+5. Biological Controls: Explore the use of beneficial microorganisms or biological control agents to suppress disease-causing pathogens. Some beneficial organisms, such as certain strains of bacteria or fungi, can help inhibit the growth of harmful pathogens and promote plant health.
+
+6. Chemical Controls: In severe cases or when other control methods are insufficient, consider using approved fungicides or bactericides. Follow the instructions carefully, ensuring proper application rates and timing. Always choose products that are specifically labeled for Earth peas and the targeted disease.
+
+7. Crop Rotation Planning: Incorporate crop rotation strategies into your long-term planning. Avoid planting Earth peas or related legume crops in the same area for consecutive seasons. Rotating with non-host crops helps break the disease cycle and reduces the risk of recurring infections.
+
+8. Record Keeping: Maintain detailed records of your Earth pea cultivation, including planting dates, varieties used, pest and disease observations, and control methods applied. This information can guide your future planting decisions and help identify patterns or trends in disease occurrence.
+
+
 # Pests
 Some common pests that can affect the Earth Pea, or Lathyrus sphaericus, include:
 1. Aphids: 
