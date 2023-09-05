@@ -1,11 +1,15 @@
 // ignore_for_file: use_build_context_synchronously
 import 'package:ethio_agri_smart/artificial.dart';
-import 'package:ethio_agri_smart/camera.dart';
+
 import 'package:ethio_agri_smart/decision_sup.dart';
 import 'package:ethio_agri_smart/fer_car.dart';
-import 'package:ethio_agri_smart/market.dart';
+import 'package:ethio_agri_smart/fiveth.dart';
+
 import 'package:ethio_agri_smart/new.dart';
+
 import 'package:ethio_agri_smart/pest.dart';
+import 'package:ethio_agri_smart/picker.dart';
+
 import 'package:ethio_agri_smart/weather_screen.dart';
 import 'package:flutter/material.dart';
 import './onepage.dart';
@@ -133,7 +137,7 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
                 onPressed: () {
                   Navigator.push(context, MaterialPageRoute(
                     builder: (context) {
-                      return PlantDiseaseIdentifierApp12();
+                      return PlantDiseaseDetector();
                     },
                   ));
                 },
@@ -156,17 +160,6 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
                   Navigator.push(context, MaterialPageRoute(
                     builder: (context) {
                       return MyApp30();
-                    },
-                  ));
-                },
-                child: Text('Decision Support'),
-              ),
-              ElevatedButton(
-                style: buttonprimary,
-                onPressed: () {
-                  Navigator.push(context, MaterialPageRoute(
-                    builder: (context) {
-                      return MyApp3();
                     },
                   ));
                 },
