@@ -1,6 +1,7 @@
 #  What's  Ethiopian  Banana?
 # Name
-
+Common name:  Abyssinian banana
+Botanical name: Ensete ventricosum
 # Characteristics
 
 # How to grow Ethiopian  Banana?

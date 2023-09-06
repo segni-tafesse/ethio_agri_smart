@@ -2,6 +2,7 @@
  okra is a vegetable that brings a unique touch to the culinary realm. In short and brief terms, okra is a tall, flowering plant that produces elongated pods filled with small, edible seeds. These pods are often used in cooking and are known for their characteristic slimy texture when cooked. Okra is cherished in many cuisines for its versatility and ability to add thickness and flavor to soups, stews, and other delightful dishes. It's a vegetable that's worth exploring, dear friend, as it offers a distinct culinary experience!
 # Name
 botanical name: Abelmoschus esculentus
+
 common name : okra
 # Characteristics
 

@@ -1,7 +1,7 @@
 #  What's  Bell peppers?
 bell peppers, my colorful companion! In short, bell peppers are vibrant, bell-shaped fruits that belong to the Capsicum annuum species. They are known for their crisp texture, sweet flavor, and a rainbow of hues, including green, red, yellow, orange, and even purple. These versatile peppers are a wonderful addition to various culinary delights, adding a burst of flavor and a delightful crunch. Whether enjoyed raw in salads, stuffed, roasted, or sautéed in a savory stir-fry, bell peppers bring vibrant beauty and delectable taste to our plates.
 # Name
-Scientific Name: T Capsicum annuum. 
+Scientific Name:  Capsicum annuum. 
 Common Name:  bell peppers.
 # Characteristics
 

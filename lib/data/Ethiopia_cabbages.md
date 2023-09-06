@@ -10,6 +10,7 @@ Ethiopian cabbages refer to the varieties of cabbage (Brassica oleracea) grown a
 5. Preparation and Cooking: Ethiopian cabbages can be prepared and cooked in various ways. They can be sliced or shredded for salads, stir-fried with spices and other vegetables, or braised in stews.
 # Name
 Connon  name: Tikil Gomen
+Botanic name:   Brassica carinata
 # Characteristics
 
 # How to grow Ethiopian  Cabbages?

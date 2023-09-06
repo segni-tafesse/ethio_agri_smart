@@ -1,21 +1,21 @@
-#  What's  Passionn fruits?
+#  What's  Coffee?
 # Name
 
 # Characteristics
 
-# How to grow Passionn fruits?
+# How to grow Coffee?
 # Light
 # Soil
 # Water
 # Temperature  and Humidity
 # Fertilizers
-# Possibke Disease  of  Passionn fruits
+# Possibke Disease  of  Coffee
 
 ## Virus
 ##  Fungus
 ##  Bacteria
-# Pre-prevention of Disease  of Passionn fruits
-# Post-prevention of Disease  of   Passionn fruits
+# Pre-prevention of Disease  of Coffee
+# Post-prevention of Disease  of   Coffee
 #  Pests
 # Pesticides
 # Herbs

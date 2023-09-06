@@ -1,7 +1,8 @@
 #  What's  Beans?
 Beans are edible seeds from plants in the Fabaceae family, available in various shapes, sizes, and colors. They are a fantastic source of protein, fiber, vitamins, and minerals. Whether kidney, black, pinto, chickpeas, or lentils, these legumes offer a wide range of culinary possibilities. Boil, steam, or sprout them to create delicious soups, stews, salads, and spreads like hummus. Embrace the world of beans and savor their nourishing qualities!
 # Name
-
+botanical name: Phaseolus vulgaris
+common name: beans.
 
 # Characteristics
 Plant Type:  commonly known as the legume or pea family.

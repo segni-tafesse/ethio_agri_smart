@@ -3,7 +3,7 @@ the green pepper plant, a delightful addition to any garden or kitchen! In botan
 # Name
  Botanical name : Capsicum annuum.
 
- Common name: "green pepper."
+ Common name: green pepper.
 
 # Characteristics
 Plant Type: flowering plant.

@@ -1,21 +1,21 @@
-#  What's  Plums?
+#  What's Oil palm?
 # Name
 
 # Characteristics
 
-# How to grow Plums?
+# How to growOil palm?
 # Light
 # Soil
 # Water
 # Temperature  and Humidity
 # Fertilizers
-# Possibke Disease  of  Plums
+# Possibke Disease  of Oil palm
 
 ## Virus
 ##  Fungus
 ##  Bacteria
-# Pre-prevention of Disease  of Plums
-# Post-prevention of Disease  of   Plums
+# Pre-prevention of Disease  ofOil palm
+# Post-prevention of Disease  of  Oil palm
 #  Pests
 # Pesticides
 # Herbs
