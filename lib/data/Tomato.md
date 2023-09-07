@@ -136,15 +136,15 @@ Here are some pre-prevention strategies to consider:
 
 # Post-prevention of Disease of Tomato
 Here are some Post-prevention strategies to consider:
-1. Regular Monitoring: Continue to closely monitor your tomato plants throughout the growing season. Regular inspections can help you identify any signs of disease or pest infestation that may have slipped past your initial preventive measures. Early detection allows for swift action and effective management.
+1. Regular Monitoring: Continue to closely monitor your tomato plants throughout the growing season. Regular inspections can help you identify any signs of disease or pest infestation that may have slipped past your initial preventive measures. 
 
-2. Integrated Pest Management (IPM): Embrace the principles of IPM to maintain a balanced ecosystem in your tomato garden. This approach involves using a combination of cultural, biological, and chemical control methods, prioritizing the least harmful options first. By deploying beneficial insects, practicing companion planting, and employing targeted treatments when necessary, you can help keep pest populations in check and reduce the likelihood of disease transmission.
+2. Integrated Pest Management (IPM): Embrace the principles of IPM to maintain a balanced ecosystem in your tomato garden. This approach involves using a combination of cultural, biological, and chemical control methods, prioritizing the least harmful options first.
 
-3. Proper Fertilization: Maintain proper nutrition for your tomato plants to enhance their overall health and disease resistance. Ensure your plants receive balanced fertilization, providing them with the essential nutrients they need for optimal growth. Avoid overfertilization, as excessive nitrogen can promote lush foliage that is more susceptible to diseases.
+3. Proper Fertilization: Maintain proper nutrition for your tomato plants to enhance their overall health and disease resistance. Ensure your plants receive balanced fertilization, providing them with the essential nutrients they need for optimal growth. 
 
-4. Regular Pruning and Training: Continue to prune and train your tomato plants as they grow. This helps maintain good airflow and reduces the risk of fungal diseases by minimizing excess foliage and creating a more open canopy. Remove any suckers or lateral branches that may crowd the plants and impede air circulation. Additionally, stake or trellis your plants to keep them upright and off the ground, reducing the risk of soil-borne diseases.
+4. Regular Pruning and Training: Continue to prune and train your tomato plants as they grow. This helps maintain good airflow and reduces the risk of fungal diseases by minimizing excess foliage and creating a more open canopy.
 
-5. Organic and Biological Controls: Explore the use of organic and biological control methods to manage diseases that may emerge despite your preventive efforts. Beneficial microbes, such as Bacillus subtilis or Trichoderma species, can help suppress fungal pathogens. Organic treatments like neem oil or copper-based products can provide additional protection against diseases when used according to label instructions.
+5. Organic and Biological Controls: Explore the use of organic and biological control methods to manage diseases that may emerge despite your preventive efforts. Beneficial microbes, such as Bacillus subtilis or Trichoderma species, can help suppress fungal pathogens. 
 # Pests
 While tomatoes are delightful to grow, they do encounter their fair share of pests. Here are a few common ones you might encounter:
 

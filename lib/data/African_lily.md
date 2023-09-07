@@ -2,6 +2,7 @@
 African Lily, scientifically known as Agapanthus, is a flowering plant native to Africa. It features strap-shaped leaves and produces showy globe-shaped flower clusters on tall stalks. The flowers come in various colors, including blue, purple, and white. African Lily is commonly cultivated for its ornamental value and is well-suited to temperate and subtropical climates. It is popular in gardens, rock gardens, and container plantings, attracting pollinators like bees and butterflies. With its striking blooms and adaptability, African Lily adds beauty and charm to landscapes worldwide.
 # Name
 Botanic name:  Agapanthus
+
 Common name:  African Lily
 # Characteristics
 Plant Type: African Lily is a perennial herbaceous flowering plant.
@@ -50,7 +51,7 @@ African Lily (Agapanthus) requires regular watering to keep the soil consistentl
 African Lily (Agapanthus) thrives in warm temperatures and prefers a moderate to high humidity environment. It is best suited for temperate to subtropical climates. The ideal temperature range for African Lily is between 65°F (18°C) and 80°F (27°C). Higher humidity levels, around 50% to 70%, are generally beneficial for its growth and overall health. However, African Lily is known to tolerate a wide range of temperatures and humidity levels, making it adaptable to different conditions.
 # Fertilizers
 African Lily (Agapanthus) benefits from regular fertilization to promote healthy growth and abundant flowering. A balanced, slow-release fertilizer with an NPK ratio of 10-10-10 or similar is suitable for African Lily. This type of fertilizer provides a good mix of nitrogen (N), phosphorus (P), and potassium (K) that supports overall plant health and blooming. Apply the fertilizer according to the manufacturer's instructions, typically in early spring and again in mid-summer. Make sure to water the plant thoroughly after fertilization to help the nutrients penetrate the root zone effectively.
-# Possibke Disease  of  African lily
+# Possible Disease  of  African lily
 
 ## Virus
 African Lily (Agapanthus) is generally considered resistant to viral diseases. However, there is a possibility of viral infections affecting the plant. One common viral disease that can affect Agapanthus is the Agapanthus mosaic virus (AgMV). This virus can cause mosaic patterns on the leaves, stunted growth, and reduced flowering. It is primarily transmitted through infected plant material or by sap-sucking insects, such as aphids.

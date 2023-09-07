@@ -1,9 +1,9 @@
 #  What's Spinach?
 spinach, a delightful leafy green! In short, spinach is a nutritious and delicious vegetable. It's both the botanic and common name for this wonderful plant. So, whether you're adding it to a salad, stir-fry, or smoothie, spinach is a fantastic choice for a healthy and vibrant meal. Enjoy the green goodness of spinach and let it bring nourishment to your plate!
 # Name
- botanic name:  Spinacia oleracea
+ Botanic name:  Spinacia oleracea
 
- common name:  spinach
+ Common name:  spinach
 # Characteristics
 Plant Type: Leafy green vegetable.
 
@@ -31,7 +31,7 @@ Toxicity: Non-toxic and safe for consumption when prepared properly.
 
 2. Prepare the soil: Ensure the soil is well-draining, fertile, and free of rocks and debris. Amend the soil with organic matter, like compost, to improve its nutrient content.
 
-3*- Sow the seeds: Plant spinach seeds directly in the soil, about ½ inch deep and 2-4 inches apart. You can sow them in rows or in a scatter pattern.
+3.  Sow the seeds: Plant spinach seeds directly in the soil, about ½ inch deep and 2-4 inches apart. You can sow them in rows or in a scatter pattern.
 
 4. Watering: Keep the soil consistently moist but not waterlogged. Be mindful not to overwater, as it can lead to root rot.
 
@@ -207,3 +207,5 @@ spinach is not toxic to humans when consumed in reasonable amounts. In fact, it 
 spinach doesn't require pruning. Just harvest mature leaves, remove damaged ones, and thin overcrowded plants if needed. Happy harvesting!
 ##  What time  is best  for pruning?
 a matter that requires careful consideration! When it comes to spinach, as mentioned before, pruning is not typically necessary. However, if you find the need to remove damaged or diseased leaves, you can do so at any time during the growing season.
+# Crop Distance
+The distance between two spinach plants depends on the specific variety of spinach being grown and the desired end result. However, a general guideline for spacing spinach plants is to leave about 6-12 inches (15-30 cm) between each plant. This spacing allows enough room for the plants to grow and develop without overcrowding, which can lead to competition for nutrients and reduced yield. Additionally, providing adequate spacing helps improve air circulation around the plants, reducing the risk of diseases.

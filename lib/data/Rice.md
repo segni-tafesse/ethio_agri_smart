@@ -204,3 +204,9 @@ The typical steps involved in harvesting rice are:
 Pruning of rice, also known as rice canopy management, involves the removal or trimming of certain parts of the rice plant to optimize its growth and productivity. 
 ## What time is best for pruning
 The best time for pruning rice is typically during the vegetative stage, around 20-30 days after transplanting or when the plants have reached a certain height and leaf number. It is important to choose a time when the plants are actively growing and have established a strong root system. Pruning at this stage allows for better redirecting of nutrients and energy to the desired tillers, promoting their growth and maximizing yield potential. However, please note that specific timing may vary based on factors such as local climate, rice variety, and cultivation practices.
+# Crop Distance
+The spacing or distance between rice plants can significantly impact their growth and overall production. The recommended spacing for rice depends on various factors such as the rice variety, soil fertility, water availability, and management practices. Here's a general guideline for spacing rice plants:
+
+1. Row Spacing: Leave approximately 8 to 12 inches (20 to 30 centimeters) of space between rows. This spacing allows for proper tiller development and facilitates water management in paddy fields.
+
+2. Plant Spacing: Within each row, space the rice plants approximately 6 to 8 inches (15 to 20 centimeters) apart. This spacing provides adequate room for the plants to grow and develop without overcrowding.

@@ -64,6 +64,11 @@ Here are some guidelines for watering Ethiopian Rosewood:
 
 
 # Temperature  and Humidity
+specific temperature and humidity requirements can vary slightly depending on the exact species of Guibourtia, there are some general guidelines to consider:
+
+Temperature: Ethiopian rosewood generally thrives in tropical to subtropical climates. It prefers temperatures between 20°C to 30°C (68°F to 86°F). It can tolerate slightly cooler temperatures but may suffer if exposed to frost or prolonged periods of cold.
+
+Humidity: Ethiopian rosewood prefers a humid environment. It typically grows well in areas with humidity levels ranging from 50% to 70%. High humidity helps maintain the health of the tree and prevents the wood from drying out and cracking.
 
 # Fertilizers
  Here are some guidelines for fertilizing Ethiopian Rosewood:
@@ -98,7 +103,7 @@ Here are some guidelines for watering Ethiopian Rosewood:
 
 
 ##  Fungus
-. Here are a few common fungal diseases that can affect Ethiopian Rosewood:
+ Here are a few common fungal diseases that can affect Ethiopian Rosewood:
 
 1. Root Rot: Root rot caused by fungal pathogens like Phytophthora or Pythium species can occur in Ethiopian Rosewood. It is often associated with poorly drained or waterlogged soil conditions. Symptoms include wilting, yellowing of leaves, and root decay.
 
@@ -210,14 +215,25 @@ Here are some steps you can take:
 
 
 # Herbicides
-When it comes to herbicides for Ethiopian Rosewood (Dalbergia melanoxylon) or any other woody tree species, it's important to exercise caution as the use of herbicides can have unintended consequences and may harm the tree or surrounding vegetation if not applied properly. In general, the use of herbicides should be a last resort after exploring other non-chemical control methods. If you are facing specific weed issues around Ethiopian Rosewood, it is advisable to consult with a professional, such as a local agricultural extension service or a certified arborist, for guidance on appropriate herbicides for your situation. They can provide specific recommendations based on the weed species, environmental factors, and local regulations.
 
-It's worth noting that as of my knowledge cutoff in September 2021, there were no herbicides specifically registered for use on Ethiopian Rosewood. Herbicides commonly used in woody plant management, including selective herbicides for broadleaf weeds and non-selective herbicides for grasses and broadleaf weeds, might be considered. However, the selection and application of herbicides should be done by professionals with expertise in plant management and following local regulations.
+Here are a few common herbicides that can be used for weed control around Ethiopian rosewood:
 
+1. Glyphosate: Glyphosate-based herbicides are commonly used for broad-spectrum weed control. They are effective against many types of weeds, including perennial and annual grasses and broadleaf plants. However, it's important to apply glyphosate carefully, avoiding direct contact with the rosewood trees.
+
+2. Pre-emergent herbicides: These herbicides are applied before weed seeds germinate, creating a barrier that inhibits weed growth. Common pre-emergent herbicides include products with active ingredients like pendimethalin, prodiamine, oryzalin, and trifluralin. Again, it's crucial to carefully follow the instructions and avoid contact with the rosewood trees.
+
+3. Mulching: While not an herbicide, mulching can be an effective weed control method around Ethiopian rosewood trees. Applying a layer of organic mulch, such as wood chips or straw, around the base of the trees can suppress weed growth by blocking sunlight and inhibiting weed seed germination.
 #  Toxicity
+Ethiopian Rosewood (Dalbergia melanoxylon) is primarily known for its valuable wood rather than its toxicity. The wood of Ethiopian Rosewood is dense, durable, and highly regarded for its beauty and musical qualities. However, like many woods, it can produce dust during cutting or sanding, and prolonged exposure to wood dust from any species can potentially pose health risks.
+
+Wood dust inhalation can irritate the respiratory system and may cause respiratory symptoms such as coughing, wheezing, and nasal or throat irritation. Additionally, some individuals may be sensitive or allergic to specific wood species, including rosewoods, and may experience allergic reactions or dermatitis upon contact with the wood or its dust.
+
+ 
+
+# Harvesting
 
 
- The harvesting of Ethiopian Rosewood involves several steps:
+The harvesting of Ethiopian Rosewood involves several steps:
 
 1. Obtaining Harvesting Permits: In Ethiopia, the harvesting of Ethiopian Rosewood is regulated, and permits are required to legally harvest and trade the timber. Harvesters must comply with local laws and regulations and obtain the necessary permits from the appropriate authorities.
 
@@ -230,13 +246,6 @@ It's worth noting that as of my knowledge cutoff in September 2021, there were n
 5. Processing and Drying: At processing facilities, the harvested Ethiopian Rosewood logs are typically sawn into planks, boards, or other desired dimensions. The wood is then air-dried or kiln-dried to reduce moisture content and stabilize the material for further use.
 
 6. Value-Added Processing: Ethiopian Rosewood is highly prized for its beauty and is often used in high-end musical instruments, carvings, furniture, and other specialty items. Depending on the intended use, the dried wood may undergo additional processing, such as planing, sanding, or shaping, to achieve the desired finished product.
-
-
-# Harvesting
-Ethiopian Rosewood (Dalbergia melanoxylon) is primarily known for its valuable wood rather than its toxicity. The wood of Ethiopian Rosewood is dense, durable, and highly regarded for its beauty and musical qualities. However, like many woods, it can produce dust during cutting or sanding, and prolonged exposure to wood dust from any species can potentially pose health risks.
-
-Wood dust inhalation can irritate the respiratory system and may cause respiratory symptoms such as coughing, wheezing, and nasal or throat irritation. Additionally, some individuals may be sensitive or allergic to specific wood species, including rosewoods, and may experience allergic reactions or dermatitis upon contact with the wood or its dust.
-
 
 # Pruning 
 Pruning Ethiopian Rosewood (Dalbergia melanoxylon) involves the selective removal of branches or parts of the tree to improve its structure, health, and aesthetics. Here's a brief overview of pruning Ethiopian Rosewood:
@@ -259,3 +268,9 @@ The best time for pruning Ethiopian Rosewood (Dalbergia melanoxylon) is during t
 3. Clear Visibility: Without leaves or foliage, the tree's structure is more visible during the dormant season. This allows for better assessment of the tree's shape, health, and identification of branches that need to be pruned.
 
 # Crop Distance
+The spacing between Ethiopian rosewood (Dalbergia melanoxylon) trees can significantly influence their growth and production. While specific recommendations may vary based on factors such as soil fertility, climate, and management practices, a general guideline for spacing Ethiopian rosewood trees is as follows:
+
+1. For Timber Production: If the primary goal is timber production, a wider spacing is typically recommended to allow the trees to develop larger crowns and trunks. Spacing between trees can range from 10 to 15 meters (33 to 49 feet) or more, depending on the desired end use and site conditions. This wider spacing allows for better light penetration, airflow, and overall tree health.
+
+2. For Agroforestry or Multiple Use Systems: In agroforestry systems or when Ethiopian rosewood is planted alongside other crops, a narrower spacing may be used. Spacing between trees can range from 5 to 10 meters (16 to 33 feet). This closer spacing promotes competition between trees, which can result in taller, straighter trunks and potentially higher wood production per unit area.
+

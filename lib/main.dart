@@ -1,21 +1,15 @@
-// ignore_for_file: use_build_context_synchronously
 import 'package:ethio_agri_smart/artificial.dart';
-
 import 'package:ethio_agri_smart/decision_sup.dart';
+import 'package:ethio_agri_smart/fer.dart';
 import 'package:ethio_agri_smart/fer_car.dart';
 import 'package:ethio_agri_smart/fiveth.dart';
-
-import 'package:ethio_agri_smart/new.dart';
-
 import 'package:ethio_agri_smart/pest.dart';
-import 'package:ethio_agri_smart/picker.dart';
-
+import 'package:ethio_agri_smart/rotation.dart';
 import 'package:ethio_agri_smart/weather_screen.dart';
 import 'package:flutter/material.dart';
 import './onepage.dart';
 import './navigation_drawer.dart';
 import './button.dart';
-import 'pest.dart';
 
 //eyos wrote this comment
 void main() => runApp(MaterialApp(
@@ -170,11 +164,22 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
                 onPressed: () {
                   Navigator.push(context, MaterialPageRoute(
                     builder: (context) {
-                      return MyApp20();
+                      return CropRecommendationPage();
                     },
                   ));
                 },
-                child: Text('Pest Calculator '),
+                child: Text('Crop Rotation '),
+              ),
+              ElevatedButton(
+                style: buttonprimary,
+                onPressed: () {
+                  Navigator.push(context, MaterialPageRoute(
+                    builder: (context) {
+                      return FertilizerCalculatorApp1();
+                    },
+                  ));
+                },
+                child: Text('Agro Calculator'),
               ),
             ],
           ),

@@ -2,6 +2,7 @@
 Safflower oil is composed mainly of oleic and linoleic acids. These two unsaturated fats make up 90% of safflower oil. The saturated fatty acids palmitic acid and stearic acid make up the remaining 10% ( 6 ).
 # Name
 The botanical name of the common sunflower is (Helianthus annuus)
+
 Common name :linoleic (most common), high oleic, and sunflower oil seeds.
 
 # Characteristics
@@ -161,21 +162,28 @@ While mature sunflower seeds are safe to eat, the leaves, flowers, and stems can
 # How to harvest Sunflower?
 Harvesting sunflowers is an important step in the process of growing sunflower crops. Here are the general steps to harvest sunflowers:
 
-Timing: Sunflowers are typically ready for harvest when the back of the flower heads turn yellow or brown, and the petals have dried up and fallen off. The seeds inside the flower head should be plump and fully developed.
+1. Timing: Sunflowers are typically ready for harvest when the back of the flower heads turn yellow or brown, and the petals have dried up and fallen off. The seeds inside the flower head should be plump and fully developed.
 
-Equipment: You will need some basic equipment for harvesting sunflowers, including sharp pruning shears or a sickle, a bucket or container for collecting the sunflower heads, and gloves for protection.
+2. Equipment: You will need some basic equipment for harvesting sunflowers, including sharp pruning shears or a sickle, a bucket or container for collecting the sunflower heads, and gloves for protection.
 
-Cutting the Sunflower Heads: Use the pruning shears or sickle to cut the sunflower heads from the stalk. Cut the stem a few inches below the head to ensure you have enough stem to handle during the drying process.
+3. Cutting the Sunflower Heads: Use the pruning shears or sickle to cut the sunflower heads from the stalk. Cut the stem a few inches below the head to ensure you have enough stem to handle during the drying process.
 
-Drying the Sunflower Heads: After cutting the sunflower heads, you will need to dry them to facilitate seed removal. Hang the sunflower heads upside down in a dry, well-ventilated area, such as a shed or a garage. Make sure the heads are suspended in a way that allows air to circulate around them.
+4.  Drying the Sunflower Heads: After cutting the sunflower heads, you will need to dry them to facilitate seed removal. Hang the sunflower heads upside down in a dry, well-ventilated area, such as a shed or a garage. Make sure the heads are suspended in a way that allows air to circulate around them.
 
-Seed Removal: Once the sunflower heads are fully dry, you can proceed to remove the seeds. You can do this by rubbing the flower head with your hands or using a tool to gently dislodge the seeds. The seeds are typically located in the center of the flower head, surrounded by the disk florets.
+5. Seed Removal: Once the sunflower heads are fully dry, you can proceed to remove the seeds. You can do this by rubbing the flower head with your hands or using a tool to gently dislodge the seeds. The seeds are typically located in the center of the flower head, surrounded by the disk florets.
 
-Seed Cleaning: After removing the seeds, you may need to clean them to remove any remaining plant debris or chaff. You can do this by winnowing the seeds outdoors on a windy day or by using a sieve or screen to separate the seeds from the debris.
+6. Seed Cleaning: After removing the seeds, you may need to clean them to remove any remaining plant debris or chaff. You can do this by winnowing the seeds outdoors on a windy day or by using a sieve or screen to separate the seeds from the debris.
 
-Storage: Store the harvested sunflower seeds in a cool, dry place in airtight containers such as glass jars or sealed plastic bags. Proper storage will help maintain the quality and prevent spoilage.
+7. Storage: Store the harvested sunflower seeds in a cool, dry place in airtight containers such as glass jars or sealed plastic bags. Proper storage will help maintain the quality and prevent spoilage.
 # Pruning
 Cut sunflower plants back by half in mid to late spring. Annual and perennial sunflowers should be cut back in early spring to promote branching, creating a full plant. Do not prune annual sunflowers after buds appear. Step 2 - Cut back perennial sunflowers a second time around mid-summer.
 
 ## what time is best for pruning of sunflower
 Perennial sunflowers are herbaceous, and new growth appears in the spring. Trim the new growth back by half in mid to late spring. Prune the plant again in mid to late summer. Annual sunflowers can also be cut back in late spring.
+# Crop Distance
+The spacing or distance between sunflower plants can impact their growth and overall production. The recommended spacing for sunflowers depends on various factors, including the specific sunflower variety, soil fertility, available resources, and management practices. Here's a general guideline for spacing sunflower plants:
+
+1. Row Spacing: Leave approximately 24 to 36 inches (60 to 90 centimeters) of space between rows. This spacing allows for proper air circulation and access to sunlight, which is essential for healthy plant growth.
+
+2. Plant Spacing: Within each row, space the sunflower plants approximately 18 to 24 inches (45 to 60 centimeters) apart. This spacing provides adequate room for the plants to grow, branch out, and develop their large flower heads.
+

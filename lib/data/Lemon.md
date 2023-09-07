@@ -5,6 +5,8 @@ Botanical name  : Citrus limon (L.) Burm
 
 Common name : Lemon
 # Characteristics of Lemon
+plant type: perennial flowering plant.
+
 Mature size  : 20 feet tall
 
 Sun Exposure  : Full sun
@@ -58,7 +60,7 @@ The ideal NPK ratio for lemon tree fertilizer is 6-6-6. This means it contains e
 
 4. Citrus Leaf Rugose Virus: Citrus leaf rugose virus (CLRV) is a relatively new viral disease that can affect lemon trees, causing significant economic losses in some regions. It is primarily transmitted through infected citrus budwood or grafting. Infected trees may exhibit symptoms such as leaf curling, dark green blotches or stripes on leaves, and reduced fruit quality. Prevention involves using virus-free planting material and implementing strict sanitation practices.
 ## Fungus
-. Here are a few possible fungal diseases that can afflict lemon trees:
+ Here are a few possible fungal diseases that can afflict lemon trees:
 
 1. Citrus Canker: Citrus canker, caused by the bacterium Xanthomonas citri subsp. citri, can result in characteristic raised, corky lesions on leaves, stems, and fruit. However, it is commonly referred to as a bacterial rather than a fungal disease. My apologies for the confusion earlier.
 
@@ -98,24 +100,54 @@ The ideal NPK ratio for lemon tree fertilizer is 6-6-6. This means it contains e
 # Post-prevention of Disease of Lemon
  Here are some post-prevention strategies to consider:
 
-1. Early Detection and Diagnosis: Regularly monitor your lemon trees for any signs of disease, such as leaf spots, discoloration, or unusual growth patterns. Promptly identify and diagnose any potential issues to take immediate action. Consult with local agricultural experts or extension services to confirm disease identification and determine the most appropriate management strategies.
+1. Early Detection and Diagnosis: Regularly monitor your lemon trees for any signs of disease, such as leaf spots, discoloration, or unusual growth patterns. Promptly identify and diagnose any potential issues to take immediate action. 
 
-2. Isolate and Quarantine: If you detect a diseased lemon tree, isolate it from healthy trees to prevent the spread of pathogens. Consider creating a temporary quarantine area to house the affected tree until you can properly manage the disease. This helps contain the problem and protects the rest of your lemon trees.
+2. Isolate and Quarantine: If you detect a diseased lemon tree, isolate it from healthy trees to prevent the spread of pathogens. Consider creating a temporary quarantine area to house the affected tree until you can properly manage the disease. 
 
-3. Implement Targeted Treatments: Once a disease is identified, employ targeted treatments to manage and control the specific pathogen. This may involve applying appropriate fungicides or bactericides following recommended guidelines and dosage rates. Select products that are effective against the identified disease and safe for use on citrus trees.
+3. Implement Targeted Treatments: Once a disease is identified, employ targeted treatments to manage and control the specific pathogen. This may involve applying appropriate fungicides or bactericides following recommended guidelines and dosage rates.
 
-4. Prune and Remove Infected Material: Pruning and removing infected plant material is crucial in post-prevention. Trim away diseased branches, leaves, or fruit following proper pruning techniques to prevent the disease from spreading further. Safely dispose of the infected material away from your orchard or garden to avoid contamination.
+4. Prune and Remove Infected Material: Pruning and removing infected plant material is crucial in post-prevention. Trim away diseased branches, leaves, or fruit following proper pruning techniques to prevent the disease from spreading further. 
 
-5. Enhance Tree Health and Vigor: Strengthening the overall health and vigor of your lemon trees is essential for post-prevention. Provide proper nutrition through balanced fertilization, ensuring the trees receive essential nutrients. Maintain optimal irrigation practices to prevent water stress. Healthy trees are better equipped to resist and recover from diseases.
+5. Enhance Tree Health and Vigor: Strengthening the overall health and vigor of your lemon trees is essential for post-prevention. Provide proper nutrition through balanced fertilization, ensuring the trees receive essential nutrients. Maintain optimal irrigation practices to prevent water stress. 
 
-6. Adjust Cultural Practices: Assess and adjust your cultural practices as needed to create an environment that discourages disease development. This may involve modifying irrigation schedules, improving air circulation, or adjusting fertilization practices. Avoid overwatering or creating conditions that promote excessive moisture, as this can contribute to certain fungal diseases.
+6. Adjust Cultural Practices: Assess and adjust your cultural practices as needed to create an environment that discourages disease development. This may involve modifying irrigation schedules, improving air circulation, or adjusting fertilization practices. 
 # Pests
-What is a common pest?
-When you think of house pests, insects may be the first critters that come to mind. After all, who likes seeing ants or flies infesting their home? Other common house insects include feared pests such as termites, bed bugs and cockroaches.
-# Pesticides
-What pesticides are used on lemons?
+Here are some common pests that can infest lemon trees:
 
-Conventional lemons are treated with imazalil, a fungicide, after harvest to prevent mold and stem rot, in addition to a coating of wax — often petroleum or shellac-based. If that wasn't enough of a bummer, imazalil has been labeled “likely to be carcinogenic” by the Environmental Protection Agency.
+1. Citrus Leafminer (Phyllocnistis citrella): The citrus leafminer is a tiny moth whose larvae tunnel into young leaves, creating serpentine mines. This pest can cause significant damage to lemon tree foliage, affecting its overall health.
+
+2. Citrus Whitefly (Dialeurodes citri): Citrus whiteflies are small, sap-sucking insects that often infest the undersides of lemon leaves. They excrete honeydew, a sticky substance that can attract ants and promote the growth of sooty mold.
+
+3. Scale Insects: Several scale insect species can infest lemon trees, including the California red scale (Aonidiella aurantii) and the cottony cushion scale (Icerya purchasi). Scales are small, immobile insects that feed on plant sap and produce a protective shell-like covering. Heavy infestations can weaken the tree and lead to leaf yellowing and dieback.
+
+4. Aphids: Aphids are soft-bodied insects that feed on the sap of new growth, including lemon shoots and leaves. They reproduce rapidly and can cause curling, distortion, and yellowing of leaves. Aphids also excrete honeydew, attracting ants and promoting sooty mold growth.
+
+5. Citrus Thrips (Scirtothrips citri): Citrus thrips are tiny insects that feed on lemon flowers, causing them to drop prematurely. They can also damage young fruit by causing scarring and deformities.
+
+6. Citrus Psyllids: Citrus psyllids, such as the Asian citrus psyllid (Diaphorina citri), are small insects that can transmit a bacterium called Candidatus Liberibacter asiaticus, which causes the devastating citrus disease known as huanglongbing (HLB) or citrus greening. Infected trees exhibit stunted growth, yellowing leaves, and bitter, misshapen fruit.
+
+7. Mediterranean Fruit Fly (Ceratitis capitata): The Mediterranean fruit fly is a common pest that attacks citrus fruits, including lemons. The female fruit fly lays eggs in the fruit, and the hatched larvae feed on the pulp, causing fruit damage and decay.
+
+8. Snails and Slugs: Snails and slugs are common pests that can feed on lemon tree foliage, flowers, and fruit. They leave behind slime trails and can cause significant damage, especially to young plants.
+
+
+
+
+
+# Pesticides
+Here are some common pesticides used for lemon pest control:
+
+1. Insecticidal soaps: Insecticidal soaps are contact insecticides that can be effective against soft-bodied insects like aphids, whiteflies, and mites. They work by suffocating the pests. It's important to follow the instructions on the product label and ensure thorough coverage of the affected plant parts.
+
+2. Horticultural oils: Horticultural oils, such as neem oil or mineral oil, can be used to control a range of pests on lemon trees, including aphids, scales, mites, and mealybugs. These oils work by suffocating or disrupting the pests' respiratory systems.
+
+3. Pyrethroid insecticides: Pyrethroids are synthetic insecticides commonly used to control a wide range of pests, including aphids, citrus leafminers, and citrus psyllids. They work by targeting the nervous system of the insects. 
+
+4. Systemic insecticides: Systemic insecticides are absorbed by the plant and transported through its tissues, providing control against a range of pests. Imidacloprid is one commonly used systemic insecticide for controlling citrus pests like aphids, whiteflies, and psyllids. Systemic insecticides can be applied as soil drenches, granules, or injected directly into the trunk.
+
+5. Spinosad: Spinosad is a natural insecticide derived from the fermentation of a soil bacterium. It is effective against various pests, including citrus leafminers, caterpillars, and fruit flies. Spinosad is considered relatively safe for beneficial insects and has a low impact on the environment. 
+
+6. Bacillus thuringiensis (Bt): Bt is a naturally occurring soil bacterium that produces proteins toxic to certain insect pests. It is commonly used for controlling caterpillars, including those that may infest lemon trees. 
 # Herbs
 When it comes to herbs that pair well with lemon, there are a few common ones that can enhance its citrusy notes and create delightful culinary combinations. Here are a few examples:
 
@@ -141,6 +173,19 @@ Prune lemon trees in early spring, before they flower and new growth starts to a
 What is the best time for pruning?
 winter
 Generally, the best time to prune or trim trees and shrubs is during the winter months. From November through March, most trees are dormant which makes it the ideal time for the following reasons: Trees are less susceptible to insects or disease.
+## What time is best  for pruning of lemon?
+
+Here are a few reasons why late winter or early spring is considered the ideal time for pruning lemon trees:
+
+1. Dormant Period: Pruning during the dormant period, when the tree is not actively growing, minimizes the stress on the tree. It allows for easier visual assessment of the tree's structure and makes it easier to identify and remove dead, damaged, or diseased branches.
+
+2. Promotes New Growth: Pruning just before the start of the growing season stimulates new growth since the tree's resources are directed towards the remaining branches. This can help maintain a healthy and balanced canopy, promote fruit production, and improve overall tree vigor.
+
+3. Reduced Disease Risk: Pruning during the dormant period reduces the risk of disease transmission, as some pathogens are less active or dormant themselves during this time. Pruning cuts have a better chance of healing without becoming entry points for pathogens.
+
+
+
+
 # Crop Distances
 When it comes to the spacing or distance required for lemon trees, it is essential to provide adequate room for their growth and optimal development.
 

@@ -58,7 +58,7 @@ The thirst-quenching needs of green pepper plants, a vital aspect of their well-
  the ideal temperature and humidity for the well-being of green pepper plants, a subject of utmost importance! Green pepper plants thrive in warm temperatures, ideally between 70-90°F (21-32°C). They enjoy a moderate level of humidity, around 40-60%. It is essential to provide a comfortable environment for your green pepper plants, ensuring they are not exposed to extreme temperatures or excessively dry conditions. Strike a balance, my gardening companion, and create a cozy haven for your green pepper plants to flourish and bear delicious fruits!
 # Fertilizers
  The nourishment that green pepper plants crave, an essential element for their growth! When it comes to fertilizing green pepper plants, a balanced fertilizer is recommended. Look for a fertilizer with equal or near-equal amounts of nitrogen (N), phosphorus (P), and potassium (K). This will provide the necessary nutrients for healthy foliage, flowering, and fruit production. Apply the fertilizer according to the manufacturer's instructions, typically every 4-6 weeks during the growing season. Feed your green pepper plants with care, and they shall reward you with a bountiful harvest of flavorful peppers!
-# Possibke Disease  of  Green pepper
+# Possible Disease  of  Green pepper
 
 ## Virus
 Some common viral diseases that may affect green pepper plants include:
@@ -209,3 +209,7 @@ Here's a concise version:
 
 ##  What time  is best  for pruning?
 the timing of pruning, a crucial consideration for our green pepper plants! In short, the best time for pruning green peppers is during the early morning or late afternoon when the temperatures are cooler. This helps minimize stress on the plants and allows them to recover more quickly. Avoid pruning during the hottest part of the day to prevent wilting or sunburn on the newly exposed foliage. So, choose a cool and gentle moment to prune your green pepper plants, my diligent gardener!
+# Crop Distance
+The crop distance or spacing between two green pepper plants can depend on various factors, including the specific variety of pepper, growing conditions, and management practices. However, a general guideline for spacing green pepper plants is to maintain a distance of about 45 to 60 centimeters (18 to 24 inches) between plants in a row. This spacing provides enough room for the plants to grow and develop without overcrowding.
+
+Additionally, it is common to leave around 60 to 90 centimeters (24 to 36 inches) between rows to allow for ease of cultivation, airflow, and access for harvesting. Adequate spacing between plants helps ensure proper air circulation, reduces the risk of disease transmission, and allows each plant to receive sufficient sunlight and nutrients.

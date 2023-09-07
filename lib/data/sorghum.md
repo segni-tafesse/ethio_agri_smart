@@ -64,7 +64,17 @@ At planting, a general recommendation is to apply 25-50 pounds of nitrogen per a
 Throughout the growing season, additional nitrogen can be applied in split applications to support plant growth and grain production. It is best to follow soil test recommendations to determine the exact fertilizer requirements, as the nutrient needs may vary depending on the soil type and conditions in your specific area.
 # Possible Disease of Sorghum 
 ## Virus
+There are several viral diseases that can affect sorghum plants. Some common viral diseases of sorghum include:
 
+1. Maize mosaic virus: This virus causes mosaic symptoms on the leaves, stunting of plants, and reduced yield.
+
+2. Sorghum mosaic virus: This virus causes mosaic symptoms on the leaves, yellowing, and stunting of plants.
+
+3. Sugarcane mosaic virus: This virus causes mosaic symptoms on the leaves, stunting of plants, and reduced yield.
+
+4. Johnsongrass mosaic virus: This virus infects both sorghum and johnsongrass, causing mosaic symptoms on the leaves, stunting of plants, and reduced yield.
+
+5. Sorghum yellow striate virus: This virus causes yellowing and streaking of leaves, stunting of plants, and reduced yield.
 ## Fungus
 Fungal diseases can indeed pose a significant threat to our beloved sorghum crops. Allow me to enlighten you about a few possible fungal diseases that can afflict sorghum:
 
@@ -76,7 +86,7 @@ Fungal diseases can indeed pose a significant threat to our beloved sorghum crop
 
 4. Rust (Puccinia purpurea): Rust is a fungal disease caused by Puccinia purpurea. It manifests as orange to reddish-brown pustules on the leaves, stems, or panicles of sorghum plants. Severe infections can result in defoliation, reduced photosynthesis, and yield reduction.
 ## Bacteria
-there are indeed a few bacterial diseases that can pose a threat to our beloved crop. Allow me to enlighten you about a couple of possible bacterial diseases that can afflict sorghum:
+There are indeed a few bacterial diseases that can pose a threat to our beloved crop. Allow me to enlighten you about a couple of possible bacterial diseases that can afflict sorghum:
 
 1. Bacterial Leaf Stripe (Burkholderia andropogonis): Bacterial Leaf Stripe is a common bacterial disease that affects sorghum. It is caused by the bacterium Burkholderia andropogonis. Infected plants may display elongated, water-soaked lesions with yellowish or brownish margins on the leaves. As the disease progresses, these lesions may expand and coalesce, leading to necrotic areas. Bacterial Leaf Stripe can result in reduced photosynthetic activity, stunted growth, and yield losses if left unmanaged.
 
@@ -117,7 +127,7 @@ Here are a few post-prevention strategies to condider:
 
 8. Record-Keeping: Maintain detailed records of disease incidence, severity, and management strategies employed. This information will help in future decision-making, allowing you to fine-tune your disease management practices.
 
-# Pest 
+# Pests 
 
 Some common pests of sorghum include:
 

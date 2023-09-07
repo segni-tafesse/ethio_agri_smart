@@ -1,9 +1,9 @@
 # What's an Apple?
 An apple is a round, edible fruit produced by an apple tree Malus domestica. Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found. Apples have been grown for thousands of years in Asia and Europe and were introduced to North America by European colonists. Apples have religious and mythological significance in many cultures, including Norse, Greek, and European Christian tradition.
-# Names:
+# Names
 1,Scientific/Botanical name : Malus sylvestris  
 2,Common name: Apple
-# Characteristics of Apple:
+# Characteristics of Apple
 
 Plant type: Rose family(Rosaceae)
 
@@ -33,15 +33,15 @@ Toxicity: Apple flesh and peel are very healthful and pose no risk. Yet seeds re
    6.  Fertilizing: Apple trees benefit from regular fertilization. Apply a balanced fertilizer in early spring and late fall, following the instructions on the product packaging. 
    7.  Pest and Disease Management: Monitor your apple tree for common pests like aphids, codling moths, or apple maggots, and implement appropriate control measures if necessary. Organic approaches like maintaining good tree hygiene, promoting biodiversity, and using biological controls are often preferred. 
  8.  Harvesting: Apples typically ripen in late summer or fall, depending on the variety. Harvest the fruit when it reaches its proper maturity stage by gently twisting it or lifting and testing for easy separation.
-# Light:
+# Light
 Apple trees need full sun to grow properly and produce fruit. This level of exposure means the tree will see at least six to eight hours of direct sunlight each day. Anything less than this will result in poor fruit yields or a lack of fruit entirely.
-# Soil: 
+# Soil
  Apples grow best on a well-drained, loam soils having a depth of 45 cm and a pH range of pH 5.5-6.5. The soil should be free from hard substrata and water-logged conditions. Soils with heavy clay or compact subsoil are to be avoided.
- # Water:
+ # Water
   Apple tree water requirements depend on rainfall. In general, for an established tree, you won't need to water it unless you are not getting much rain or there is a particularly dry spell or even drought. About an inch (2.5 cm.) or so of rainfall every week to ten days is adequate for most apple trees.
-  # Temperature and Humidity: 
+  # Temperature and Humidity
   Apples are best stored at 30°- 32°F, with a relative humidity of 90 percent and some air circulation. These conditions provide the greatest delay in the normal ripen- ing and aging process of the fruit.
- # Fertilizers:  
+ # Fertilizers
  Experts recommend fertilizing your apple tree right after you plant it, and then a second time in early summer. During the second year, experts suggest fertilizing once in early spring, and a second time in early summer. Fertilize mature apple trees once a year during the spring. Apple trees mainly prefer high nitrogen fertilizer. Composted chicken manure, blood, soybean, cottonseed, and feather are excellent organic nitrogen sources. Organic fertilizers provide the Apple trees with the nutrients they need to grow healthy Apples and grow stronger.
  # Possible Disease of Apple
  ## Virus
@@ -119,13 +119,57 @@ Nutritional management: Provide proper nutrition to your apple trees to promote 
 Record keeping: Maintain records of disease occurrences, treatments applied, and their effectiveness. This information can help you assess the success of your disease management efforts and make informed decisions in the future.
 
 
-# PESTS: 
-The common pests of Apple are: maggot flies, plum curculio, and codling moth.
-# PESTICIDES:
- The best way to control pests in Apple is while those pests are mating and looking for potential egg-laying sites, so during this period we can use pesticides like: \n Chlorantrani liprole  41.2% \n Acetamiprid. 28.7%\n Lmidacloprid 20.2% \n Carbendazlm(MBC) 17.3%
- # Herbs:
- Some common types of herbs associated with apple flavors include cinnamon, nutmeg, ginger, cloves, allspice, cardamom, and rosemary. These herbs can be used to enhance the taste of apples in various dishes and beverages.
- # Herbicides:
+# Pests
+ Here are some common pests that can infest apple trees:
+
+1. Apple Maggot (Rhagoletis pomonella): The apple maggot is a small fly whose larvae tunnel into the fruit, causing brown, corky trails and making the apples unattractive.
+
+2. Codling Moth (Cydia pomonella): The codling moth is a common pest that attacks apples. The larvae tunnel into the fruit, causing internal damage and making the apples susceptible to rot and secondary infections.
+
+3. Apple Aphids (Aphis pomi): Aphids are small insects that feed on the sap of apple trees. They can cause leaf curling, distortion, and the production of honeydew, which attracts other pests like ants and sooty mold.
+
+4. Apple Sawfly (Hoplocampa testudinea): The apple sawfly is a small, wasp-like insect whose larvae tunnel into the fruit, causing damage and rendering the apples inedible.
+
+5. Apple Scab (Venturia inaequalis): Apple scab is a fungal disease that affects the leaves, fruit, and even twigs of apple trees. It causes dark, scaly lesions on the fruit, which can lead to reduced yield and quality.
+
+6. Apple Rust Diseases: Various rust diseases, such as cedar apple rust and quince rust, can affect apple trees. They cause orange or rust-colored lesions on leaves, fruit, and twigs, leading to reduced vigor and yield.
+
+7. Apple Leafhopper (Empoasca maligna): Leafhoppers are small insects that can cause stippling or yellowing of apple tree leaves, affecting their photosynthetic capacity and overall health.
+
+8. Apple Spider Mites (Tetranychus spp.): Spider mites are tiny pests that feed on apple tree leaves, causing yellowing, stippling, and eventual defoliation if left untreated.
+
+# Pesticides
+ Here are some examples of common pesticides used in apple orchards for pest and disease control:
+
+1. Insecticides:
+   - Spinosad: It targets a wide range of pests, including codling moth, leafminers, and apple maggot.
+   - Carbaryl: It is effective against various chewing insects, including codling moth and apple maggot.
+   - Imidacloprid: It is used for systemic control of sucking insects such as aphids and leafhoppers.
+   - Malathion: It is effective against a broad spectrum of insects, including aphids, codling moth, and leafrollers.
+
+2. Fungicides:
+   - Captan: It is used to control apple scab, as well as other fungal diseases like powdery mildew and fruit rot.
+   - Mancozeb: It provides control against apple scab and other fungal diseases.
+   - Boscalid: It is effective against apple scab, powdery mildew, and other fungal pathogens.
+   - Myclobutanil: It controls apple scab, powdery mildew, and certain other fungal diseases.
+
+
+ # Herbs
+When it comes to companion planting or herbs commonly found near apple trees, here are a few examples:
+
+1. Dill (Anethum graveolens): Dill attracts beneficial insects such as wasps and ladybugs, which can help control pests like aphids and caterpillars that may affect apple trees. It also adds a pleasant aroma to the garden.
+
+2. Chives (Allium schoenoprasum): Chives can deter aphids and other pests that might infest apple trees. They have a mild onion flavor and produce attractive purple flowers.
+
+3. Tansy (Tanacetum vulgare): Tansy is known for its repellent properties against certain insects, including ants, flies, and moths. Planting tansy near apple trees may help deter pests from damaging the fruit.
+
+4. Yarrow (Achillea millefolium): Yarrow attracts a wide range of beneficial insects, including ladybugs and predatory wasps, which can help control aphids and other pests. It also adds beauty with its clusters of small, white flowers.
+
+5. Nasturtium (Tropaeolum majus): Nasturtiums not only add vibrant colors to the garden but also act as trap plants for aphids. They can attract aphids away from apple trees, serving as sacrificial plants.
+
+6. Comfrey (Symphytum spp.): Comfrey is a nutrient-rich plant that can be used as a mulch or compost material around apple trees. As it breaks down, it releases nutrients into the soil, benefiting the tree's overall health.
+
+ # Herbicides
  Some common herbicides used in apple orchards include:
 
 1. Glyphosate: This broad-spectrum herbicide is commonly used to control a wide range of weeds in apple orchards.
@@ -139,11 +183,13 @@ The common pests of Apple are: maggot flies, plum curculio, and codling moth.
 5. Simazine: Similar to atrazine, simazine is also used for controlling grassy weeds in apple orchards.
 
 It is important to note that the use of herbicides should be done following proper guidelines and regulations to ensure the safety of the environment and human health.
-# Toxicity: 
+# Toxicity
 Apple flesh and peel are very healthful and pose no risks. Yet chewed or crushed apple seeds release small amounts of cyanide, which is highly toxic.
-# Harvesting: 
+# Harvesting
 The fruits mature within 130-150 days after the full bloom stage depending upon the variety grown. The ripening of fruits is associated with the change in colour, texture, quality and the development of the characteristic flavour. The fruits at the time of harvest should be uniform, firm and crisp.
-# Pruning: 
+# Pruning
 Pruning What is pruning in Apple?\n We prune apple trees for four main reasons. First, to make the tree easy to maintain and harvest by controlling the height and shape. Secondly, to maintain a healthy tree by removing dead, diseased or damaged wood. Thirdly, to improve air circulation which reduces pests and diseases.\n What is the best time to prune apple trees? Spring\n PROCESS \n Prune out strong shoots growing towards the centre. You can leave weaker shoots (up to 20cm/8in long) unpruned. Look for any downward-growing branches low on the tree that receive little light and could cause an obstruction. Prune to a more upward-growing branch or back to the main trunk.
-# Crop Distance:
+## What time is best for pruning of apple
+The best time for pruning apple trees is during late winter or early spring, before new growth begins. This is typically done when the tree is still dormant, before the buds start to swell. Pruning during this time helps stimulate new growth and allows for better shaping and training of the tree. It is important to avoid pruning apple trees during the fall or summer, as this can leave the tree vulnerable to disease and pests.
+# Crop Distance
 The required distance for apple trees can vary depending on the specific variety and rootstock being used, as well as the desired growth habit (e.g., dwarf, semi-dwarf, standard). However, a general guideline for spacing apple trees is typically around 12 to 15 feet (3.6 to 4.5 meters) between trees within a row and 18 to 20 feet (5.4 to 6 meters) between rows. This spacing allows for proper air circulation, sunlight exposure, and room for the trees to grow and develop their root systems without overcrowding. It is always recommended to consult with local agricultural extension services or experts for specific recommendations based on your location and apple tree variety.

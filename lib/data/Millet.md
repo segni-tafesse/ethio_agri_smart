@@ -41,7 +41,7 @@ Millet has wide adaptability to different soil from very poor to very fertile an
 1 cup dry, raw millet yields about 3 ½ cups cooked millet. How much liquid do I need to cook millet? To cook 1 cup of millet in a pilaf-style (as described below), you'll need 2 cups of water. If you want to make a creamier porridge, increase the water to 3 cups.
 # Temperature and Humidity
 Finger millet grows best in an environment with medium rainfall, an annual temperature range of 11 to 27°C and a soil pH of 5.0 to 8.2 (Duke 1978, 1979). Areas with low precipitation and low relative humidity during seed ripening and maturation are best for regeneration.
-# fertilizers
+# Fertilizers
 For sorghum and millet, the main types of fertilizer which should be applied before planting are phosphorus (P) fertilizers as well as organic matter.
 Nitrogen fertilizer is often required for profitable production. Proso millet planted following another crop, such as wheat, has a higher nitrogen requirement than after summer fallow.
 # Possible Disease of Millet
@@ -116,15 +116,42 @@ Post-prevention measures refer to actions taken after the occurrence of a diseas
 
 8. Continuous learning and improvement: Regularly update your knowledge about millet diseases, their management, and new developments in disease-resistant varieties or control methods. Stay connected with agricultural experts and resources to access the latest information.
 # Pests
-Shoot fly, stemborer, earworm and millet midge are the most important pests in millet, but also grasshoppers, locusts, white grubs and various butterfl ies can attack the crop. Birds are also important millet grain pests. The sorghum shoot fly (Atherigona soccata) is also known to attack millets.
+ Here are some common pests that can infest millet:
+
+1. Stem Borers: Stem borers, such as the millet stem borer (Coniesta ignefusalis), can cause significant damage by tunneling into the stems of millet plants. Infested plants may exhibit wilting, stunting, or lodging.
+
+2. Head Smut: Head smut, caused by the fungus Sphacelotheca spp., affects the inflorescence (seed head) of millet. It can result in the formation of black, powdery masses instead of healthy grains.
+
+3. Shoot Fly: Shoot fly (Atherigona spp.) larvae feed on the young shoots and growing points of millet plants, leading to stunting, drying, and reduced tillering.
+
+4. Birds: Birds, such as sparrows or queleas, can feed on millet grains, resulting in significant yield losses, especially during the ripening stage.
+
+5. Aphids: Aphids are small sap-sucking insects that can infest millet plants. Their feeding can cause stunted growth, yellowing of leaves, and the transmission of viral diseases.
+
+6. Grasshoppers: Grasshoppers are chewing insects that can feed on millet leaves and stems, causing defoliation and reducing plant vigor.
+
+7. Armyworms: Armyworms, including fall armyworm (Spodoptera frugiperda), can feed on millet foliage, leading to severe defoliation if populations are high.
+
+8. Thrips: Thrips are tiny insects that can damage millet by feeding on leaves and causing silvering or bronzing of the foliage.
+
+9. Whiteflies: Whiteflies are small, flying insects that can infest millet plants and cause damage through feeding and transmitting viral diseases.
+
 # Pesticides
-Contact herbicides (e.g., sulfuric acid, diquat, paraquat) kill only the plant organs with which they are in contact. Translocated herbicides (e.g., amitrole, picloram, and 2,4-D) are effective against roots or other organs to which they are transported from aboveground treated surfaces (i.e., soil).
+ Here are some common pesticides that may be used for millet pest management:
+
+1. Insecticides: Insecticides are used to control various insect pests that infest millet crops. Examples of insecticides used in millet cultivation include pyrethroids (e.g., deltamethrin, cypermethrin), organophosphates (e.g., chlorpyrifos, malathion), neonicotinoids (e.g., imidacloprid, thiamethoxam), and carbamates (e.g., carbaryl).
+
+2. Fungicides: Fungicides are used to control fungal diseases that affect millet crops. Common fungicides used for millet include azoxystrobin, tebuconazole, propiconazole, and mancozeb.
+
+3. Herbicides: Herbicides are used to manage weed populations in millet fields. The choice of herbicide depends on the specific weed species present. Examples of herbicides commonly used in millet cultivation include atrazine, metolachlor, pendimethalin, and quizalofop-p-ethyl.
+
+
 # Herbs
-When it comes to common herbs associated with millet, the list may be more limited compared to other culinary grains. However, there are still a few herbs that can complement the flavors of millet-based dishes. Here are a couple of examples:
+Here are a couple of examples:
 
-Cilantro (Coriander): Cilantro is a versatile herb with a fresh and citrusy flavor that can pair well with the nutty taste of millet. It can be used as a garnish for millet salads, mixed into grain bowls, or incorporated into millet-based stuffing or pilaf recipes.
+1. Cilantro (Coriander): Cilantro is a versatile herb with a fresh and citrusy flavor that can pair well with the nutty taste of millet. It can be used as a garnish for millet salads, mixed into grain bowls, or incorporated into millet-based stuffing or pilaf recipes.
 
-Thyme: Thyme is an herb with a slightly earthy and minty flavor that can provide a subtle herbal note to millet dishes. It can be added to savory millet recipes such as pilafs, stews, or as a seasoning for roasted millet-based dishes.
+2. Thyme: Thyme is an herb with a slightly earthy and minty flavor that can provide a subtle herbal note to millet dishes. It can be added to savory millet recipes such as pilafs, stews, or as a seasoning for roasted millet-based dishes.
 # Herbicides
 when it comes to herbicides for millet (Pennisetum glaucum) or any agricultural crop, it is crucial to approach herbicide use with caution and in accordance with local regulations and best agricultural practices. While herbicides can be effective in managing weeds, it is important to prioritize sustainable and responsible practices to protect the health of the crop, the environment, and those who consume the harvested millet.
 
@@ -137,6 +164,19 @@ When the millet is mature and dry enough for harvesting, the grains pop out clea
 Pruning millet refers to the removal of excess or unwanted plant parts to promote better growth, health, and yield. While millet is not typically pruned extensively like fruit trees or shrubs, there are a few instances where pruning may be beneficial:
 
 Most of the millets need warm soil temperatures of typically 70 degrees F. or more for seed germination, so are normally planted in the latter half of May or early June depending on the growing region; proso millet can tolerate cooler temperatures and can be seeded when soil temperature is 55 to 65 degrees F.
+# What time is best for pruning of Millet?
+Here are some recommended practices for managing millet crops:
+
+1. Thinning: Millet plants can often benefit from thinning to optimize plant density and spacing. Thinning involves removing excess plants to create adequate spacing between individual plants, allowing them to receive sufficient sunlight, nutrients, and water. Thinning is typically done when the plants are young and still in the early growth stages.
+
+2. Weed Control: Effective weed management is crucial for millet production. Weeds compete with millet plants for resources and can significantly impact yields. Timely weeding or the use of appropriate herbicides can help suppress weed growth and ensure the successful development of millet crops.
+
+3. Fertilization: Providing balanced nutrition through fertilization can enhance the growth and productivity of millet. Soil testing and analysis can guide the application of appropriate fertilizers at the right time to meet the crop's nutrient requirements.
+
+4. Water Management: Adequate water management is important for millet crops, particularly during critical growth stages. Irrigation should be provided based on the crop's water needs and the availability of water resources in the region.
+
+5. Disease and Pest Management: Monitoring millet crops for pests and diseases is essential. Implementing appropriate control measures, such as the use of resistant varieties, crop rotation, and targeted application of pesticides when necessary, can help manage pests and diseases effectively.
+
 # Crop Distances
 The specific distance required between millet plants can vary depending on factors such as the millet variety, soil fertility, regional climate conditions, and farming practices. However, a general guideline is to space millet plants approximately 10 to 15 centimeters (4 to 6 inches) apart within rows.
 

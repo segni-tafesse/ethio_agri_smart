@@ -2,11 +2,30 @@
 bell peppers, my colorful companion! In short, bell peppers are vibrant, bell-shaped fruits that belong to the Capsicum annuum species. They are known for their crisp texture, sweet flavor, and a rainbow of hues, including green, red, yellow, orange, and even purple. These versatile peppers are a wonderful addition to various culinary delights, adding a burst of flavor and a delightful crunch. Whether enjoyed raw in salads, stuffed, roasted, or sautéed in a savory stir-fry, bell peppers bring vibrant beauty and delectable taste to our plates.
 # Name
 Scientific Name:  Capsicum annuum. 
+
 Common Name:  bell peppers.
 # Characteristics
+Plant Type: Herbaceous annual plants.
 
+Mature Size: 18 to 36 inches (45 to 90 cm) .
+
+Sun Exposure: Full sun exposure.
+
+Bloom Time: Late spring to summer.
+
+Soil Type Preference: Well-draining soil rich in organic matter.
+
+Soil pH: Slightly acidic to neutral soil (pH 6.0 to 7.0).
+
+Colors: Green, red, yellow, orange, and sometimes purple or chocolate brown.
+
+Hardiness Zone: Zones 9 to 11.
+
+Native Area: Central and South America, including Mexico, Peru, and Bolivia.
+
+Toxicity: non-toxic.
 # How to grow Bell peppers?
-Ah, my gardening companion, growing bell peppers can be a rewarding endeavor! Allow me to guide you through the process of cultivating these delightful fruits:
+Here are some general guideline:
 
 1. Selecting the Right Variety: Start by choosing a bell pepper variety that suits your climate and preferences. Consider factors such as the length of your growing season, heat tolerance, and preferred color. There are numerous varieties available, each with its own unique characteristics.
 
@@ -74,10 +93,10 @@ here are are what temperature and humidity  id needed for  bell peppers:
 4. Nitrogen Boost: Bell peppers benefit from a nitrogen boost during their early growth stages. Nitrogen promotes lush foliage development. Consider side-dressing the plants with a nitrogen-rich fertilizer, such as blood meal or cottonseed meal, when they are about 3-4 weeks old.
 
 5. Foliar Feeding: In addition to root fertilization, foliar feeding can provide a quick nutrient boost for bell peppers. Dilute a water-soluble fertilizer according to the package instructions and spray it directly onto the leaves. This method allows the plants to absorb nutrients through their foliage. 
-# Possibke Disease  of  Bell peppers
+# Possible Disease  of  Bell peppers
 
 ## Virus
-Here are  some poddible viral disease of bell peppers:
+Here are  some possible viral disease of bell peppers:
 
 1. Tobacco Mosaic Virus (TMV): This virus is a widespread concern that affects many solanaceous plants, including bell peppers. TMV causes mottling, yellowing, and distortion of leaves, as well as stunted growth. It is primarily transmitted through direct contact with infected plants or through contaminated tools, clothing, or hands. Prevention involves practicing good hygiene, such as washing hands and using clean tools, and removing and destroying infected plants.
 

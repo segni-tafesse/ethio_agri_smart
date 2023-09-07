@@ -2,6 +2,7 @@
 Beans are edible seeds from plants in the Fabaceae family, available in various shapes, sizes, and colors. They are a fantastic source of protein, fiber, vitamins, and minerals. Whether kidney, black, pinto, chickpeas, or lentils, these legumes offer a wide range of culinary possibilities. Boil, steam, or sprout them to create delicious soups, stews, salads, and spreads like hummus. Embrace the world of beans and savor their nourishing qualities!
 # Name
 botanical name: Phaseolus vulgaris
+
 common name: beans.
 
 # Characteristics
@@ -9,7 +10,7 @@ Plant Type:  commonly known as the legume or pea family.
 
 Mature Size:  ranges from 1 to 3 feet in height.
 
-Bloom Time: Beans typically bloom during the summer months, producing clusters of small, fragrant flowers.
+Bloom Time: during the summer months, producing clusters of small, fragrant flowers.
 
 
 Sun Exposure: Beans thrive in full sun
@@ -27,7 +28,7 @@ Native Area: around the world, including Africa, the Americas, and Asia.
 
 Toxicity: non-toxic.
 # How to grow Beans?
-c
+
 
 1. Choose the Right Variety: Select the type of beans you wish to grow, considering factors like flavor, size, and suitability for your growing region.
 
@@ -72,7 +73,7 @@ So, my weather-conscious friend, provide your beans with the warmth they crave a
 Beans generally do not require heavy fertilization if the soil is already fertile. However, if your soil is lacking in nutrients, you can apply a balanced organic fertilizer before planting.
 
 Alternatively, enrich the soil with well-composted organic matter, such as compost or aged manure, which provides a gentle and natural source of nutrients for the beans throughout the growing season.
-# Possibke Disease  of Beans
+# Possible Disease  of Beans
 
 ## Virus
 Here  are some possible   viral  disease of beans:
@@ -228,3 +229,12 @@ Pruning beans involves cutting the top of the main stem to encourage bushier gro
 
 ##  What time  is best  for pruning?
 The best time for pruning beans is when the plants reach a height of 6-8 inches (15-20 cm). Prune by pinching off the top of the main stem and removing side shoots (suckers). Timely pruning helps promote bushier growth and higher bean production.
+# Crop Distance
+Here are some general guidelines for spacing bean plants:
+
+1. Row spacing: The spacing between rows can vary based on the growth habit of the bean variety and the available machinery for maintenance and harvesting. For bush beans (determinate varieties), a row spacing of about 45 to 60 centimeters (18 to 24 inches) is common. For pole beans (indeterminate varieties), which require support structures like trellises or poles, a row spacing of about 90 to 120 centimeters (36 to 48 inches) is typical.
+
+2. Plant spacing within rows: The spacing between individual bean plants within a row can also vary based on the variety and desired plant density. For bush beans, a spacing of about 10 to 15 centimeters (4 to 6 inches) between plants within a row is common. For pole beans, a spacing of about 15 to 20 centimeters (6 to 8 inches) between plants is typical.
+
+3. Plant density: The desired plant density will depend on factors such as the variety, available resources, and management practices. In general, plant densities for beans can range from 15,000 to 30,000 plants per hectare (6,000 to 12,000 plants per acre). The specific plant density will depend on the desired yield and the spacing between rows and plants within rows.
+

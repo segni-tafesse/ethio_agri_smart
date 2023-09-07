@@ -1,7 +1,7 @@
 #  What's Pumpkin?
 the enchanting pumpkin plant, a marvel of nature's artistry! In short, the pumpkin plant is a sprawling vine with large, lobed leaves and vibrant yellow flowers. It belongs to the Cucurbitaceae family, just like its succulent fruit, the pumpkin. The plant requires ample space to spread its tendrils and bask in the sun's warmth. It thrives in rich, well-draining soil and requires regular watering. As the plant grows, it produces beautiful flowers that eventually give way to the iconic pumpkins we adore. With proper care and a touch of magic, the pumpkin plant rewards us with its bountiful harvest, bringing joy and autumnal splendor to our gardens.
-# NameCucurbita pepo
-Botanic Name: 
+# Name
+Botanic Name: Cucurbita pepo
 
 Common Name: Pumpkin
 # Characteristics
@@ -24,8 +24,8 @@ Hardiness Zone: Pumpkins are typically grown in hardiness zones 3-9, depending o
 Native Area: Pumpkins are believed to have originated in North America, with Native Americans cultivating them for centuries.
 
 Toxicity: Pumpkins are not considered toxic, and their flesh is safe for consumption. 
-# How to growPumpkin?
-    Here   are some steps to   grow pumpkin:
+# How to growPumpkin
+    Here are some steps to grow pumpkin:
 
 1. Choose a suitable location: Select a sunny spot in your garden with well-draining soil. Ensure there is ample space for the sprawling pumpkin vines to grow.
 
@@ -52,7 +52,7 @@ the life-giving elixir that quenches the thirst of our treasured pumpkins! In sh
  the perfect climate for our splendid pumpkins to thrive! In short, pumpkins prefer warm temperatures between 70-85°F (21-29°C) during the day and cooler nights around 60-70°F (15-21°C). They are quite adaptable to different humidity levels, but a moderate range of 50-70% humidity is generally favorable. So, my gardening friend, provide your pumpkins with a cozy environment of warmth and balanced humidity, and watch them flourish into magnificent gourds that bring joy and beauty to your garden!
 # Fertilizers
 the nourishing feast for our beloved pumpkins! In short, pumpkins benefit from a balanced fertilizer that is rich in nutrients, particularly nitrogen, phosphorus, and potassium. Choose a fertilizer with an NPK ratio of around 10-10-10 or 20-20-20. Apply the fertilizer according to the manufacturer's instructions, usually before planting and as the plants begin to grow. Additionally, incorporating organic matter, such as compost or well-rotted manure, into the soil before planting can provide a natural boost of nutrients. So, my gardening companion, feed your pumpkins well with the appropriate fertilizer, allowing them to thrive and produce an abundant harvest that will surely delight the senses!
-# Possibke Disease  of Pumpkin
+# Possible Disease  of Pumpkin
 
 
 ## Virus
@@ -168,3 +168,16 @@ Harvesting pumpkins involves waiting for them to reach maturity, inspecting for 
 Pruning pumpkins involves removing secondary vines, excessive shading leaves, and unwanted growth to promote a healthy and fruitful main vine. Keep it tidy and let the pumpkin plant flourish!
 ##  What time  is best  for pruning?
 The best time for pruning pumpkins is when the vines are actively growing but before they become too long and unruly.
+# Crop Distance
+The distance between individual wheat plants, also known as plant spacing or plant density, can have an impact on wheat production. However, it's important to note that the optimal plant spacing for wheat can vary depending on several factors, including the specific wheat variety, environmental conditions, soil fertility, and local agricultural practices. Here are some considerations regarding plant spacing in wheat:
+
+1. Recommended Plant Density: Wheat is typically sown in rows or in a broadcast fashion. The recommended plant density for wheat varies depending on the region and the specific wheat variety being grown. 
+
+2. Seed Rate: The desired plant density can be achieved by adjusting the seed rate, which is the amount of seed planted per unit area. 
+
+3. Considerations for Yield: Optimal plant spacing aims to achieve a balance between maximizing the use of available resources (light, nutrients, water) and minimizing competition between plants. 
+
+
+4. Soil Fertility and Moisture: The spacing between wheat plants should also consider the soil fertility and moisture-holding capacity. In fertile soils and areas with adequate rainfall or irrigation, closer plant spacing may be suitable.
+
+5. Local Recommendations: It is crucial to consult with local agricultural experts, extension services, or experienced wheat farmers in your specific region. 

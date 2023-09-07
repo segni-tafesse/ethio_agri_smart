@@ -76,7 +76,7 @@ the preferred types of fertilizers to support the growth and vitality of this re
 
 3. Organic Liquid Fertilizers: Liquid fertilizers, such as fish emulsion or seaweed extract, can be used as foliar sprays or soil drenches to provide an additional boost of nutrients. These organic liquid fertilizers are readily absorbed by the plants and can be applied according to the manufacturer's instructions.
 
-# Possibke Disease  of  Kale
+# Possible Disease  of  Kale
 
 ## Virus
  Allow me to shed light on some common viruses that can affect this magnificent leafy green:
@@ -122,15 +122,16 @@ Here are some pre-preventions to consider for the well-being of your kale plants
 
 2. Choose Disease-Resistant Varieties: Select kale varieties that are known for their resistance to common diseases prevalent in your region. Disease-resistant varieties can help reduce the risk of infection and minimize the need for extensive management strategies.
 
-3. Practice Crop Rotation: Rotate your kale crops annually to different areas of the garden. This helps break the disease cycle, as many diseases are host-specific and can persist in the soil. Avoid planting kale or other brassicas in the same area for consecutive growing seasons.
+3. Practice Crop Rotation: Rotate your kale crops annually to different areas of the garden. This helps break the disease cycle, as many diseases are host-specific and can persist in the soil. 
 
-4. Maintain Proper Spacing: Provide adequate spacing between kale plants to promote good airflow. Crowded plants can create a humid environment that favors the development and spread of diseases. Follow the recommended spacing guidelines for your specific kale variety.
+4. Maintain Proper Spacing: Provide adequate spacing between kale plants to promote good airflow. Crowded plants can create a humid environment that favors the development and spread of diseases. 
 
-5. Implement Good Sanitation: Maintain a clean and tidy garden environment by removing plant debris and fallen leaves regularly. Infected plant material can harbor disease-causing pathogens and contribute to the spread of diseases. Promptly remove and destroy any infected plants to prevent further contamination.
 
-6. Practice Proper Watering: Avoid overhead watering, as wet foliage can create a favorable environment for diseases. Instead, water at the base of the plants to keep the leaves dry. Drip irrigation or soaker hoses are ideal for delivering water directly to the roots.
+5. Implement Good Sanitation: Maintain a clean and tidy garden environment by removing plant debris and fallen leaves regularly. Infected plant material can harbor disease-causing pathogens and contribute to the spread of diseases. 
 
-7. Monitor and Control Pests: Keep a vigilant eye on pests, such as aphids and other sap-sucking insects, as they can transmit viral and bacterial diseases. Implement strategies to manage pest populations, such as using physical barriers, practicing companion planting, or employing organic pest control methods.
+6. Practice Proper Watering: Avoid overhead watering, as wet foliage can create a favorable environment for diseases. Instead, water at the base of the plants to keep the leaves dry. 
+
+7. Monitor and Control Pests: Keep a vigilant eye on pests, such as aphids and other sap-sucking insects, as they can transmit viral and bacterial diseases. 
 
 8. Maintain Soil Health: Prioritize soil health by adding organic matter, compost, or well-rotted manure to improve soil structure and fertility. Healthy soil contributes to the vigor and resilience of kale plants, making them less susceptible to diseases.
 
@@ -208,6 +209,20 @@ When using pesticides on kale or any other crops, it is essential to follow thes
 
 
 # Herbicides
+ Here are some commonly used herbicides for kale:
+
+1. Glyphosate: Glyphosate is a non-selective herbicide commonly used to control a broad spectrum of weeds. It is often used as a pre-plant or pre-emergent herbicide in kale production to control weeds before or shortly after planting.
+
+2. S-metolachlor: S-metolachlor is a selective pre-emergent herbicide used to control annual grasses and certain broadleaf weeds in kale. It is typically applied before or just after planting to prevent weed emergence.
+
+3. Atrazine: Atrazine is a selective herbicide used to control a broad range of broadleaf weeds and grasses. It is often used as a pre-emergent or post-emergent herbicide in kale. However, it's important to note that atrazine use may be restricted or prohibited in certain locations due to environmental concerns.
+
+4. Pendimethalin: Pendimethalin is a selective pre-emergent herbicide used to control annual grasses and certain broadleaf weeds. It is commonly used in kale production to prevent weed emergence.
+
+5. 2,4-D: 2,4-D is a selective post-emergent herbicide used to control broadleaf weeds. It may be applied in kale fields after the crop has established to target specific weed species.
+
+6. Diquat: Diquat is a non-selective post-emergent herbicide used for burndown or desiccation of weeds. It is sometimes used in kale production to control emerged weeds before planting or to aid in crop desiccation prior to harvest.
+
 
 #  Toxicity
  When it comes to toxicity, kale is generally considered safe for consumption and is renowned for its rich nutritional profile. However, as with any food, moderation is key.
@@ -230,7 +245,15 @@ Kale belongs to the Brassica oleracea family, which includes other cruciferous v
 
 
 # Pruning 
+Pruning kale involves the removal of specific parts of the plant to promote better growth, improve air circulation, and manage its shape. Here's a quick guide on pruning kale:
 
+1. Removing lower leaves: As kale plants grow, the lower leaves tend to become older, larger, and less productive. To redirect the plant's energy towards new growth and encourage better airflow, you can remove the lower leaves periodically. 
+
+2. Harvesting outer leaves: Instead of pruning, another approach to managing kale is to harvest the outer leaves regularly. Harvesting the outer leaves promotes continuous growth and prevents the plant from becoming top-heavy. 
+
+3. Removing damaged or diseased leaves: Regularly inspect your kale plants for any damaged or diseased leaves. These leaves can attract pests or spread diseases to healthy parts of the plant. 
+
+4. Controlling flowering: Kale plants tend to produce flower stalks as they mature, diverting energy away from leaf production. To prolong the harvest and maintain the best leaf quality, it's advisable to remove the flower stalks as soon as they appear. 
 ##  What time  is best  for pruning?
 
 

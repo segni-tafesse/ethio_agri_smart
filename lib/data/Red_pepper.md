@@ -4,7 +4,7 @@ the delightful red pepper, a vibrant and flavorful member of the Capsicum annuum
 
 Botanic name :  Capsicum annuum
 
-common name : "red pepper."
+common name : Red pepper.
 # Characteristics
 Plant type: Red pepper is an annual herbaceous plant.
 
@@ -206,3 +206,5 @@ they have reached their mature stage and have fully ripened. This is when they t
 
 ##  What time  is best  for pruning?
 Pruning is an important practice for maintaining the health and shape of plants, including red peppers. When it comes to pruning red pepper plants
+# Crop Distance
+The distance between two red peppers, or any plants for that matter, depends on various factors such as the specific variety of red pepper, the desired plant size, and the growing conditions. However, a general guideline for spacing red pepper plants is typically around 18-24 inches (45-60 cm) between each plant in rows that are spaced about 24-36 inches (60-90 cm) apart. This spacing allows for adequate airflow and sunlight penetration, reducing the risk of disease and promoting healthy growth. It is always recommended to refer to the specific planting guidelines provided by seed suppliers or local agricultural extension services for optimal spacing based on your specific growing conditions and variety of red pepper.

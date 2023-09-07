@@ -3,6 +3,7 @@ Ethiopian mustard, also known as Abyssinian mustard, is a leafy green vegetable 
 
 # Name
  Botanical name : Brassica carinata
+
  Commonreferred : Abyssinian mustard or Ethiopian kale
 # Characteristics
 Type: Cool-season, leafy green plant.
@@ -215,6 +216,17 @@ Some commonly used pesticides for managing pests in cruciferous crops like Ethio
 5. Organophosphates: Organophosphate insecticides, such as malathion and chlorpyrifos, are broad-spectrum insecticides used to control various pests. However, their use is becoming less common due to potential environmental and health concerns.
 
 # Herbs
+Ethiopian mustard, also known as Abyssinian mustard or Brassica carinata, is a leafy green vegetable commonly grown and consumed in Ethiopia. While it is not an herb, but rather a type of mustard, there are certain herbs that are commonly used in Ethiopian cuisine to enhance the flavor of dishes that may include Ethiopian mustard. Some of these herbs include:
+
+1. Nigella (Ketema): Also known as black cumin or black seed, nigella is used as a spice in Ethiopian cooking, including dishes with Ethiopian mustard.
+
+2. Rue (Tena Adam): Rue is a fragrant herb that is used sparingly in Ethiopian cuisine. Its leaves are often added to spice mixes and can be used to flavor dishes that include Ethiopian mustard.
+
+3. Garlic (Nech Shinkurt): Garlic is a staple ingredient in Ethiopian cooking and is often used to add flavor and aroma to a variety of dishes, including those featuring Ethiopian mustard.
+
+4. Ginger (Zingibil): Ginger is another common ingredient in Ethiopian cuisine. Its warm and slightly spicy flavor complements the taste of Ethiopian mustard.
+
+5. Turmeric (Zembaba): Turmeric is a vibrant yellow spice commonly used in Ethiopian cooking. It can be added to dishes with Ethiopian mustard to provide color and a mild earthy flavor.
 
 # Herbicides
  Here are some examples of herbicides that are often used in cruciferous crops, including Ethiopian mustard:
@@ -237,7 +249,7 @@ As with any food, proper handling, preparation, and cooking practices should be 
 
 
 # Harvesting
-The harvesting process of Ethiopian mustard (Brassica carinata) can vary depending on the specific cultivation practices and intended use of the crop. However, in general, here are some guidelines for harvesting Ethiopian mustard grown in a single line:
+Here are some guidelines for harvesting Ethiopian mustard grown in a single line:
 
 1. Timing: Ethiopian mustard is typically harvested when the plants have reached maturity and the desired stage of development. The ideal time for harvest may vary depending on the purpose of cultivation. For leafy greens, harvesting can begin when the leaves are young and tender, usually around 30 to 45 days after sowing. For seed production, the plants are allowed to mature further until the seed pods have formed and dried.
 
@@ -256,3 +268,10 @@ Ethiopian mustard is primarily grown for its leaves (as leafy greens) or seeds (
 Pruning is not typically a common practice for Ethiopian mustard (Brassica carinata) as it is primarily grown for its leaves (as leafy greens) or seeds. However, if you need to selectively remove damaged or diseased leaves or stalks, it can be done throughout the growing season as needed.
 
 When removing individual leaves or stalks, it is generally best to do so when they show signs of damage or disease. Promptly removing such plant parts can help prevent the spread of pests or diseases and promote overall plant health.
+# Crop Distance
+
+The ideal distance between two Ethiopian mustard plants, like other leafy greens, depends on various factors such as the variety of mustard, soil fertility, available nutrients, and desired yield. However, a general guideline for spacing Ethiopian mustard plants is to maintain a distance of about 15 to 30 centimeters (6 to 12 inches) between plants in a row. This spacing allows the plants to have enough space for proper growth, air circulation, and access to nutrients and sunlight.
+
+Additionally, it is common to leave around 45 to 60 centimeters (18 to 24 inches) between rows to allow for ease of cultivation, harvesting, and to prevent overcrowding. Providing adequate space between plants helps to reduce competition for resources and allows each plant to develop a healthy root system, which ultimately contributes to higher productivity.
+
+It's important to note that these spacing recommendations can vary depending on your specific growing conditions and the specific variety of Ethiopian mustard you are cultivating. Consulting with local agricultural experts or experienced farmers in your area would provide more accurate guidance tailored to your specific circumstances.

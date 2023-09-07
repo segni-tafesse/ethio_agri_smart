@@ -240,7 +240,7 @@ Limes are generally safe to consume, but some people may have sensitivity to cit
 
 
 # Pruning 
- here are the key steps for pruning limes:
+ Here are the key steps for pruning limes:
 
 1. Timing: Prune lime trees during their dormant period, typically in late winter or early spring. This allows the tree to recover and promote healthy growth before the active growing season.
 
@@ -254,7 +254,9 @@ Limes are generally safe to consume, but some people may have sensitivity to cit
 
 6. Pruning Cuts: Make clean and precise pruning cuts, angled away from the bud or branch collar. Avoid leaving stubs or making flush cuts, as this can hinder proper healing and increase the risk of infection.
 
+
 ##  What time  is best  for pruning?
 The best time for pruning limes is typically in late winter or early spring, before new growth begins. This allows the tree to recover and heal any wounds before the growing season starts. Pruning during this time helps promote healthy growth and fruit production.
 # Crop Distance
+
 The distance required for limes to grow depends on the specific variety and the growing conditions. Generally, lime trees should be spaced about 12 to 15 feet apart to allow for proper air circulation and sunlight penetration. This spacing also ensures that the roots have enough space to grow and access nutrients in the soil. However, if you are growing dwarf or containerized lime trees, they can be spaced closer together, usually around 6 to 8 feet apart. It is always best to consult the specific recommendations for the lime tree variety you are growing to determine the ideal spacing.

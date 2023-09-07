@@ -154,6 +154,22 @@ Here are some key practices to implement after planting to further protect your 
 8. Record Keeping: Maintain a garden journal to track disease occurrences, treatments applied, and their effectiveness. This aids in future prevention and management efforts.
 
 #  Pests
+Guavas (Psidium guajava) can be affected by various pests that can cause damage to the leaves, fruit, and overall health of the plant. Some common pests of guavas include:
+
+1. Guava Fruit Fly (Bactrocera correcta): The guava fruit fly is a major pest of guava fruits. The female fly lays eggs in the fruit, and the hatched larvae feed on the pulp, causing fruit damage and rot.
+
+2. Guava Moth (Argyresthia eugeniella): The guava moth is a small moth whose larvae bore into guava fruits, causing damage and making the fruits susceptible to rot and fungal infections.
+
+3. Guava Whitefly (Trialeurodes variabilis): Whiteflies are small, sap-sucking insects that infest the leaves of guava plants. Heavy infestations can cause leaf yellowing, stunted growth, and reduced fruit production.
+
+4. Guava Scale (Lepidosaphes gloverii): Scale insects are small, immobile pests that attach themselves to the leaves and stems of guava plants, sucking sap and causing yellowing and weakening of the plant.
+
+5. Guava Aphids (Aphis spp.): Aphids are small, soft-bodied insects that feed on the sap of guava leaves and shoots. They can cause leaf curling, stunted growth, and the production of sticky honeydew.
+
+6. Guava Red Spider Mite (Tetranychus urticae): Red spider mites are tiny pests that infest the leaves of guava plants. They feed on plant sap, causing leaf discoloration, stippling, and webbing.
+
+7. Guava Leafroller (Phalonidia spp.): Leafrollers are caterpillars that feed on guava leaves, rolling and webbing the leaves together for protection. They can cause defoliation and reduced plant vigor.
+
 
 # Pesticides
  Here are a few common pests that may trouble guavas:

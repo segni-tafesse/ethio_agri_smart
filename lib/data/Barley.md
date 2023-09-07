@@ -2,9 +2,9 @@
 Barley (Hordeum vulgare), a member of the grass family, is a major cereal grain grown in temperate climates globally. It was one of the first cultivated grains, particularly in Eurasia as early as 10,000 years ago. Globally 70% of barley production is used as animal fodder, while 30% as a source of fermentable material for beer and certain distilled beverages, and as a component of various foods. It is used in soups and stews, and in barley bread of various cultures. Barley grains are commonly made into malt in a traditional and ancient method of preparation.
 In 2017, barley was ranked fourth among grains in quantity produced (149 million tonnes or 330 billion pounds) behind maize (corn), rice and wheat.
 # Names
-1,Scientific/Botanical name : Hordeum vulgare
+1. Scientific/Botanical name : Hordeum vulgare
 
-2,Common name:  Hordeum vulgare
+2. Common name:  Hordeum vulgare
 # Characteristics of Barley
 
 Plant type: cereal plant of the grass family Poaceae.
@@ -26,7 +26,7 @@ Hardiness Zones: 8 and warmer.
 Native Area: Barley was one of the first domesticated grains in the Fertile Crescent, an area of relatively abundant water in Western Asia, and near the Nile river of northeast Africa.
 
 Toxicity: Non-toxic.
-# HOW to grow Barley?
+# ow to grow Barley?
 To grow barley, follow these steps:
 
 1. Choose a suitable location: Barley thrives in cool climates and requires full sun. 
@@ -57,105 +57,112 @@ In the cultivation of malting barley, nitrogen fertilization should be applied f
 # Possible Disease of Barley
 
 ## Virus
-Barley, like other crops, can be affected by several viral diseases. Here are some of the common viral diseases that can affect barley:
+ Here are some of the common viral diseases that can affect barley:
 
-Barley yellow dwarf virus (BYDV): Barley yellow dwarf virus is one of the most economically important viral diseases in barley. It is transmitted by aphids and causes stunted growth, yellowing or reddening of leaves, and reduced grain yield.
+1. Barley yellow dwarf virus (BYDV): Barley yellow dwarf virus is one of the most economically important viral diseases in barley. It is transmitted by aphids and causes stunted growth, yellowing or reddening of leaves, and reduced grain yield.
 
-Barley stripe mosaic virus (BSMV): Barley stripe mosaic virus causes mosaic symptoms, streaking, and yellowing of leaves. It can lead to reduced plant vigor and yield loss.
+2. Barley stripe mosaic virus (BSMV): Barley stripe mosaic virus causes mosaic symptoms, streaking, and yellowing of leaves. It can lead to reduced plant vigor and yield loss.
 
-Barley mild mosaic virus (BaMMV): Barley mild mosaic virus causes mosaic symptoms, including light and dark green patches on the leaves. It can result in reduced plant growth and yield.
+3. Barley mild mosaic virus (BaMMV): Barley mild mosaic virus causes mosaic symptoms, including light and dark green patches on the leaves. It can result in reduced plant growth and yield.
 
-Barley yellow mosaic virus (BaYMV): Barley yellow mosaic virus causes yellow mosaic symptoms on the leaves, stunting, and reduced grain yield.
+4. Barley yellow mosaic virus (BaYMV): Barley yellow mosaic virus causes yellow mosaic symptoms on the leaves, stunting, and reduced grain yield.
 
-Barley necrotic mosaic virus (BaNMV): Barley necrotic mosaic virus causes mosaic symptoms, yellowing, and necrotic streaking of leaves. It can lead to reduced plant growth and yield.
+5. Barley necrotic mosaic virus (BaNMV): Barley necrotic mosaic virus causes mosaic symptoms, yellowing, and necrotic streaking of leaves. It can lead to reduced plant growth and yield.
 
-Cereal yellow dwarf virus (CYDV): Cereal yellow dwarf virus is a group of viruses that can infect barley. It causes yellowing, stunting, and curling of leaves, leading to reduced plant growth and yield.
+
 ## Fungus
-Barley is susceptible to various fungal diseases that can impact its growth and yield. Here are some common fungal diseases that can affect barley:
+ Here are some common fungal diseases that can affect barley:
 
-Powdery mildew (Blumeria graminis f. sp. hordei): Powdery mildew is a fungal disease characterized by the appearance of white or gray powdery patches on the leaves, stems, and spikes of barley plants. It can reduce photosynthesis, weaken the plant, and affect grain quality and yield.
+1. Powdery mildew (Blumeria graminis f. sp. hordei): Powdery mildew is a fungal disease characterized by the appearance of white or gray powdery patches on the leaves, stems, and spikes of barley plants. It can reduce photosynthesis, weaken the plant, and affect grain quality and yield.
 
-Leaf rust (Puccinia hordei): Leaf rust is caused by a fungal pathogen that produces orange-brown pustules on the leaves of barley plants. It can lead to leaf discoloration, reduced photosynthesis, and yield losses.
+2. Leaf rust (Puccinia hordei): Leaf rust is caused by a fungal pathogen that produces orange-brown pustules on the leaves of barley plants. It can lead to leaf discoloration, reduced photosynthesis, and yield losses.
 
-Stripe rust (Puccinia striiformis f. sp. hordei): Stripe rust is another fungal disease that causes yellow or orange stripes of pustules on the leaves of barley plants. It can cause leaf chlorosis, reduced plant vigor, and yield reduction.
+3. Stripe rust (Puccinia striiformis f. sp. hordei): Stripe rust is another fungal disease that causes yellow or orange stripes of pustules on the leaves of barley plants. It can cause leaf chlorosis, reduced plant vigor, and yield reduction.
 
-Net blotch (Pyrenophora teres): Net blotch is a fungal disease that causes brown or gray lesions with net-like patterns on the leaves of barley plants. It can lead to reduced photosynthesis, premature senescence, and yield losses.
+4. Net blotch (Pyrenophora teres): Net blotch is a fungal disease that causes brown or gray lesions with net-like patterns on the leaves of barley plants. It can lead to reduced photosynthesis, premature senescence, and yield losses.
 
-Fusarium head blight (Fusarium spp.): Fusarium head blight affects the heads of barley plants, particularly during flowering. It can cause blighting of the spikelets, reduced grain fill, and contamination of grain with mycotoxins.
+5. Fusarium head blight (Fusarium spp.): Fusarium head blight affects the heads of barley plants, particularly during flowering. It can cause blighting of the spikelets, reduced grain fill, and contamination of grain with mycotoxins.
 
-Rhynchosporium leaf spot (Rhynchosporium secalis): Rhynchosporium leaf spot is a fungal disease that causes small, round lesions with dark centers and yellow halos on the leaves of barley plants. Severe infections can result in defoliation and yield reduction.
+6. Rhynchosporium leaf spot (Rhynchosporium secalis): Rhynchosporium leaf spot is a fungal disease that causes small, round lesions with dark centers and yellow halos on the leaves of barley plants. Severe infections can result in defoliation and yield reduction.
 
-Barley scald (Rhynchosporium commune): Barley scald is a fungal disease that causes elongated, chlorotic lesions on barley leaves. It can reduce photosynthesis, weaken plants, and result in yield losses.
+7. Barley scald (Rhynchosporium commune): Barley scald is a fungal disease that causes elongated, chlorotic lesions on barley leaves. It can reduce photosynthesis, weaken plants, and result in yield losses.
 
-Septoria leaf blotch (Septoria spp.): Septoria leaf blotch causes small, dark brown lesions with yellow halos on barley leaves. Severe infections can result in defoliation and yield loss.
+8. Septoria leaf blotch (Septoria spp.): Septoria leaf blotch causes small, dark brown lesions with yellow halos on barley leaves. Severe infections can result in defoliation and yield loss.
 ## Bacteria
-Barley can be affected by bacterial diseases that can impact its growth and yield. Although bacterial diseases are less common in barley compared to fungal and viral diseases, here are a few examples of bacterial diseases that can affect barley:
+ Here are a few examples of bacterial diseases that can affect barley:
 
-Bacterial blight (Pseudomonas syringae pv. syringae): Bacterial blight is a bacterial disease that causes water-soaked lesions on barley leaves. These lesions can expand and turn dark brown or black. In severe cases, the lesions can merge and cause leaf blighting and necrosis. Bacterial blight can lead to reduced photosynthesis, yield losses, and even plant death.
+1. Bacterial blight (Pseudomonas syringae pv. syringae): Bacterial blight is a bacterial disease that causes water-soaked lesions on barley leaves. These lesions can expand and turn dark brown or black. In severe cases, the lesions can merge and cause leaf blighting and necrosis. Bacterial blight can lead to reduced photosynthesis, yield losses, and even plant death.
 
-Bacterial stripe (Pseudomonas syringae pv. atrofaciens): Bacterial stripe is caused by the bacterium Pseudomonas syringae pv. atrofaciens. It causes dark green, water-soaked stripes on barley leaves and can lead to leaf discoloration and reduced plant vigor. In some cases, bacterial stripe can result in yield reduction.
+2. Bacterial stripe (Pseudomonas syringae pv. atrofaciens): Bacterial stripe is caused by the bacterium Pseudomonas syringae pv. atrofaciens. It causes dark green, water-soaked stripes on barley leaves and can lead to leaf discoloration and reduced plant vigor. In some cases, bacterial stripe can result in yield reduction.
 
-Bacterial leaf streak (Xanthomonas translucens pv. translucens): Bacterial leaf streak causes long, water-soaked lesions on barley leaves. These lesions often have yellow halos and can lead to leaf blighting and yield losses. Bacterial leaf streak is more prevalent in regions with high humidity and moderate temperatures.
+3. Bacterial leaf streak (Xanthomonas translucens pv. translucens): Bacterial leaf streak causes long, water-soaked lesions on barley leaves. These lesions often have yellow halos and can lead to leaf blighting and yield losses. Bacterial leaf streak is more prevalent in regions with high humidity and moderate temperatures.
 # Pre-Prevention of Disease of  Barley
-Prevention is an essential component of disease management in barley. By implementing preventive measures, you can reduce the risk and severity of diseases. Here are some key steps for preventing diseases in barley:
+ Here are some key steps for preventing diseases in barley:
 
-Use certified disease-free seeds: Start with high-quality seeds that have been tested and certified to be free from pathogens. Disease-free seeds provide a clean starting point for your crop and minimize the introduction of pathogens.
+1. Use certified disease-free seeds: Start with high-quality seeds that have been tested and certified to be free from pathogens. Disease-free seeds provide a clean starting point for your crop and minimize the introduction of pathogens.
 
-Crop rotation: Rotate barley with other crops to break disease cycles. Avoid planting barley in the same field year after year, as this can build up disease pressure. Ideally, rotate with non-host crops to disrupt the life cycles of pathogens specific to barley.
+2. Crop rotation: Rotate barley with other crops to break disease cycles. Avoid planting barley in the same field year after year, as this can build up disease pressure. Ideally, rotate with non-host crops to disrupt the life cycles of pathogens specific to barley.
 
-Sanitation: Practice good sanitation measures to reduce the survival and spread of pathogens. Remove and destroy crop residues and weeds that may serve as hosts for diseases. Clean and disinfect equipment and tools used in the field to prevent the transfer of pathogens.
+3. Sanitation: Practice good sanitation measures to reduce the survival and spread of pathogens. Remove and destroy crop residues and weeds that may serve as hosts for diseases. Clean and disinfect equipment and tools used in the field to prevent the transfer of pathogens.
 
-Planting date and density: Optimize planting dates and plant density to promote good plant vigor and reduce disease susceptibility. Early planting can help avoid periods of high disease pressure, while appropriate plant density allows for better air circulation and reduces humidity, which can favor disease development.
+4. Planting date and density: Optimize planting dates and plant density to promote good plant vigor and reduce disease susceptibility. Early planting can help avoid periods of high disease pressure, while appropriate plant density allows for better air circulation and reduces humidity, which can favor disease development.
 
-Proper irrigation and drainage: Avoid over-irrigation or waterlogged conditions, as excessive moisture can promote the development of fungal and bacterial diseases. Ensure proper drainage to prevent waterlogged soils and minimize disease risk.
+5. Proper irrigation and drainage: Avoid over-irrigation or waterlogged conditions, as excessive moisture can promote the development of fungal and bacterial diseases. Ensure proper drainage to prevent waterlogged soils and minimize disease risk.
 
-Resistant varieties: Select barley varieties that have resistance or tolerance to common diseases prevalent in your region. Resistant varieties are less susceptible to certain diseases and can help reduce the impact of pathogens.
+6. Resistant varieties: Select barley varieties that have resistance or tolerance to common diseases prevalent in your region. Resistant varieties are less susceptible to certain diseases and can help reduce the impact of pathogens.
 
-Integrated pest management (IPM): Implement an integrated approach to manage pests, including insects and weeds, as they can contribute to disease development. Control pest populations through cultural practices, biological controls, and judicious use of pesticides.
+7. Integrated pest management (IPM): Implement an integrated approach to manage pests, including insects and weeds, as they can contribute to disease development. Control pest populations through cultural practices, biological controls, and judicious use of pesticides.
 
 Regular scouting and monitoring: Monitor your barley crop regularly for signs of disease. Early detection allows for timely intervention and management strategies to minimize disease spread and impact.
 
-Fungicide/bactericide applications: In some cases, when disease pressure is high or preventive measures are not sufficient, targeted fungicide or bactericide applications may be necessary. Consult with agricultural experts or extension services to determine appropriate timing and use of these products.
+8. Fungicide/bactericide applications: In some cases, when disease pressure is high or preventive measures are not sufficient, targeted fungicide or bactericide applications may be necessary. Consult with agricultural experts or extension services to determine appropriate timing and use of these products.
 # Post-prevention of Disease of Banana
-Post-prevention measures are focused on managing and mitigating diseases in barley after they have already appeared. While prevention is always the preferred approach, sometimes diseases can still occur despite best efforts. Here are some post-prevention measures for managing diseases in barley:
+Here are some post-prevention measures for managing diseases in barley:
 
-Early detection and diagnosis: Regularly scout your barley field to identify any signs or symptoms of disease. Early detection allows for timely intervention and appropriate management strategies. Consult with agricultural experts or extension services to confirm the diagnosis and determine the best course of action.
+1. Early detection and diagnosis: Regularly scout your barley field to identify any signs or symptoms of disease. Early detection allows for timely intervention and appropriate management strategies. Consult with agricultural experts or extension services to confirm the diagnosis and determine the best course of action.
 
-Cultural practices: Implement cultural practices that promote plant health and reduce disease spread. These practices may include adjusting irrigation practices to avoid excess moisture, improving soil drainage, practicing proper fertilization to maintain plant vigor, and promoting good air circulation through appropriate plant spacing.
+2. Cultural practices: Implement cultural practices that promote plant health and reduce disease spread. These practices may include adjusting irrigation practices to avoid excess moisture, improving soil drainage, practicing proper fertilization to maintain plant vigor, and promoting good air circulation through appropriate plant spacing.
 
-Removal of infected plants: Remove and destroy infected plant material to prevent the further spread of diseases. This includes removing and destroying severely infected plants or plant parts, such as leaves, stems, or spikes.
+3. Removal of infected plants: Remove and destroy infected plant material to prevent the further spread of diseases. This includes removing and destroying severely infected plants or plant parts, such as leaves, stems, or spikes.
 
-Fungicide/bactericide applications: In cases where disease pressure is high or when the disease has already established, targeted applications of fungicides or bactericides may be necessary. Consult with agricultural experts or extension services to determine the appropriate timing and selection of products for specific diseases. Follow label instructions and safety guidelines when applying these products.
+4. Fungicide/bactericide applications: In cases where disease pressure is high or when the disease has already established, targeted applications of fungicides or bactericides may be necessary. Consult with agricultural experts or extension services to determine the appropriate timing and selection of products for specific diseases. Follow label instructions and safety guidelines when applying these products.
 
-Disease-resistant varieties: If available, consider planting barley varieties with resistance or tolerance to specific diseases prevalent in your region. Resistant varieties can help minimize the impact of diseases and reduce the need for chemical interventions.
+5. Disease-resistant varieties: If available, consider planting barley varieties with resistance or tolerance to specific diseases prevalent in your region. Resistant varieties can help minimize the impact of diseases and reduce the need for chemical interventions.
 
-Crop rotation: Plan crop rotations to avoid planting barley in the same field year after year. Rotate with non-host crops to disrupt disease cycles and reduce inoculum levels in the soil.
+6. Crop rotation: Plan crop rotations to avoid planting barley in the same field year after year. Rotate with non-host crops to disrupt disease cycles and reduce inoculum levels in the soil.
 
-Biological control agents: Explore the use of biological control agents, such as beneficial microorganisms or natural enemies of plant pathogens, to help manage diseases. These agents can help suppress disease development or limit the spread of pathogens.
+7. Biological control agents: Explore the use of biological control agents, such as beneficial microorganisms or natural enemies of plant pathogens, to help manage diseases. These agents can help suppress disease development or limit the spread of pathogens.
 
-Proper storage and handling of harvested grain: After harvest, ensure proper storage and handling of barley grain to minimize the risk of post-harvest diseases. Store grain in clean and dry conditions, and monitor for signs of grain spoilage or fungal growth.
+8. Proper storage and handling of harvested grain: After harvest, ensure proper storage and handling of barley grain to minimize the risk of post-harvest diseases. Store grain in clean and dry conditions, and monitor for signs of grain spoilage or fungal growth.
 
 # Pests
-The pests that threaten barley are mainly insects (1): Aphids (Bird cherry-oat aphid, Russian wheat aphid, Corn leaf aphid, etc.)
+Some common pests of barley include:
+
+1. Aphids: These small insects feed on the sap of barley plants, causing stunted growth and yellowing leaves.
+
+2. Cereal leaf beetles: The larvae of these beetles feed on barley leaves, leaving behind skeletonized patches and reducing crop yield.
+
+3. Armyworms: The larvae of armyworms can cause significant damage by feeding on barley leaves and stems, leading to reduced plant vigor and yield.
+
+4. Wireworms: These are the larvae of click beetles that feed on barley roots, causing poor plant establishment and reduced yield.
+
+5. Hessian flies: These small flies lay eggs on barley leaves, and the resulting larvae feed on the plant's stem, causing stunting and lodging.
+
+6. Slugs: These mollusks can feed on young barley seedlings, causing irregular holes in the leaves and reduced plant growth.
+
+7. Grain weevils: These insects infest stored barley grains, causing damage and reducing the quality of harvested crops.
 # Pesticides
 
- 2,4-D (C, SW, GW, W, B)
+Some common pesticides used for controlling pests in barley include:
 
- Acetochlor (C, SW, W, B)
+1. Insecticides: These are chemicals designed to kill or repel insects. Examples include pyrethroids (such as cypermethrin and deltamethrin), organophosphates (such as chlorpyrifos and malathion), and neonicotinoids (such as imidacloprid and clothianidin).
 
-  Alachlor (SW, GW, W)
+2. Fungicides: These are chemicals used to control fungal diseases in barley, which can indirectly help prevent pest infestations. Common fungicides used in barley include triazoles (such as tebuconazole and propiconazole), strobilurins (such as azoxystrobin and pyraclostrobin), and carboxamides (such as fluxapyroxad and isopyrazam).
 
- Azoxystrobin (A, SW, GW, W)
+3. Herbicides: Although not directly targeting pests, herbicides are often used in barley cultivation to control weeds, which can compete with the crop for resources and create favorable conditions for pests. Common herbicides used in barley include glyphosate, quizalofop, and fenoxaprop.
 
- Boscalid (C, W)
-
-  Bromoxynil (A, C, GW, W)
-
- Captan (A, C, W)
-
- Carboxin (C, W)
  # Herbs
- barley, the versatile and ancient cereal grain! While barley itself is not typically associated with a wide range of herbs, there are a few herbs that can complement its flavors and be used in culinary preparations with barley-based dishes. Here are a few examples:
+Here are a few examples:
 
 Rosemary: Rosemary is a fragrant herb that can lend a savory and aromatic note to barley-based recipes. Its woody and slightly pine-like flavor pairs well with the earthiness of barley, whether used in soups, stews, or roasted barley dishes.
 
@@ -178,6 +185,8 @@ It is essential to follow the instructions provided by the herbicide manufacture
 Barley Harvest is the cutting, threshing, separating, and cleaning of individual barley grains from the mature barley plant. Depending upon variety and climate conditions, barley grows from 12 to 48 inches tall.
 # Pruning
 Barley does not require pruning, but you can mow the crop to postpone flowering. Once you remove the seed head it will take time to produce another one, since it will eventually grow another.
+## What time is besrt for pruning of barley
+The best time for pruning barley is typically in the early spring, before the crop begins to actively grow. This allows for the removal of any dead or diseased plant material, as well as thinning out crowded areas to promote better air circulation and reduce the risk of disease. It is important to avoid pruning too late in the spring, as this can potentially damage the developing crop and reduce yield.
 # Crop Distance
 The specific distance for barley plant spacing can vary depending on factors such as cultivar, soil conditions, climate, and the desired yield. Typically, barley is sown in rows, and the spacing between rows and individual plants within a row is crucial.
 

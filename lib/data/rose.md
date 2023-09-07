@@ -6,23 +6,23 @@ Botanic Name: Rosa
 
 Common Name: Rose
 # Characteristic of Rose
-Plant type flowering shrub
+Plant type: flowering shrub
 
- Mature size from 1 to 8 feet in height and spread.
+ Mature size: from 1 to 8 feet in height and spread.
 
-Sun Exposure   Full sun exposure
+Sun Exposure:   Full sun exposure
 
-Soil type well-draining soil that is rich in organic matter
+Soil type: well-draining soil that is rich in organic matter
 
-Soil PH  from 6.0 to 7.0.
+Soil PH:  from 6.0 to 7.0.
 
-Colors red, pink, white, yellow, orange, and purple.
+Colors: red, pink, white, yellow, orange, and purple.
 
-The hardiness in zones 5-9.
+The hardiness in zones: 5-9.
 
- Native  Area  Europe, Asia, and North America.
+ Native  Area:  Europe, Asia, and North America.
 
-Toxicity  non-toxic
+Toxicity:  non-toxic.
 # How to grow Rose?
 
 1. Choose the right variety of rose for your garden. Consider factors such as climate, soil conditions, and desired size and color of the flowers.
@@ -75,7 +75,7 @@ Some gardeners also like to use organic fertilizers, such as compost or well-rot
 
 4. Cucumber Mosaic Virus (CMV): CMV can infect a wide range of plant species, including roses. Infected roses may display mosaic patterns, mottling, yellowing, or curling of leaves, and stunted growth. CMV is primarily transmitted through aphids, which feed on infected plants and spread the virus as they move between plants.
 ## Fungus
-Let me enlighten you on some common fungal diseases that can afflict these beloved blooms:
+ some common fungal diseases that can afflict these beloved blooms:
 
 1. Black Spot (Diplocarpon rosae): A notorious fungal disease, black spot manifests as black or dark brown spots on rose leaves. These spots may enlarge and cause defoliation, weakening the plant over time. Warm, humid conditions promote its development, and the fungus can overwinter on fallen leaves.
 
@@ -87,7 +87,7 @@ Let me enlighten you on some common fungal diseases that can afflict these belov
 
 5. Crown Gall (Agrobacterium tumefaciens): Crown gall is caused by a bacterial pathogen, but it often appears as a fungal-like disease on roses. Infected plants develop swollen, irregular growths or galls on the stems, roots, or crown. These galls disrupt the plant's vascular system and weaken its overall health.
 ## Bacteria
- Let me shed light on some common bacterial diseases that can afflict these cherished blooms:
+ some common bacterial diseases that can afflict these cherished blooms:
 
 1. Crown Gall (Agrobacterium tumefaciens): Crown gall is a bacterial disease that causes swollen, irregular growths or galls on the stems, roots, or crown of roses. These galls disrupt the plant's vascular system, leading to weakened growth and overall decline.
 
@@ -126,19 +126,45 @@ Here are some post-prevention strategies to consider:
 7. Beneficial Insects and Natural Predators: Encourage the presence of beneficial insects and natural predators in your garden. Ladybugs, lacewings, and parasitic wasps, among others, feed on aphids, mites, and other pests that can weaken roses and make them more susceptible to diseases.
 
 # Pests
-Some common pest of rose are:
-Aphids
-Thrips
-Spider mites
-Rose slugs 
-# Pesticides
-Some common pesticides used for controlling pests on roses include: 
+ Here are some common pests and diseases of roses:
 
-1. Insecticidal soaps
-2. Neem oil
-3. Pyrethroids
-4. Systemic insecticides
-5. Spinosad
+1. Aphids: These small insects feed on the sap of rose plants, causing distorted growth and the presence of sticky honeydew.
+
+2. Thrips: These tiny, slender insects can damage rose buds and flowers, causing them to turn brown or fail to open properly.
+
+3. Spider Mites: These tiny pests can infest rose leaves, causing yellowing, stippling, and webbing.
+
+4. Rose Sawflies: The larvae of sawflies can feed on rose leaves, causing skeletonized foliage.
+
+5. Black Spot: This fungal disease causes black spots with yellowing around them on rose leaves, potentially leading to defoliation.
+
+6. Powdery Mildew: This fungal disease appears as a white, powdery coating on rose leaves, stems, and buds.
+
+7. Rust: Rust is a fungal disease that causes orange or rust-colored pustules on the undersides of rose leaves.
+
+8. Botrytis Blight: Also known as gray mold, it can affect rose flowers and buds, causing browning, wilting, and decay.
+
+
+# Pesticides
+ Here are some commonly used pesticides for roses:
+
+1. Synthetic Insecticides:
+   - Malathion: It is effective against a wide range of rose pests, including aphids, thrips, and leafhoppers.
+   - Imidacloprid: It is a systemic insecticide that can be applied as a soil drench or granular treatment to control sucking insects like aphids and scales.
+   - Permethrin: It provides control against pests such as aphids, thrips, and leafhoppers.
+
+2. Biological Insecticides:
+   - Neem Oil: Derived from the neem tree, neem oil has insecticidal properties and can be effective against aphids, thrips, and mites on roses.
+   - Bacillus thuringiensis (Bt): This naturally occurring bacterium is effective against certain caterpillars, including those that may feed on rose foliage.
+
+3. Fungicides:
+   - Chlorothalonil: It is a broad-spectrum fungicide used to control fungal diseases such as black spot, powdery mildew, and rust on roses.
+   - Propiconazole: It is effective against black spot, powdery mildew, and other fungal diseases.
+
+4. Miticides:
+   - Horticultural oils: These oils, such as mineral oil or insecticidal soap, can be used to control spider mites and other mite pests on roses.
+
+
 # Herbs
 While roses are not typically associated with culinary herbs, there are a few herbs that can complement their beauty and fragrance when planted alongside them. Here are a couple of examples:
 

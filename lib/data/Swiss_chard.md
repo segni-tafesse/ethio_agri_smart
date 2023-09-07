@@ -2,8 +2,27 @@
 Swiss chard, a leafy green vegetable that adds a vibrant touch to our meals! In short, Swiss chard is a nutritious and versatile plant with colorful stems and large, flavorful leaves. It belongs to the beet family and is known for its mild, slightly earthy taste. Swiss chard is packed with vitamins, minerals, and antioxidants, making it a delightful addition to salads, stir-fries, soups, or sautés. It comes in various varieties, including rainbow chard, with stems ranging from red, orange, yellow, to white. So, embrace the beauty and goodness of Swiss chard, and let it elevate your culinary creations with its vibrant colors and nourishing qualities!
 # Name
 Scientific name : Beta vulgaris subsp. cicla. 
+
 Commmon name:  Swiss chard
 # Characteristics
+- Plant Type: Swiss chard is a leafy green vegetable that belongs to the beet family.
+
+- Mature Size: Swiss chard plants can grow up to 18-24 inches (45-60 cm) .
+- Sun Exposure: Swiss chard prefers full sun but can tolerate partial shade.
+
+- Soil Type: Swiss chard grows well in well-draining, fertile soil.
+
+
+- Soil pH: Swiss chard prefers slightly acidic to neutral soil with a pH range of 6.0-7.0
+.
+- Colors: Swiss chard comes in various vibrant colors such as green, red, yellow, and pink.
+
+
+- Hardiness Zone: Swiss chard is typically grown in USDA hardiness zones 2-10.
+
+- Native Area: Swiss chard is native to the Mediterranean region.
+
+- Toxicity: Swiss chard is non-toxic and safe for consumption.
 
 # How to grow Swiss chard?
  Let me guide you through the steps to cultivate these magnificent leafy greens:

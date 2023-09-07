@@ -1,16 +1,11 @@
 #  What's  Berries?
 berries are small, juicy, and often brightly colored fruits that grow on various plants. They come in a variety of types, including strawberries, blueberries, raspberries, blackberries, and more. Berries are known for their vibrant flavors, nutritional benefits, and versatility in culinary creations. Whether enjoyed fresh, added to desserts, used in jams and preserves, or incorporated into smoothies and salads, berries bring a burst of sweetness and joy to our palates. So, indulge in these nature's gems and savor the delightful essence of berries!
 # Name
-Strawberry: Botanic Name - Fragaria ananassa, Common Name - Strawberry
-Blueberry: Botanic Name - Vaccinium corymbosum, Common Name - Blueberry
-Raspberry: Botanic Name - Rubus idaeus, Common Name - Raspberry
-Blackberry: Botanic Name - Rubus fruticosus, Common Name - Blackberry
-Cranberry: Botanic Name - Vaccinium macrocarpon, Common Name - Cranberry
-Elderberry: Botanic Name - Sambucus nigra, Common Name - Elderberry
-Gooseberry: Botanic Name - Ribes uva-crispa, Common Name - Gooseberry
-Mulberry: Botanic Name - Morus spp., Common Name - Mulberry
-Boysenberry: Botanic Name - Rubus ursinus x R. idaeus, Common Name - Boysenberry
-Lingonberry: Botanic Name - Vaccinium vitis-idaea, Common Name - Lingonberry
+Botanic Name - Fragaria ananassa
+
+Common Name - Strawberry
+
+
 # Characteristics
 Plant Type: Berries come from shrubs, vines, and herbaceous plants.
 
@@ -246,4 +241,11 @@ Here are some key points for pruning berries in a concise manner:
 2. Everbearing or Fall-Bearing Berries (such as certain varieties of raspberries and strawberries): For these berries, you have a couple of options. You can choose to prune in late winter or early spring, similar to summer-bearing berries.
 
 3. Blueberries: Blueberries are pruned during their dormant season, which is also in late winter or early spring.
+# Crop Distance
+. Here are some general guidelines for spacing banana plants:
 
+1. Plant-to-plant spacing: The typical spacing between banana plants in a row is about 2 to 3 meters (6.5 to 10 feet). This spacing allows enough room for the plants to grow and spread their leaves without crowding each other.
+
+2. Row-to-row spacing: The spacing between rows of banana plants can vary depending on agricultural practices and the availability of machinery for maintenance and harvesting. Generally, a row-to-row spacing of about 3 to 4 meters (10 to 13 feet) is common. This spacing provides sufficient space for workers and machinery to move between rows.
+
+3. Plant density: The desired plant density can also influence spacing. The number of plants per hectare (or acre) can vary based on the management system and the specific requirements of the banana variety. In general, plant densities between 1,000 to 2,500 plants per hectare (400 to 1,000 plants per acre) are commonly used.

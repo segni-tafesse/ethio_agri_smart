@@ -2,6 +2,7 @@
  zucchini, a delightful vegetable indeed! In short and brief terms, zucchini is a summer squash that belongs to the Cucurbitaceae family. It is characterized by its elongated shape, smooth green skin, and mild flavor. Zucchini is highly versatile and can be enjoyed in various culinary creations, from sautés and stir-fries to soups and baked goods. It is known for its tender texture and ability to absorb flavors, making it a popular ingredient in many dishes. With its abundance during the summer months, zucchini adds a touch of freshness and vibrancy to our plates.
 # Name
 Scientific name:  Cucurbita pepo
+
 Common names:  zucchini
 # Characteristics
 
@@ -47,7 +48,7 @@ When selecting a location for your zucchini plants, choose a spot that receives 
 
 5. Avoid Over-Fertilization: While proper fertilization is important, it's crucial to avoid over-fertilizing, as this can lead to excessive vegetative growth and reduced fruit production. Follow recommended application rates and monitor the plant's response.
 
-# Possibke Disease  of Zucchini
+# Possible Disease  of Zucchini
 
 
 ## Virus

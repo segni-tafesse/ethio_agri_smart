@@ -6,14 +6,23 @@ African violet is a popular houseplant with fuzzy, rounded leaves and clusters o
  Common name : African violet.
 # Characteristics
 Plant type:  compact houseplant 
+
 Mature size: 6-8 inches in height
+
 Blooms time:  throughout the year
+
 ub exposure:   full  sun
+
  Soil type:   well-draining soil mix specifically formulated for African violets
+
 PH soil:  range of 6.0-6.5. 
+
 Colors: including shades of purple, pink, blue, and white.
 
-  Hardiness  zone: typically grown indoors and are not hardy in outdoor conditions. They Native  area:  Tanzania and eastern Kenya in East Africa.
+
+  Hardiness  zone: typically grown indoors and are not hardy in outdoor conditions.
+
+  Native  area:  Tanzania and eastern Kenya in East Africa.
 # How to grow African violet?
 To grow African violets successfully, here are some general guidelines to follow:
 
@@ -99,7 +108,7 @@ African violets have specific fertilizer requirements to support their growth an
 3. Liquid Application: African violets prefer to receive their nutrients through liquid fertilizers. Dissolve the fertilizer in water according to the package instructions and apply it to the soil around the base of the plant. Avoid getting the fertilizer on the leaves, as it can cause leaf burn.
 
 
-# Possibke Disease  of  African violet
+# Possible Disease  of  African violet
 
 ## Virus
 Here are a few common viral diseases that can affect African violets:
@@ -259,3 +268,4 @@ Harvesting African violets primarily involves the removal of spent or faded flow
 
 African violets (Saintpaulia spp.) can be pruned at any time of the year when they require maintenance or shaping.
 # Crop Distance
+The distance between two African violet plants depends on the specific variety and growth habit of the plant. In general, it is recommended to space African violets approximately 8 to 12 inches (20 to 30 centimeters) apart to allow for proper air circulation and prevent overcrowding. This spacing allows each plant to receive adequate light and nutrients, promoting healthy growth and potentially increasing production. However, it is always best to refer to the specific recommendations provided by the plant breeder or supplier for optimal spacing.

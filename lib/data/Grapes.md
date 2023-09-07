@@ -1,6 +1,6 @@
 # What is Grape ?
 
-A grape is a fruit, botanically a berry, of the deciduous woody vines of the flowering plant genus Vitis. Grapes are a non-climacteric type of fruit, generally occurring in clusters.
+Grapes are a type of fruit that grow on deciduous woody vines of the genus Vitis. They are widely cultivated and consumed around the world. Grapes are typically small, round, and come in a variety of colors, including green (such as the popular variety called "Thompson Seedless"), red (such as "Crimson Seedless" or "Red Globe"), and black (such as "Concord" or "Black Seedless"). Grapes are known for their sweet and juicy flavor, and they can be eaten fresh or used to make various products, such as wine, juice, jams, and raisins. Grapes are rich in nutrients, particularly vitamins C and K, and are often considered a healthy snack option.
 # Names
 Scientifical name: Vitis vinifera L.
 
@@ -75,7 +75,7 @@ Fungi can indeed wreak havoc on grapevines, impacting their growth, fruit qualit
 
 5. Anthracnose: Anthracnose, caused by various fungal species, can infect grapevines and cause dark, sunken lesions on leaves, stems, and berries. Infected berries may develop brown, necrotic spots. Cultural practices such as pruning to increase airflow, removing infected plant material, and applying appropriate fungicides can aid in the management of anthracnose.
 ## Bacteria
- While fungal diseases often take the spotlight, bacteria can indeed wreak havoc on grapevines, impacting their growth, fruit quality, and overall vine health. Here are a few notable bacterial diseases that can afflict grapes:
+Here are a few notable bacterial diseases that can afflict grapes:
 
 1. Pierce's Disease: Pierce's disease, caused by the bacterium Xylella fastidiosa, is a devastating bacterial disease that affects many grapevine varieties. It is primarily transmitted by certain insect vectors, such as sharpshooters or spittlebugs. Infected vines may display symptoms such as wilting, leaf scorching, and eventual death. Managing Pierce's disease involves controlling the insect vectors, using disease-resistant grape varieties, and implementing strict sanitation practices.
 
@@ -116,40 +116,61 @@ Here are some key post-prevention actions to consider:
 
 7. Integrated Pest Management (IPM): Continue practicing integrated pest management techniques to minimize the impact of pests, which can also contribute to disease development. Employ biological controls, beneficial insects, and cultural practices to maintain a healthy ecosystem in your vineyard.
 # Pests
-Some common pest of grape are:
-Aphids.
-Black vine weevil.
-Boxelder bug.
-Branch and twig borer.
-Cutworms.
-Glassy-winged sharpshooter.
-Grape bud beetle.
-Grape leaffolder.
+Grapes (Vitis spp.) are susceptible to various pests that can cause damage to the vines, leaves, and fruit. Some common pests of grapes include:
+
+1. Grapevine Phylloxera (Daktulosphaira vitifoliae): Phylloxera is a tiny aphid-like insect that feeds on grapevine roots, causing damage and potentially killing the plant. This pest is a significant threat to grapevines worldwide.
+
+2. Grape Berry Moth (Paralobesia viteana): The grape berry moth is a common pest that primarily affects grape clusters. The larvae of this moth feed on grape berries, leading to fruit damage and potential fungal infections.
+
+3. Grape Leafhoppers (Erythroneura spp.): Leafhoppers are small insects that feed on grape leaves by piercing them and sucking sap. They can cause leaf discoloration, stunted growth, and reduced photosynthesis.
+
+4. Grape Mealybugs (Pseudococcus spp.): Mealybugs are small, soft-bodied insects that gather in clusters on grapevines. They feed on plant sap and produce honeydew, which attracts ants and promotes the growth of sooty mold.
+
+5. Grape Phylloxera (Viteus vitifoliae): Not to be confused with grapevine phylloxera, grape phylloxera is a scale insect that mainly affects leaves and young shoots. Heavy infestations can cause leaf curling, stunted growth, and reduced vigor.
+
+6. Grape Root Borer (Vitacea polistiformis): The grape root borer is a beetle whose larvae tunnel into the roots of grapevines, causing damage and weakening the plants.
+
+
 # pesticides
-### What pesticides are used on Grapes?
-Imidacloprid is one of the most common insecticide chemical compounds, with about half of all grapes having a trace of the popular insect neurotoxin.
+Here are some common pesticides that may be used in grape production:
+
+1. Insecticides: 
+   - Spinosad: Effective against a wide range of insect pests, including grape berry moths and leafhoppers.
+   - Pyrethroids (e.g., bifenthrin, cypermethrin): Broad-spectrum insecticides used to control various pests such as leafhoppers, grape berry moths, and Japanese beetles.
+   - Neonicotinoids (e.g., imidacloprid): Systemic insecticides used to control sucking insects like leafhoppers and grape phylloxera.
+
+2. Fungicides:
+   - Sulfur: Used to control powdery mildew, a common fungal disease in grapes.
+   - Copper-based fungicides: Effective against fungal diseases like downy mildew and anthracnose.
+   - Triazoles (e.g., tebuconazole, propiconazole): Broad-spectrum fungicides used to control a range of fungal diseases, including powdery mildew and botrytis bunch rot.
+
+3. Herbicides:
+   - Glyphosate: A non-selective herbicide used to control weeds between rows or in non-crop areas.
+   - Pre-emergent herbicides: Various herbicides, such as pendimethalin or oryzalin, may be used to control weeds before they emerge.
+
+
 # Herbs
- Grapes, a delightful fruit that has been enjoyed for centuries! While grapes themselves are not typically associated with herbs, there are certain herbs and spices that can complement the flavors of grapes when used in culinary preparations or in combination with grape-based dishes. Here are a few examples:
+ Here are a few examples:
 
-Mint: Fresh mint leaves can add a refreshing and cooling element to grape-based salads, desserts, or beverages. Its bright flavor can provide a pleasant contrast to the sweetness of grapes.
+1. Mint: Fresh mint leaves can add a refreshing and cooling element to grape-based salads, desserts, or beverages. Its bright flavor can provide a pleasant contrast to the sweetness of grapes.
 
-Basil: With its aromatic and slightly spicy notes, basil can be a surprising but delightful addition to grape-based recipes. It can be used in salads, infused oils, or even in grape and basil sorbets.
+2. Basil: With its aromatic and slightly spicy notes, basil can be a surprising but delightful addition to grape-based recipes. It can be used in salads, infused oils, or even in grape and basil sorbets.
 
-Rosemary: The woody and fragrant nature of rosemary can pair well with certain grape varieties. Rosemary-infused syrups or rosemary-roasted grapes can add a savory and aromatic twist to your culinary creations.
+3. Rosemary: The woody and fragrant nature of rosemary can pair well with certain grape varieties. Rosemary-infused syrups or rosemary-roasted grapes can add a savory and aromatic twist to your culinary creations.
 
-Thyme: Thyme, with its earthy and slightly minty flavor, can complement the sweetness of grapes in various dishes. Sprinkling a touch of fresh thyme leaves over roasted grapes or incorporating thyme-infused syrup in grape-based cocktails can enhance the overall taste experience.
+4. Thyme: Thyme, with its earthy and slightly minty flavor, can complement the sweetness of grapes in various dishes. Sprinkling a touch of fresh thyme leaves over roasted grapes or incorporating thyme-infused syrup in grape-based cocktails can enhance the overall taste experience.
 
-Cinnamon: The warm and comforting flavor of cinnamon can be a delightful addition to grape-based desserts, preserves, or spiced grape beverages.
+5. Cinnamon: The warm and comforting flavor of cinnamon can be a delightful addition to grape-based desserts, preserves, or spiced grape beverages.
 
-These herbs can be used to enhance the flavors of grapes in various culinary creations, whether in salads, desserts, or beverages. The key is to experiment and find the combinations that appeal to your personal taste preferences.
+
 # Herbicides
-Common herbicides used in grape cultivation can vary depending on factors such as weed species, regional regulations, and specific challenges faced by grape growers. Here are a few herbicides that are often used in vineyards:
+Here are a few herbicides that are often used in vineyards:
 
-Glyphosate: Glyphosate-based herbicides are commonly used in many agricultural settings, including vineyards. They are broad-spectrum herbicides effective against a wide range of weeds. However, it is important to use glyphosate products judiciously and according to local guidelines.
+1. Glyphosate: Glyphosate-based herbicides are commonly used in many agricultural settings, including vineyards. They are broad-spectrum herbicides effective against a wide range of weeds. However, it is important to use glyphosate products judiciously and according to local guidelines.
 
-Pre-emergent herbicides: These herbicides are applied before weed seeds germinate and can help prevent weeds from establishing in the vineyard. Common pre-emergent herbicides used in grape cultivation include products containing active ingredients such as pendimethalin, oryzalin, or flumioxazin.
+2. Pre-emergent herbicides: These herbicides are applied before weed seeds germinate and can help prevent weeds from establishing in the vineyard. Common pre-emergent herbicides used in grape cultivation include products containing active ingredients such as pendimethalin, oryzalin, or flumioxazin.
 
-Post-emergent herbicides: Post-emergent herbicides are applied after weeds have already emerged from the soil. Selective herbicides, such as those containing active ingredients like 2,4-D or dicamba, target specific types of weeds while minimizing damage to grapevines.
+3. Post-emergent herbicides: Post-emergent herbicides are applied after weeds have already emerged from the soil. Selective herbicides, such as those containing active ingredients like 2,4-D or dicamba, target specific types of weeds while minimizing damage to grapevines.
 # Toxicity 
 
 Twenty years after the first cases of kidney injury from grape and raisin ingestions were described, the study has identified the likely toxic component. The concentration of tartaric acid in grapes varies from 0.35% to 2%, which makes predicting toxicity difficult.
