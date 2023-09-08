@@ -213,7 +213,7 @@ class _FertilizerCalculatorAppState extends State<FertilizerCalculatorApp1> {
           DAPAmount = calculateUnmaturedDAPAmount(130434.782);
           ureaAmount = calculateUnmaturedUreaAmount(271739.13);
         }
-      } else if (selectedPlantType == 'Potato') {
+      } else if (selectedPlantType == 'Potatoes') {
         if (selectedPlantAge == 'Un-matured(1-3 yrs)' ||
             selectedPlantAge == 'Matured(>4 yrs)') {
           MOPAmount = calculateUnmaturedMOPAmount(250000);
@@ -405,8 +405,4 @@ class _FertilizerCalculatorAppState extends State<FertilizerCalculatorApp1> {
       ),
     );
   }
-}
-
-void main() {
-  runApp(FertilizerCalculatorApp1());
 }

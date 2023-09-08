@@ -13,7 +13,23 @@ Connon  name: Tikil Gomen
 
 Botanic name:   Brassica carinata
 # Characteristics
+Plant Type: typically classified as biennial or perennial plants.
 
+Mature Size:  ranging from small to medium-sized heads.
+
+Sun Exposure: Ethiopian cabbages prefer full sun exposure.
+
+Soil Type: They prefer loamy or sandy .
+
+Soil pH:ranging from 6.0 to 7.0. 
+
+Colors:  green, red, and purple. 
+
+Hardiness Zone:  zones 9 to 11.
+
+Native Area: originated in Ethiopia, East Africa. 
+
+Toxicity: Ethiopian cabbages are generally not considered toxic to humans.
 # How to grow Ethiopian  Cabbages?
 To grow Ethiopian cabbages successfully, follow these steps:
 

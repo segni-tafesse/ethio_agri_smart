@@ -5,7 +5,7 @@ These humble vegetables are known for their distinctive flavor, which can range 
 # Name
 Common Name: Turnip
 
-Scientific Name: Brassica rapa subsp. rapa
+Scientific Name: Brassica rapa subsp. rapa.
 
 # Characteristics
 Plant Type: Turnips are herbaceous biennial plants.

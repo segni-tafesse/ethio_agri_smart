@@ -1,10 +1,12 @@
+import 'package:ethio_agri_smart/all.dart';
 import 'package:ethio_agri_smart/artificial.dart';
 import 'package:ethio_agri_smart/decision_sup.dart';
 import 'package:ethio_agri_smart/fer.dart';
-import 'package:ethio_agri_smart/fer_car.dart';
+
 import 'package:ethio_agri_smart/fiveth.dart';
-import 'package:ethio_agri_smart/pest.dart';
+
 import 'package:ethio_agri_smart/rotation.dart';
+import 'package:ethio_agri_smart/scanplant.dart';
 import 'package:ethio_agri_smart/weather_screen.dart';
 import 'package:flutter/material.dart';
 import './onepage.dart';
@@ -131,22 +133,22 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
                 onPressed: () {
                   Navigator.push(context, MaterialPageRoute(
                     builder: (context) {
-                      return PlantDiseaseDetector();
+                      return PlantScanPage();
                     },
                   ));
                 },
-                child: Text('Artificial Intelligence'),
+                child: Text('Scan plant'),
               ),
               ElevatedButton(
                 style: buttonprimary,
                 onPressed: () {
                   Navigator.push(context, MaterialPageRoute(
                     builder: (context) {
-                      return FertilizerCalculatorApp();
+                      return Nextpage11();
                     },
                   ));
                 },
-                child: Text('Fer Calculator'),
+                child: Text('Agro Calculator'),
               ),
               ElevatedButton(
                 style: buttonprimary,
@@ -169,17 +171,6 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
                   ));
                 },
                 child: Text('Crop Rotation '),
-              ),
-              ElevatedButton(
-                style: buttonprimary,
-                onPressed: () {
-                  Navigator.push(context, MaterialPageRoute(
-                    builder: (context) {
-                      return FertilizerCalculatorApp1();
-                    },
-                  ));
-                },
-                child: Text('Agro Calculator'),
               ),
             ],
           ),
