@@ -1111,20 +1111,6 @@ class MyApp30 extends StatelessWidget {
                     ),
                   ],
                 ),
-                SizedBox(
-                  height: 50,
-                ),
-                Text(
-                  'Recommendation',
-                  style: TextStyle(fontWeight: FontWeight.bold, fontSize: 24),
-                ),
-                Text(
-                  'From the above list of fruits we would recommend you to produce:\napple \N BECAUSE the price of apple cure)',
-                  style: TextStyle(fontWeight: FontWeight.bold),
-                ),
-                Text(
-                    'Daily recommended minimum amount of money for food per person	5.55 Monthly recommended minimum amount of money for food per person',
-                    style: TextStyle(fontWeight: FontWeight.bold)),
               ],
             ),
           ),

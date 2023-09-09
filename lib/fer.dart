@@ -234,7 +234,9 @@ class _FertilizerCalculatorAppState extends State<FertilizerCalculatorApp1> {
           DAPAmount = calculateUnmaturedDAPAmount(130434.78);
           ureaAmount = calculateUnmaturedUreaAmount(217391.304);
         }
-      } else {}
+      } else {
+        Text('Something went wrong');
+      }
     });
   }
 

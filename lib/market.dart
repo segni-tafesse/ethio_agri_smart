@@ -77,7 +77,7 @@ class MyApp3 extends StatelessWidget {
                           child: Container(
                             color: Colors.green[50],
                             height: 50,
-                            child: Center(child: Text('ETB 100')),
+                            child: Center(child: Text('ETB ')),
                           ),
                         ),
                         TableCell(

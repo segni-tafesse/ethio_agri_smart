@@ -1,6 +1,8 @@
 import 'package:ethio_agri_smart/button.dart';
 import 'package:ethio_agri_smart/fer.dart';
+import 'package:ethio_agri_smart/mers.dart';
 import 'package:ethio_agri_smart/pest.dart';
+import 'package:ethio_agri_smart/poe.dart';
 
 import 'package:flutter/material.dart';
 
@@ -40,7 +42,7 @@ class _NextpageState extends State<Nextpage11> {
                   onPressed: () {
                     Navigator.push(context, MaterialPageRoute(
                       builder: (context) {
-                        return HerbicideCalculatorApp();
+                        return HerbicideCalculatorApp32();
                       },
                     ));
                   },
@@ -50,7 +52,7 @@ class _NextpageState extends State<Nextpage11> {
                   onPressed: () {
                     Navigator.push(context, MaterialPageRoute(
                       builder: (context) {
-                        return HerbicideCalculatorApp();
+                        return HerbicideCalculatorApp32();
                       },
                     ));
                   },

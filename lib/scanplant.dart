@@ -75,7 +75,7 @@ class _PlantScanPageState extends State<PlantScanPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.amberAccent,
+      backgroundColor: const Color.fromARGB(255, 247, 247, 247),
       appBar: ScanAppBar(),
       body: Center(
         child: Column(
@@ -92,7 +92,7 @@ class _PlantScanPageState extends State<PlantScanPage> {
               child: Text('Pick from Gallery'),
             ),
             ElevatedButton(
-              onPressed: () => pickImage(ImageSource.gallery),
+              onPressed: () => pickImage(ImageSource.camera),
               child: Text('Pick from Camera'),
             ),
             Loading!
@@ -125,7 +125,7 @@ class ScanAppBar extends StatelessWidget implements PreferredSizeWidget {
   @override
   Widget build(BuildContext context) {
     return AppBar(
-      backgroundColor: Colors.amberAccent,
+      backgroundColor: Color.fromARGB(255, 3, 185, 106),
       elevation: 3,
       centerTitle: true,
       title: Text(
