@@ -1,4 +1,8 @@
+import 'package:ethio_agri_smart/Aboutus.dart';
+import 'package:ethio_agri_smart/Setting.dart';
+import 'package:ethio_agri_smart/share.dart';
 import 'package:flutter/material.dart';
+import 'package:share/share.dart';
 
 class Mydrawer extends StatefulWidget {
   @override
@@ -20,60 +24,70 @@ class _MydrawerState extends State<Mydrawer> {
                 fit: BoxFit.cover,
               ),
             )),
-            ExpansionTile(
-              title: Text('Setting'),
-              children: <Widget>[
-                // Add additional widgets here as children of the ExpansionTile
-                // For example, you can add ListTile widgets or any other desired widgets
-                ListTile(
-                  title: Text('Lanuage'),
-                  onTap: () {
-                    // Add your logic here for when Option 1 is tapped
-                  },
-                ),
-                ListTile(
-                  title: Text('Theme'),
-                  onTap: () {
-                    // Add your logic here for when Option 1 is tapped
-                  },
-                ),
-                ListTile(
-                  title: Text('Tts Setting'),
-                  onTap: () {
-                    // Add your logic here for when Option 2 is tapped
-                  },
-                ),
-              ],
+            ElevatedButton.icon(
+              onPressed: () {
+                _openSettingsPage(context);
+              },
+              icon: Icon(Icons.settings),
+              label: Text('Settings'),
             ),
-            ExpansionTile(
-              title: Text('About Us'),
-              children: <Widget>[
-                ListTile(
-                  title: Text('Mission'),
-                  onTap: () {
-                    // Add your logic here for when the Mission option is tapped
-                  },
-                ),
-                ListTile(
-                  title: Text('Vision'),
-                  onTap: () {
-                    // Add your logic here for when the Vision option is tapped
-                  },
-                ),
-                ListTile(
-                  title: Text('Team'),
-                  onTap: () {
-                    // Add your logic here for when the Team option is tapped
-                  },
-                ),
-              ],
+            ElevatedButton.icon(
+              onPressed: () {
+                _openAboutUsPage(context);
+              },
+              icon: Icon(Icons.info),
+              label: Text('About Us'),
             ),
-            ExpansionTile(title: Text('RATE US')),
-            ExpansionTile(title: Text('Share This App')),
-            ExpansionTile(title: Text('HELP?')),
+            ElevatedButton.icon(
+              onPressed: () {
+                _rateApp();
+              },
+              icon: Icon(Icons.star),
+              label: Text('Rate Us'),
+            ),
+            ElevatedButton.icon(
+              onPressed: () {
+                _shareApp();
+              },
+              icon: Icon(Icons.share),
+              label: Text('Share'),
+            )
           ],
         ),
       ),
     );
   }
+}
+
+void _openSettingsPage(BuildContext context) {
+  // Navigate to the Settings page or perform any other actions
+  // you want to associate with the "Settings" button.
+  // Replace `SettingsPage` with your actual page/widget.
+  Navigator.push(
+    context,
+    MaterialPageRoute(builder: (context) => SettingsPage()),
+  );
+}
+
+void _shareApp() {
+  final String text = 'Check out this awesome app!';
+  Share.share(text);
+}
+
+void _openAboutUsPage(BuildContext context) {
+  // Navigate to the About Us page or perform any other actions
+  // you want to associate with the "About Us" button.
+  // Replace `AboutUsPage` with your actual page/widget.
+  Navigator.push(
+    context,
+    MaterialPageRoute(builder: (context) => AboutUsPage()),
+  );
+}
+
+void _rateApp() {
+  // Perform any actions you want when the "Rate Us" button is pressed.
+  // This could be opening a rating prompt or redirecting the user to
+  // the app store to rate the app.
+  // Add your own implementation here.
+  print('Rate Us button pressed!');
 }

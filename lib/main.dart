@@ -1,6 +1,7 @@
 import 'package:ethio_agri_smart/all.dart';
 import 'package:ethio_agri_smart/artificial.dart';
 import 'package:ethio_agri_smart/decision_sup.dart';
+import 'package:ethio_agri_smart/message.dart';
 // import 'package:ethio_agri_smart/fer.dart';
 
 // import 'package:ethio_agri_smart/fiveth.dart';
@@ -75,30 +76,6 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
               fit: BoxFit.cover,
             ),
           ),
-          bottom: TabBar(
-            indicatorColor: Colors.blue[900],
-            indicatorWeight: 5,
-            isScrollable: true,
-            controller: _tabController,
-            tabs: [
-              Tab(
-                icon: Icon(Icons.home),
-                text: 'Home',
-              ),
-              Tab(
-                icon: Icon(Icons.camera_alt),
-                text: 'Camera',
-              ),
-              Tab(
-                icon: Icon(Icons.cloud),
-                text: 'Weather',
-              ),
-              Tab(
-                icon: Icon(Icons.calculate),
-                text: 'Fertlizer calculator',
-              ),
-            ],
-          ),
         ),
         body: Container(
           padding: EdgeInsets.all(95),
@@ -155,7 +132,7 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
                 onPressed: () {
                   Navigator.push(context, MaterialPageRoute(
                     builder: (context) {
-                      return MyApp30();
+                      return MyApp31();
                     },
                   ));
                 },

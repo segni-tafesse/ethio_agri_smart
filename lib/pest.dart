@@ -233,17 +233,6 @@ class _HerbicideCalculatorScreenState extends State<HerbicideCalculatorScreen> {
                 }
 
                 // Calculate if the required herbicide amount here based on the inputs
-
-                setState(() {
-                  requiredHerbicideAmount = calculateHerbicideAmount(
-                    selectedPlantType,
-                    selectedHerbType,
-                    selectedHerbicideType,
-                    herbicideConcentrationRate,
-                    landArea,
-                    hericideRate,
-                  );
-                });
               },
               child: Text('Calculate Required Herbicide'),
             ),
@@ -253,16 +242,5 @@ class _HerbicideCalculatorScreenState extends State<HerbicideCalculatorScreen> {
         ),
       ),
     );
-  }
-
-  double calculateHerbicideAmount(
-    String plantType,
-    String herbType,
-    String herbicideType,
-    double concentrationRate,
-    double landArea,
-    double herbicideRate,
-  ) {
-    return (landArea * landArea);
   }
 }
