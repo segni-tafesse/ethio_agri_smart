@@ -33,16 +33,12 @@ class AboutUsPage extends StatelessWidget {
               ),
             ),
             SizedBox(height: 16),
-            GestureDetector(
-              onTap: () => _launchURL('https://t.me/$telegramUsername'),
-              child: Text(
-                'Telegram: @$telegramUsername',
-                style: TextStyle(
-                  fontSize: 16,
-                  color: Colors.blue,
-                  decoration: TextDecoration.underline,
-                ),
-              ),
+            MaterialButton(
+              child: Text('More Info'),
+              onPressed: () {
+                launch('https://www.ecx.com.et/');
+              },
+              color: Color.fromARGB(255, 61, 192, 140),
             ),
             SizedBox(height: 8),
             GestureDetector(

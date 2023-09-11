@@ -19,7 +19,7 @@ class _MydrawerState extends State<Mydrawer> {
             DrawerHeader(
                 child: Center(
               child: Image.asset(
-                "images/logo.png",
+                "images/logo light.png",
                 width: double.infinity,
                 fit: BoxFit.cover,
               ),
@@ -60,9 +60,6 @@ class _MydrawerState extends State<Mydrawer> {
 }
 
 void _openSettingsPage(BuildContext context) {
-  // Navigate to the Settings page or perform any other actions
-  // you want to associate with the "Settings" button.
-  // Replace `SettingsPage` with your actual page/widget.
   Navigator.push(
     context,
     MaterialPageRoute(builder: (context) => SettingsPage()),
@@ -75,9 +72,6 @@ void _shareApp() {
 }
 
 void _openAboutUsPage(BuildContext context) {
-  // Navigate to the About Us page or perform any other actions
-  // you want to associate with the "About Us" button.
-  // Replace `AboutUsPage` with your actual page/widget.
   Navigator.push(
     context,
     MaterialPageRoute(builder: (context) => AboutUsPage()),
@@ -85,9 +79,5 @@ void _openAboutUsPage(BuildContext context) {
 }
 
 void _rateApp() {
-  // Perform any actions you want when the "Rate Us" button is pressed.
-  // This could be opening a rating prompt or redirecting the user to
-  // the app store to rate the app.
-  // Add your own implementation here.
   print('Rate Us button pressed!');
 }

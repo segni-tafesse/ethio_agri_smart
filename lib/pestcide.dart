@@ -6,9 +6,9 @@ class PesticideCalculatorApp extends StatefulWidget {
 }
 
 class _PesticideCalculatorAppState extends State<PesticideCalculatorApp> {
-  String plantType = 'Apple';
-  String pestType = 'Aphids---Teff';
-  String pesticideType = 'Spinosad---Apple';
+  String plantType = 'Beans';
+  String pestType = 'Bean Beetle (Cerotoma trifurcata)---Beans';
+  String pesticideType = 'Carbaryl---Bean(Bean Beetle (Cerotoma trifurcata))';
   double landArea = 0.0;
   double pesticideConcentration = 0.0;
   double pesticideAmount = 0.0;
@@ -19,286 +19,179 @@ class _PesticideCalculatorAppState extends State<PesticideCalculatorApp> {
             pestType == 'Apple Maggot(Rhagoletis pomonella)---Apple' ||
         pestType == 'Codling Moth (Cydia pomonella)---Apple' &&
             pesticideType == 'Spinosad---Apple') {
-      pesticideAmount = (100 * 100 * landArea);
+      pesticideAmount = (10 * landArea / 5.1);
     } else if (plantType == 'Teff' &&
         pestType == 'Aphids---Teff' &&
-        pesticideType == 'Insecticidal soaps---Teff') {
-      pesticideAmount = (0.015 * 600 * landArea);
+        pesticideType == 'Insecticidal soaps---Teff(Aphids)') {
+      pesticideAmount = (0.015 * 150 * landArea);
     } else if (plantType == 'Teff' &&
         pestType == 'Grasshoppers---Teff' &&
-        pesticideType == 'Carbaryl---Teff') {
-      pesticideAmount = (1250 * landArea * 10000) / 100;
+        pesticideType == 'Carbaryl---Teff(Grasshoppers)') {
+      pesticideAmount = (12 * landArea) / 6.1;
     } else if (plantType == 'Teff' &&
         pestType == 'Armyworms---Teff' &&
-        pesticideType == 'Bacillus thuringiensis (Bt)---Teff') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
+        pesticideType == 'Bacillus thuringiensis (Bt)---Teff(Armyworms)') {
+      pesticideAmount = (100 * landArea) / 51.4;
     } else if (plantType == 'Wheat' &&
         pestType == 'Aphids---Wheat' &&
-        pesticideType == 'Pyrethroids---Wheat') {
-      pesticideAmount = (75 * landArea) / 100;
+        pesticideType == 'Pyrethroids---Wheat(Aphids)') {
+      pesticideAmount = (75 * landArea) / 41;
     } else if (plantType == 'Wheat' &&
         pestType == 'Hessian flies---Wheat' &&
-        pesticideType == 'imidacloprid---Wheat') {
-      pesticideAmount = (150 * landArea) / 100;
+        pesticideType == 'Imidacloprid---Wheat(Hessian flies)') {
+      pesticideAmount = (150 * landArea) / 74.1;
     } else if (plantType == 'Wheat' &&
         pestType == 'Army worms---Wheat' &&
-        pesticideType == 'Pyrethroids---Wheat') {
-      pesticideAmount = (150 * landArea) / 100;
+        pesticideType == 'Pyrethroids---Wheat(Army worms)') {
+      pesticideAmount = (150 * landArea) / 73.3;
     } else if (plantType == 'Rice' &&
         pestType == 'Rice Stem Borer (Chilo suppressalis)---Rice' &&
-        pesticideType == 'Cartap hydrochloride---Rice') {
-      pesticideAmount = (2500 * landArea) / 100;
+        pesticideType ==
+            'Cartap hydrochloride---Rice(Rice Stem Borer (Chilo suppressalis))') {
+      pesticideAmount = (25 * landArea) / 11.4;
     } else if (plantType == 'Rice' &&
         pestType == 'Rice Leaf Folder (Cnaphalocrocis medinalis)---Rice' &&
-        pesticideType == 'Pyrethroids---Rice') {
-      pesticideAmount = (250 * landArea) / 100;
+        pesticideType ==
+            'Pyrethroids---Rice(Rice Leaf Folder (Cnaphalocrocis medinalis))') {
+      pesticideAmount = (250 * landArea) / 129;
     } else if (plantType == 'Rice' &&
         pestType == 'Brown Planthopper (Nilaparvata lugens)---Rice' &&
-        pesticideType == 'Pyrethroids---Rice') {
-      pesticideAmount = (150 * landArea) / 100;
+        pesticideType ==
+            'Pyrethroids---Rice(Brown Planthopper (Nilaparvata lugens))') {
+      pesticideAmount = (150 * landArea) / 89;
     } else if (plantType == 'Maize' &&
         pestType == 'Fall Armyworm (Spodoptera frugiperda)---Maize' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (150 * landArea) / 100;
+        pesticideType ==
+            'Pyrethroids---Maize(Fall Armyworm (Spodoptera frugiperda))') {
+      pesticideAmount = (150 * landArea) / 76.2;
     } else if (plantType == 'Maize' &&
         pestType == 'Maize Stalk Borer (Busseola fusca)---Maize' &&
-        pesticideType == 'Chlorpyrifos---Maize') {
-      pesticideAmount = (2500 * landArea) / 100;
+        pesticideType ==
+            'Chlorpyrifos---Maize(Maize Stalk Borer (Busseola fusca))') {
+      pesticideAmount = (125 * landArea) / 63;
     } else if (plantType == 'Maize' &&
         pestType == 'Corn Earworm (Helicoverpa zea)---Maize' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (150 * landArea) / 100;
+        pesticideType ==
+            'Pyrethroids---Maize(Corn Earworm (Helicoverpa zea))') {
+      pesticideAmount = (15 * landArea) / 7;
     } else if (plantType == 'Sorghum' &&
         pestType == 'Sugarcane Aphid (Melanaphis sacchari)---Sorghum' &&
-        pesticideType == 'Sulfoxaflor---Sorghum') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
+        pesticideType ==
+            'Sulfoxaflor---Sorghum(Sugarcane Aphid (Melanaphis sacchari))') {
+      pesticideAmount = (75 * landArea) / 43;
     } else if (plantType == 'Sorghum' &&
         pestType == 'Sorghum Midge (Contarinia sorghicola)---Sorghum' &&
-        pesticideType == 'Chlorpyrifos---Sorghum') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
+        pesticideType ==
+            'Chlorpyrifos---Sorghum(Sorghum Midge (Contarinia sorghicola))') {
+      pesticideAmount = (3 * landArea) / 1.3;
     } else if (plantType == 'Sorghum' &&
         pestType == 'Sorghum Shoot Fly (Atherigona soccata)---Sorghum' &&
-        pesticideType == 'Thiamethoxam---Sorghum') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
+        pesticideType ==
+            'Thiamethoxam---Sorghum(Sorghum Shoot Fly (Atherigona soccata))') {
+      pesticideAmount = (80 * landArea) / 37;
     } else if (plantType == 'Millet' &&
         pestType ==
             'Stem Borers (Coniesta ignefusalis and Sesamia spp.)---Millet' &&
-        pesticideType == 'Carbaryl---Millet') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
+        pesticideType ==
+            'Carbaryl---Millet(Stem Borers (Coniesta ignefusalis and Sesamia spp.))') {
+      pesticideAmount = (15 * landArea) / 6.2;
     } else if (plantType == 'Millet' &&
         pestType == 'Earhead Bug (Calocoris angustatus)---Millet' &&
-        pesticideType == 'Bifenthrin---Millet') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
+        pesticideType ==
+            'Bifenthrin---Millet(Earhead Bug (Calocoris angustatus))') {
+      pesticideAmount = (8 * landArea) / 3.6;
     } else if (plantType == 'Millet' &&
         pestType == 'Grasshoppers (Various species)---Millet' &&
-        pesticideType == 'Malathion---Millet') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
+        pesticideType == 'Malathion---Millet(Grasshoppers (Various species))') {
+      pesticideAmount = (1.5 * landArea);
     } else if (plantType == 'Beans' &&
         pestType == 'Bean Beetle (Cerotoma trifurcata)---Beans' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
-    } else if (plantType == 'Beans' &&
-        pestType == 'Mexican Bean Beetle (Epilachna varivestis)---Beans' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
+        pesticideType == 'Carbaryl---Bean(Bean Beetle (Cerotoma trifurcata))') {
+      pesticideAmount = (175 * landArea) / 79.1;
     } else if (plantType == 'Peas' &&
         pestType == 'Pea Aphid (Acyrthosiphon pisum)---Peas' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
+        pesticideType ==
+            'Insecticidal soap---Peas(Pea Aphid (Acyrthosiphon pisum))') {
+      pesticideAmount = (37 * landArea) / 19;
     } else if (plantType == 'Peas' &&
         pestType == 'Pea Weevil (Sitona lineatus)---Peas' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
+        pesticideType ==
+            'Pyrethrin-based insecticides---Peas(Pea Weevil (Sitona lineatus))') {
+      pesticideAmount = (15 * landArea) / 4.5;
     } else if (plantType == 'Pumpkin' &&
         pestType == 'Squash Bugs (Anasa tristis)---Pumpkin' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
+        pesticideType ==
+            'Pyrethrin-based insecticides---Pumpkin(Squash Bugs (Anasa tristis))') {
+      pesticideAmount = (15 * landArea) / 8.1;
     } else if (plantType == 'Pumpkin' &&
         pestType == 'Cucumber Beetles (Diabrotica spp.)---Pumpkin' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
+        pesticideType ==
+            'pyrethrin-based insecticides.---Pumpkin(Cucumber Beetles (Diabrotica spp.))') {
+      pesticideAmount = (152 * landArea) / 71;
     } else if (plantType == 'Sunflower' &&
         pestType == 'Sunflower Moth (Homoeosoma electellum)---Sunflower' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
+        pesticideType ==
+            ' Spinosad---Sunflower(Sunflower Moth (Homoeosoma electellum))') {
+      pesticideAmount = (300 * landArea) / 130;
     } else if (plantType == 'Sunflower' &&
         pestType == 'Sunflower Beetle (Zygogramma exclamationis)---Sunflower' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
-    } else if (plantType == 'Sunflower' &&
-        pestType ==
-            'Sunflower Stem Weevil (Cylindrocopturus adspersus)---Sunflower' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
-    } else if (plantType == 'Coffee' &&
-        pestType == 'Coffee Berry Borer (Hypothenemus hampei)---Coffee' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
-    } else if (plantType == 'Coffee' &&
-        pestType == 'Coffee Leaf Rust (Hemileia vastatrix)---Coffee' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
-    } else if (plantType == 'Coffee' &&
-        pestType ==
-            'Coffee White Stem Borer (Xylotrechus quadripes)---Coffee' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
-    } else if (plantType == 'Avocado' &&
-        pestType == 'Avocado Lace Bug (Pseudacysta perseae)---Avocado' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
-    } else if (plantType == 'Avocado' &&
-        pestType == 'Avocado Thrips (Scirtothrips perseae)---Avocado' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
-    } else if (plantType == 'Banana' &&
-        pestType == 'Banana Aphids (Pentalonia nigronervosa)---Banana' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
-    } else if (plantType == 'Banana' &&
-        pestType == 'Banana Weevil (Cosmopolites sordidus)---Banana' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
-    } else if (plantType == 'Mango' &&
-        pestType == 'Mango Fruit Fly (Bactrocera dorsalis)---Mango' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
-    } else if (plantType == 'Mango' &&
-        pestType == 'Mango Seed Weevil (Sternochetus mangiferae)---Mango' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
-    } else if (plantType == 'Pine Apple' &&
-        pestType == 'Pineapple Mealybugs (Dysmicoccus brevipes)---Pine Apple' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
-    } else if (plantType == 'Pine Apple' &&
-        pestType == 'Pineapple Aphids (Ceratovacuna lanigera)---Pine Apple' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
-    } else if (plantType == 'Soybean' &&
-        pestType == 'Soybean Aphid (Aphis glycines)---Soybean' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
+        pesticideType ==
+            'Carbaryl---Sunflower(Sunflower Beetle (Zygogramma exclamationis))') {
+      pesticideAmount = (175 * landArea) / 68;
     } else if (plantType == 'Soybean' &&
         pestType == 'Soybean Cyst Nematode (Heterodera glycines)---Soybean' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
-    } else if (plantType == 'Cotton' &&
-        pestType == 'Cotton Bollworm (Helicoverpa armigera)---Cotton' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
-    } else if (plantType == 'Cotton' &&
-        pestType == 'Cotton Aphid (Aphis gossypii)---Cotton' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
+        pesticideType ==
+            'Oxamyl---Soybean(Soybean Cyst Nematode (Heterodera glycines))') {
+      pesticideAmount = (landArea * 10) / 5.9;
     } else if (plantType == 'Potato' &&
         pestType ==
             'Colorado Potato Beetle (Leptinotarsa decemlineata)---Potato' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
-    } else if (plantType == 'Potato' &&
-        pestType == 'Potato Aphids (Macrosiphum euphorbiae)---Potato' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
+        pesticideType ==
+            'Spinosad---Potato(Colorado Potato Beetle (Leptinotarsa decemlineata))') {
+      pesticideAmount = (10 * landArea) / 3.7;
     } else if (plantType == 'Tomato' &&
         pestType == 'Tomato Hornworm (Manduca quinquemaculata)---Tomato' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
-    } else if (plantType == 'Tomato' &&
-        pestType == 'Tomato Fruitworm (Helicoverpa zea)---Tomato' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
-    } else if (plantType == 'Orange' &&
-        pestType == 'Citrus Leafminer (Phyllocnistis citrella)---Orange' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
-    } else if (plantType == 'Orange' &&
-        pestType == 'Citrus Red Mite (Panonychus citri)---Orange' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
+        pesticideType ==
+            'Bacillus thuringiensis (Bt)---Tomato(Tomato Hornworm (Manduca quinquemaculata))') {
+      pesticideAmount = (2 * landArea) / 1;
     } else if (plantType == 'Cabbage' &&
         pestType ==
             'Cabbage Worms (Pieris rapae and Pieris brassicae)---Cabbage' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
-    } else if (plantType == 'Cabbage' &&
-        pestType == 'Grasshoppers (Various species)---Millet' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
+        pesticideType ==
+            'Bacillus thuringiensis (Bt)---Cabbage(Cabbage Worms (Pieris rapae and Pieris brassicae))') {
+      pesticideAmount = (2 * landArea) / 0.9;
     } else if (plantType == 'Lettuce' &&
-        pestType == 'Grasshoppers (Various species)---Millet' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
-    } else if (plantType == 'Lettuce' &&
-        pestType == 'Grasshoppers (Various species)---Millet' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
+        pestType == 'Aphids (Various species)---Lettuce' &&
+        pesticideType ==
+            'Insecticidal soap---Lettuce(Aphids (Various species))') {
+      pesticideAmount = (17.5 * landArea) / 8.8;
     } else if (plantType == 'Carrot' &&
-        pestType == 'Grasshoppers (Various species)---Millet' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
-    } else if (plantType == 'Carrot' &&
-        pestType == 'Grasshoppers (Various species)---Millet' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
+        pestType == 'Carrot Rust Fly (Psila rosae)---Carrot' &&
+        pesticideType == 'Spinosad---Carrot(Carrot Rust Fly (Psila rosae))') {
+      pesticideAmount = (30 * landArea) / 13;
     } else if (plantType == 'Pear' &&
-        pestType == 'Grasshoppers (Various species)---Millet' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
-    } else if (plantType == 'Pear' &&
-        pestType == 'Grasshoppers (Various species)---Millet' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
-    } else if (plantType == 'Peach' &&
-        pestType == 'Grasshoppers (Various species)---Millet' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
-    } else if (plantType == 'Peach' &&
-        pestType == 'Grasshoppers (Various species)---Millet' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
-    } else if (plantType == 'Lemon' &&
-        pestType == 'Grasshoppers (Various species)---Millet' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
-    } else if (plantType == 'Lemon' &&
-        pestType == 'Grasshoppers (Various species)---Millet' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
-    } else if (plantType == 'Mango' &&
-        pestType == 'Grasshoppers (Various species)---Millet' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
-    } else if (plantType == 'Mango' &&
-        pestType == 'Grasshoppers (Various species)---Millet' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
-    } else if (plantType == 'Rose' &&
-        pestType == 'Grasshoppers (Various species)---Millet' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
-    } else if (plantType == 'Rose' &&
-        pestType == 'Grasshoppers (Various species)---Millet' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
+        pestType == 'Pear Psykka (Cacopsylla pyri)---Pear' &&
+        pesticideType == 'Pyrethroids---Pear(Pear Psylla (Cacopsylla pyri))') {
+      pesticideAmount = (24 * landArea) / 11;
     } else if (plantType == 'Lilies' &&
-        pestType == 'Grasshoppers (Various species)---Millet' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
-    } else if (plantType == 'Lilies' &&
-        pestType == 'Grasshoppers (Various species)---Millet' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
-    } else if (plantType == 'Orchids' &&
-        pestType == 'Grasshoppers (Various species)---Millet' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
-    } else if (plantType == 'Orchids' &&
-        pestType == 'Grasshoppers (Various species)---Millet' &&
-        pesticideType == 'Pyrethroids---Maize') {
-      pesticideAmount = (625 * landArea * 10000) / 100;
+        pestType ==
+            'Carbaryl for Japanese Beetles (Popillia japonica)---Lilies' &&
+        pesticideType ==
+            'Carbaryl for Japanese Beetles (Popillia japonica)---Lilies') {
+      pesticideAmount = (5 * landArea) / 3.4;
+    } else if (plantType == 'SugarCane' &&
+        pestType == 'Sugarcane Borer (Diatraea saccharalis)---SugarCane' &&
+        pesticideType ==
+            'Chlorpyrifos---Sugarcane(Sugarcane Borer (Diatraea saccharalis))') {
+      pesticideAmount = (2 * landArea) / 1.33;
     }
     setState(() {});
+
+    @override
+    Widget build(BuildContext context) {
+      // TODO: implement build
+      throw UnimplementedError();
+    }
   }
 
   @override
@@ -307,6 +200,7 @@ class _PesticideCalculatorAppState extends State<PesticideCalculatorApp> {
       home: Scaffold(
         appBar: AppBar(
           title: Text('Pesticide Calculator'),
+          centerTitle: true,
         ),
         body: Padding(
           padding: const EdgeInsets.all(16.0),
@@ -322,34 +216,26 @@ class _PesticideCalculatorAppState extends State<PesticideCalculatorApp> {
                   });
                 },
                 items: [
-                  'Apple',
-                  'Avocado',
-                  'Banana',
                   'Beans',
-                  'Coffee',
-                  'Cotton',
                   'Cabbage',
                   'Carrot',
                   'Lettuce',
                   'Lilies',
-                  'Lemon',
-                  'Mango',
                   'Maize',
                   'Millet',
-                  'Orange',
-                  'Orchids',
                   'Potato',
                   'Pear',
                   'Peas',
                   'Pumpkin',
-                  'Peach',
+                  'Pear',
                   'Rice',
-                  'Roses',
-                  'Sun flower',
+                  'Sunflower',
+                  'Sugarcane',
                   'Sorghum',
-                  'Soy beans',
+                  'Soybean',
+                  'Teff',
                   'Tomato',
-                  'Teff'
+                  'Wheat'
                 ].map((type) {
                   return DropdownMenuItem<String>(
                     value: type,
@@ -367,19 +253,42 @@ class _PesticideCalculatorAppState extends State<PesticideCalculatorApp> {
                   });
                 },
                 items: [
-                  'Apple Maggot(Rhagoletis pomonella)---Apple',
-                  'Codling Moth (Cydia pomonella)---Apple',
-                  'Aphids---Teff',
-                  'Armyworms---Teff',
+                  'Bean Beetle (Cerotoma trifurcata)---Beans',
+                  'Mexican Bean Beetle (Epilachna varivestis)---Beans',
+                  'Cabbage Worms (Pieris rapae and Pieris brassicae)---Cabbage',
+                  'Carrot Rust Fly (Psila rosae)---Carrot',
+                  'Aphids (Various species)---Lettuce',
+                  'Carbaryl for Japanese Beetles (Popillia japonica)---Lilies',
+                  'Fall Armyworm (Spodoptera frugiperda)---Maize',
+                  'Corn Earworm (Helicoverpa zea)---Maize',
+                  'Maize Stalk Borer (Busseola fusca)---Maize',
+                  'Stem Borers (Coniesta ignefusalis and Sesamia spp.)---Millet',
+                  'Earhead Bug (Calocoris angustatus)---Millet',
+                  'Grasshoppers (Various species)---Millet',
+                  'Colorado Potato Beetle (Leptinotarsa decemlineata)---Potato',
+                  'Pea Weevil (Sitona lineatus)---Peas',
+                  'Pea Aphid (Acyrthosiphon pisum)---Peas',
+                  'Pear Psykka (Cacopsylla pyri)---Pear',
+                  'Squash Bugs (Anasa tristis)---Pumpkin',
+                  'Cucumber Beetles (Diabrotica spp.)---Pumpkin',
+                  'Rice Stem Borer (Chilo suppressalis)---Rice',
+                  'Rice Leaf Folder (Cnaphalocrocis medinalis)---Rice',
+                  'Rice Leaf Folder (Cnaphalocrocis medinalis)---Rice',
+                  'Pyrethroids---Rice(Brown Planthopper (Nilaparvata lugens))',
+                  'Sugarcane Aphid (Melanaphis sacchari)---Sorghum',
+                  'Sorghum Shoot Fly (Atherigona soccata)---Sorghum',
+                  'Sorghum Midge (Contarinia sorghicola)---Sorghum',
+                  'Soybean Cyst Nematode (Heterodera glycines)---Soybean',
+                  'Sugarcane Borer (Diatraea saccharalis)---SugarCane',
+                  'Sunflower Moth (Homoeosoma electellum)---Sunflower',
+                  'Sunflower Beetle (Zygogramma exclamationis)---Sunflower',
+                  'Insecticidal soaps---Teff(Aphids)',
                   'Grasshoppers---Teff',
-                  'Insecticidal soaps---Teff',
-                  'Carbaryl---Teff',
-                  'Bacillus thuringiensis (Bt)---Teff',
-                  'Pyrethroids---Wheat',
-                  'imidacloprid---Wheat',
-                  'Pyrethroids---Wheat',
-                  'Cartap hydrochloride---Wheat',
-                  'Pyrethroids---Wheat',
+                  'Bacillus thuringiensis (Bt)---Teff(Armyworms)',
+                  'Tomato Hornworm (Manduca quinquemaculata)---Tomato',
+                  'Aphids---Wheat',
+                  'Army worms---Wheat',
+                  'Hessian flies---Wheat',
                 ].map((type) {
                   return DropdownMenuItem<String>(
                     value: type,
@@ -397,9 +306,42 @@ class _PesticideCalculatorAppState extends State<PesticideCalculatorApp> {
                   });
                 },
                 items: [
-                  'Spinosad---Apple',
-                  'Insecticidal soaps---Teff',
-                  'Carbaryl---Teff'
+                  'Carbaryl---Bean(Bean Beetle (Cerotoma trifurcata))',
+                  'Carbaryl---Bean(Mexican Bean Beetle (Epilachna varivestis))',
+                  'Bacillus thuringiensis (Bt)---Cabbage(Cabbage Worms (Pieris rapae and Pieris brassicae))',
+                  'Spinosad---Carrot(Carrot Rust Fly (Psila rosae))',
+                  'Insecticidal soap---Lettuce(Aphids (Various species))',
+                  'Carbaryl---Lilies(Japanese Beetles (Popillia japonica))',
+                  'Pyrethroids---Maize(Fall Armyworm (Spodoptera frugiperda))',
+                  'Chlorpyrifos---Maize(Maize Stalk Borer (Busseola fusca))',
+                  'Pyrethroids---Maize(Corn Earworm (Helicoverpa zea))',
+                  'Carbaryl---Millet(Stem Borers (Coniesta ignefusalis and Sesamia spp.))',
+                  'Bifenthrin---Millet(Earhead Bug (Calocoris angustatus))',
+                  'Malathion---Millet(Grasshoppers (Various species))',
+                  'Spinosad---Potato(Colorado Potato Beetle (Leptinotarsa decemlineata))',
+                  'Insecticidal soap---Peas(Pea Aphid (Acyrthosiphon pisum))',
+                  'Pyrethrin-based insecticides---Peas(Pea Weevil (Sitona lineatus))',
+                  'Pyrethroids---Pear(Pear Psylla (Cacopsylla pyri))',
+                  'Pyrethrin-based insecticides---Pumpkin(Squash Bugs (Anasa tristis))',
+                  'pyrethrin-based insecticides.---Pumpkin(Cucumber Beetles (Diabrotica spp.))',
+                  'Cartap hydrochloride---Rice(Rice Stem Borer (Chilo suppressalis))',
+                  'Pyrethroids---Rice(Rice Leaf Folder (Cnaphalocrocis medinalis))',
+                  'Pyrethroids---Rice(Brown Planthopper (Nilaparvata lugens))',
+                  'Sulfoxaflor---Sorghum(Sugarcane Aphid (Melanaphis sacchari))',
+                  'Chlorpyrifos---Sorghum(Sorghum Midge (Contarinia sorghicola))',
+                  'Thiamethoxam---Sorghum(Sorghum Shoot Fly (Atherigona soccata))',
+                  ' Spinosad---Sunflower(Sunflower Moth (Homoeosoma electellum))',
+                  'Carbaryl---Sunflower(Sunflower Beetle (Zygogramma exclamationis))',
+                  'Oxamyl---Soybean(Soybean Cyst Nematode (Heterodera glycines))',
+                  'Chlorpyrifos---Sugarcane(Sugarcane Borer (Diatraea saccharalis))',
+                  'Bacillus thuringiensis (Bt)---Teff(Armyworms)',
+                  'Carbaryl---Teff(Grasshoppers)',
+                  'Insecticidal soaps---Teff(Aphids)',
+                  'Carbaryl---Teff(Grasshoppers)',
+                  'Bacillus thuringiensis (Bt)---Tomato(Tomato Hornworm (Manduca quinquemaculata))',
+                  'Imidacloprid---Wheat(Hessian flies)',
+                  'Pyrethroids---Wheat(Army worms)',
+                  'Pyrethroids---Wheat(Aphids)'
                 ].map((type) {
                   return DropdownMenuItem<String>(
                     value: type,
@@ -413,14 +355,6 @@ class _PesticideCalculatorAppState extends State<PesticideCalculatorApp> {
                 keyboardType: TextInputType.number,
                 onChanged: (value) {
                   landArea = double.tryParse(value) ?? 0.0;
-                },
-              ),
-              SizedBox(height: 16.0),
-              Text('Pesticide Concentration (%):'),
-              TextFormField(
-                keyboardType: TextInputType.number,
-                onChanged: (value) {
-                  pesticideConcentration = double.tryParse(value) ?? 0.0;
                 },
               ),
               SizedBox(height: 16.0),

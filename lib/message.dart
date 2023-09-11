@@ -19,17 +19,16 @@ class MyApp31 extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
-              ElevatedButton(
-                style: buttonprimary,
+              MaterialButton(
                 onPressed: () => openMessagingApp(),
                 child: Text('Ask for Crop Price'),
               ),
-              ElevatedButton(
-                style: buttonprimary,
+              MaterialButton(
                 child: Text('More Info'),
                 onPressed: () {
                   launch('https://www.ecx.com.et/');
                 },
+                color: Color.fromARGB(255, 61, 192, 140),
               ),
               SizedBox(height: 20),
             ],
