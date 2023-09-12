@@ -51,6 +51,13 @@ class _MydrawerState extends State<Mydrawer> {
               },
               icon: Icon(Icons.share),
               label: Text('Share'),
+            ),
+            ElevatedButton.icon(
+              onPressed: () {
+                _getHelp();
+              },
+              icon: Icon(Icons.question_mark),
+              label: Text('Help'),
             )
           ],
         ),
@@ -58,6 +65,8 @@ class _MydrawerState extends State<Mydrawer> {
     );
   }
 }
+
+void _getHelp() {}
 
 void _openSettingsPage(BuildContext context) {
   Navigator.push(

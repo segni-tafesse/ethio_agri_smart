@@ -334,11 +334,8 @@ class _FertilizerCalculatorAppState extends State<FertilizerCalculatorApp1> {
                     selectedUnit = newValue!;
                   });
                 },
-                items: <String>[
-                  'Hectares',
-                  'Acres',
-                  'Square meters',
-                ].map<DropdownMenuItem<String>>((String value) {
+                items: <String>['Hectares']
+                    .map<DropdownMenuItem<String>>((String value) {
                   return DropdownMenuItem<String>(
                     value: value,
                     child: Text(value),
@@ -408,3 +405,7 @@ class _FertilizerCalculatorAppState extends State<FertilizerCalculatorApp1> {
     );
   }
 }
+
+void main() => runApp(MaterialApp(
+      debugShowCheckedModeBanner: false,
+    ));

@@ -1,4 +1,5 @@
 import 'package:ethio_agri_smart/MarkDownPage.dart';
+import 'package:ethio_agri_smart/Setting.dart';
 import 'package:ethio_agri_smart/model/crop_model.dart';
 import 'package:flutter/material.dart';
 
@@ -298,7 +299,24 @@ class _SearchPageState extends State<SearchPage> {
         backgroundColor: Colors.green,
         elevation: 0.0,
         actions: [
-          IconButton(icon: Icon(Icons.more_vert_outlined), onPressed: () {}),
+          IconButton(
+              icon: Icon(Icons.volume_up_outlined),
+              onPressed: () {
+                Navigator.push(context, MaterialPageRoute(
+                  builder: (context) {
+                    return SettingsPage();
+                  },
+                ));
+              }),
+          IconButton(
+              icon: Icon(Icons.more_vert_outlined),
+              onPressed: () {
+                Navigator.push(context, MaterialPageRoute(
+                  builder: (context) {
+                    return SettingsPage();
+                  },
+                ));
+              }),
         ],
       ),
       body: Padding(

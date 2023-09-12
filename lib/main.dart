@@ -1,3 +1,4 @@
+import 'package:ethio_agri_smart/Setting.dart';
 import 'package:ethio_agri_smart/all.dart';
 import 'package:ethio_agri_smart/artificial.dart';
 import 'package:ethio_agri_smart/dart.dart';
@@ -55,15 +56,20 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
           centerTitle: true,
           actions: [
             IconButton(
-              icon: Icon(Icons.share),
-              onPressed: () {},
-            ),
-            IconButton(
                 icon: Icon(Icons.notifications_none),
                 onPressed: () {
                   Navigator.push(context, MaterialPageRoute(
                     builder: (context) {
-                      return PlantDiseaseIdentifierApp1();
+                      return WeatherInterface();
+                    },
+                  ));
+                }),
+            IconButton(
+                icon: Icon(Icons.more_vert_outlined),
+                onPressed: () {
+                  Navigator.push(context, MaterialPageRoute(
+                    builder: (context) {
+                      return SettingsPage();
                     },
                   ));
                 }),
