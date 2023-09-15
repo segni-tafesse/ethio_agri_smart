@@ -26,41 +26,42 @@ class _NextpageState extends State<Nextpage11> {
         backgroundColor: Color.fromARGB(255, 61, 192, 140),
       ),
       body: Container(
-          padding: EdgeInsets.all(120),
-          child: Column(
-            children: [
-              ElevatedButton(
-                  style: buttonprimary,
-                  onPressed: () {
-                    Navigator.push(context, MaterialPageRoute(
-                      builder: (context) {
-                        return FertilizerCalculatorApp1();
-                      },
-                    ));
-                  },
-                  child: Text('Fertlizer Calculator')),
-              ElevatedButton(
-                  style: buttonprimary,
-                  onPressed: () {
-                    Navigator.push(context, MaterialPageRoute(
-                      builder: (context) {
-                        return PesticideCalculatorApp();
-                      },
-                    ));
-                  },
-                  child: Text('Pesticides calculator')),
-              ElevatedButton(
-                  style: buttonprimary,
-                  onPressed: () {
-                    Navigator.push(context, MaterialPageRoute(
-                      builder: (context) {
-                        return HerbicideCalculatorApp();
-                      },
-                    ));
-                  },
-                  child: Text('Herbicides calculator')),
-            ],
-          )),
+        padding: EdgeInsets.all(120),
+        child: Column(
+          children: [
+            ElevatedButton(
+                style: buttonprimary,
+                onPressed: () {
+                  Navigator.push(context, MaterialPageRoute(
+                    builder: (context) {
+                      return FertilizerCalculatorApp1();
+                    },
+                  ));
+                },
+                child: Text('Fertlizer Calculator')),
+            ElevatedButton(
+                style: buttonprimary,
+                onPressed: () {
+                  Navigator.push(context, MaterialPageRoute(
+                    builder: (context) {
+                      return PesticideCalculatorApp();
+                    },
+                  ));
+                },
+                child: Text('Pesticides calculator')),
+            ElevatedButton(
+                style: buttonprimary,
+                onPressed: () {
+                  Navigator.push(context, MaterialPageRoute(
+                    builder: (context) {
+                      return HerbicideCalculatorApp();
+                    },
+                  ));
+                },
+                child: Text('Herbicides calculator')),
+          ],
+        ),
+      ),
     );
   }
 }
