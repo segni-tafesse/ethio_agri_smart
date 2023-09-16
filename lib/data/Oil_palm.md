@@ -1,3 +1,4 @@
+![](resource:images/oilpalm.png)
 #  What's Oil palm?
 Oil palm is a type of tropical plant that is grown primarily for its fruit, which contains oil-rich mesocarp and kernel. It is scientifically known as Elaeis guineensis. Oil palm is widely cultivated in regions with suitable climate conditions, such as Southeast Asia, Africa, and parts of South America.
 

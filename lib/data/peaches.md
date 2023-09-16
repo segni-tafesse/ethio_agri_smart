@@ -1,3 +1,4 @@
+![](resource:images/peaches.png)
 #  What's  Peaches?
 Peaches are a type of fruit that belong to the Prunus genus, specifically the species Prunus persica. They are known for their sweet and juicy flesh, which is typically orange or yellow in color. Peaches have a fuzzy skin that can range in color from yellow to red. They are native to China, but are now cultivated in many regions around the world. Peaches are enjoyed fresh, used in various culinary preparations such as desserts and jams, and are also a popular ingredient in beverages and cocktails.
 # Name

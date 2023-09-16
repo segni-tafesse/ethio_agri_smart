@@ -1,3 +1,4 @@
+![](resource:images/papaya.png)
 #  What's  Papaya?
  Papaya  is a tropical fruit that is often referred to as the "fruit of the angels." It is beloved for its sweet, juicy flesh and vibrant orange color. Papayas are known for their unique pear-like shape and can grow to be quite large, ranging from 1 to 20 pounds in weight.
 

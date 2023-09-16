@@ -1,3 +1,4 @@
+![](resource:images/pear.png)
 #  What's  Peas?
  peas, those delightful little legumes that bring a burst of sweetness to our gardens and plates. In short, peas are cool-season plants that produce pods filled with round, green seeds. They are known for their delicious taste, nutritional value, and versatility in culinary creations. Peas are typically grown in spring or fall, and their climbing varieties require trellises or supports for vertical growth. These climbing plants produce delicate, edible tendrils that help them climb and add a lovely touch to salads and stir-fries. Peas are a favorite addition to dishes ranging from soups and stews to salads and side dishes. They are also known for their ability to fix nitrogen in the soil, benefitting other plants in the garden. So, my gardening friend, plant some peas, watch them climb, and savor the joy of harvesting these little green gems for your delectable meals.
 # Name

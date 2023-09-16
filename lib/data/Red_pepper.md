@@ -1,3 +1,4 @@
+![](resource:images/red_peppers.png)
 #  What's Red pepper?
 the delightful red pepper, a vibrant and flavorful member of the Capsicum annuum family! In short, red pepper refers to a mature green pepper that has ripened and turned red. It is known for its sweeter taste and slightly different flavor profile compared to its green counterpart. Whether used in cooking, added to salads, or dried and ground into a spice, red pepper adds a burst of color and a touch of piquancy to any dish. So, embrace the allure of the red pepper and let its vibrant hues and delectable flavor elevate your culinary creations!
 # Name

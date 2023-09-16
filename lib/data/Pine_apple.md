@@ -1,3 +1,4 @@
+![](resource:images/pineapple.png)
 #  What's Pine Apple?
 The exotic and tropical delight known as pineapple! In short, a pineapple is a delicious and juicy fruit with a sweet and tangy flavor. It is characterized by its spiky, rough exterior and vibrant golden-yellow flesh. Pineapples are often enjoyed fresh or used in various culinary creations, from fruit salads and smoothies to savory dishes and desserts. So, my friend, if you're seeking a taste of the tropics, look no further than the delightful pineapple!
 # Name

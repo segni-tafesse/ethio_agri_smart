@@ -1,3 +1,4 @@
+![](resource:images/pulses.png)
 #  What's Pulses?
 Pulses are a specific subgroup of legumes that refer to the dried seeds harvested from legume plants. They are commonly known as edible seeds like lentils, chickpeas, dry beans, and dry peas. Pulses are highly nutritious, rich in protein, fiber, vitamins, and minerals. They are a staple in many cuisines worldwide and offer a sustainable source of plant-based protein.
 

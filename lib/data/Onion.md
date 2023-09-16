@@ -1,3 +1,4 @@
+![](resource:images/onion.png)
 #  What's  Onions?
 Onions are edible bulb vegetables that belong to the Allium family, which also includes garlic, leeks, and chives. They are characterized by their distinctive pungent flavor and aroma. Onions have been cultivated for thousands of years and are widely used in cooking all around the world.
 

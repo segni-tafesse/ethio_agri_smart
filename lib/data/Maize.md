@@ -1,4 +1,4 @@
-
+![](resource:images/maize.png)
 # What's Maize?
 Maize is a tall annual cereal grass that is widely cultivated for its edible grain, commonly known as corn. It is a staple food crop in many parts of the world and can be used for various purposes, such as human consumption, animal feed, and industrial applications.
 

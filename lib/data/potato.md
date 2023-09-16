@@ -1,3 +1,4 @@
+![](resource:images/potato.png)
 #  What's  Potatoes?
 A potato is a starchy root vegetable that belongs to the Solanaceae family. It is an edible plant tuber that is widely consumed as a staple food in many parts of the world. Potatoes come in various varieties, sizes, shapes, and colors. They are typically grown underground and are known for their versatility and nutritional value. Potatoes can be cooked in numerous ways and used in a wide range of dishes. They are a good source of carbohydrates, fiber, vitamins, minerals, and antioxidants.
 # Name

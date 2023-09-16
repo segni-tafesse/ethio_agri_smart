@@ -1,3 +1,4 @@
+![](resource:images/pumpkin.png)
 #  What's Pumpkin?
 the enchanting pumpkin plant, a marvel of nature's artistry! In short, the pumpkin plant is a sprawling vine with large, lobed leaves and vibrant yellow flowers. It belongs to the Cucurbitaceae family, just like its succulent fruit, the pumpkin. The plant requires ample space to spread its tendrils and bask in the sun's warmth. It thrives in rich, well-draining soil and requires regular watering. As the plant grows, it produces beautiful flowers that eventually give way to the iconic pumpkins we adore. With proper care and a touch of magic, the pumpkin plant rewards us with its bountiful harvest, bringing joy and autumnal splendor to our gardens.
 # Name

@@ -1,3 +1,4 @@
+![](resource:images/radish.png)
 #  What's  Radish fruit?
  the radish fruit refers to the edible part of the radish plant, which is the root. Radishes are a type of root vegetable that are typically small, round, and come in various colors, including red, white, purple, and black. The root has a crisp texture and a peppery flavor. It is commonly used in salads, as a crunchy addition to dishes, or even pickled. Radishes are known for their quick growth, making them a popular choice among gardeners. Overall, the radish fruit is a versatile and flavorful addition to many culinary creations.
 # Name

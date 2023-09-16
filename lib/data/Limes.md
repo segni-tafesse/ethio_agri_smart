@@ -1,3 +1,4 @@
+![](resource:images/limes.png)
 #  What's  Limes?
 Limes, scientifically known as Citrus aurantifolia, are the small, round citrus fruits that grow on lime trees. They belong to the Rutaceae family and are closely related to lemons. Limes are typically green in color, although some varieties may turn yellow when fully ripe. They have a thin, smooth skin that is easily peelable, revealing the juicy, acidic flesh inside.
 

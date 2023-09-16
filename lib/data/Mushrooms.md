@@ -1,3 +1,4 @@
+![](resource:images/mushrooms.png)
 #  What's Mushrooms?
 mushrooms, nature's fascinating fungi! In a brief and concise manner, mushrooms can be described as the fruiting bodies of certain fungi. These unique organisms belong to the kingdom Fungi and come in various shapes, sizes, and colors. They have a distinctive structure consisting of a cap, stem, and gills or pores underneath the cap.
 

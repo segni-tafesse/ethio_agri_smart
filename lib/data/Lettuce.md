@@ -1,3 +1,4 @@
+![](resource:images/lettuce.png)
 #  What's  Lettuce?
 Lettuce is a leafy green vegetable that is commonly used in salads, sandwiches, and wraps. It belongs to the Asteraceae family and is scientifically known as Lactuca sativa. Lettuce comes in different varieties, such as romaine, iceberg, butterhead, and loose-leaf lettuce, each having its own unique flavor and texture. It is rich in essential nutrients like vitamins A, C, and K, as well as dietary fiber. Lettuce is typically crisp and refreshing, making it a popular choice for many dishes. 
 # Name

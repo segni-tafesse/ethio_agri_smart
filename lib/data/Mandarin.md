@@ -1,4 +1,4 @@
-
+![](resource:images/mandarin.png)
 # What is  Mandarin?
 Mandarin is a small citrus fruit that belongs to the Rutaceae family and is native to Southeast Asia. It is known for its small size, easy peeling, and sweet, juicy flavor. The mandarin fruit is typically round and flattened, with a bright orange or reddish-orange rind. The segmented flesh is typically orange and has a sweet and tangy taste.
 

@@ -1,4 +1,4 @@
-
+![](resource:images/oilseed.png)
 #  What's Oil  seed?
  These wondrous seeds, when pressed or extracted, yield precious oils that are used for culinary, medicinal, and industrial purposes. In a nutshell, oil seeds are seeds that hold the potential to produce valuable oils.
 

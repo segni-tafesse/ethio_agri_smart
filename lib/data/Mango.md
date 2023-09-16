@@ -1,4 +1,4 @@
-
+![](resource:images/mango.png)
 # WHAT'S MANGO? 
 Mango is a tropical fruit known for its sweet and juicy flavor. It belongs to the Anacardiaceae family and is native to South Asia, although it is now cultivated in many parts of the world. Mangoes come in various shapes, sizes, and colors, ranging from green to yellow, orange, or red when ripe. The fruit has a smooth outer skin and a fibrous inner flesh surrounding a large, flat seed.
 
