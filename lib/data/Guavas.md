@@ -1,3 +1,4 @@
+![](resource:images/guavas.png)
 #  What's  Guavas?
 Guavas are tropical fruit trees that belong to the Myrtaceae family. They are native to Central America and are now grown in many warm regions around the world. Guavas are small to medium-sized trees with smooth, green or yellowish skin and sweet, aromatic flesh. The fruit is typically round or oval in shape and can range in color from white to pink to yellow. Guavas are known for their high vitamin C content and are often eaten fresh or used in various culinary applications, such as juices, jams, and desserts. They require a warm climate with temperatures above 50°F (10°C) and well-drained soil to thrive. Guava trees can grow up to 30 feet tall and should be spaced about 15 to 20 feet apart to allow for adequate growth and fruit production.
 # Name

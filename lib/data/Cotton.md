@@ -1,3 +1,4 @@
+![](resource:images/cotton.png)
 #  What's  Cotton?
 Cotton  is a versatile and cherished natural fiber that adorns our lives with softness and comfort. In brief, cotton is a plant—scientifically known as Gossypium—from which we obtain fluffy fibers. These fibers are gathered from the cotton bolls, the fruit of the plant, and are spun into yarn or thread. Cotton is renowned for its breathability, absorbency, and durability, making it an exquisite choice for clothing, bedding, and various other textile applications. From ancient civilizations to modern times, cotton has woven itself into the fabric of our lives, providing us with the joy of natural comfort.
 # Name

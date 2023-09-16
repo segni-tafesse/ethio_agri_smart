@@ -1,3 +1,4 @@
+![](resource:images/bananaeth.png)
 #  What's  Ethiopian  Banana?
 The Ethiopian banana, also known as the Abyssinian banana or Ensete ventricosum, is a type of banana plant native to Ethiopia and parts of East Africa. It is not a true banana in the sense of the commonly known Cavendish or plantain bananas. Instead, it belongs to the genus Ensete and is grown primarily for its starchy, edible pseudostem and underground corm rather than its fruit. The pseudostem and corm are used as a staple food source in Ethiopia, where it is known as "enset" or "false banana." The Ethiopian banana has cultural and economic significance in the region, as it provides food security and livelihoods for many communities.
 # Name

@@ -1,3 +1,4 @@
+![](resource:images/earth_pea.png)
 # What's Earth Pea?
 Earth pea, also known as Lathyrus sativus, is a legume plant that produces edible seeds. It is commonly grown in parts of Asia and Africa as a food crop. Earth pea seeds are rich in protein and can be cooked and consumed like other legumes. However, it is important to note that earth pea contains a neurotoxin called beta-ODAP, which can cause a condition called lathyrism if consumed in large quantities. Lathyrism is characterized by paralysis and other neurological symptoms. Therefore, earth pea should be consumed in moderation and in combination with other foods to avoid the risk of lathyrism.
 # Names

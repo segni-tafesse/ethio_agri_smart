@@ -1,3 +1,4 @@
+![](resource:images/cabbage.png)
 # What's Cabbage?
 Cabbage is highly nutritious vegetable. Cabbages are rich in vitamin C, fiber, and vitamin K. They may help with heart and digestive health. Cabbage, which is often lumped into the same category as lettuce because of their similar appearance, is actually a part of the cruciferous vegetable family.
 # Names

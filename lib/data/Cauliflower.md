@@ -1,3 +1,4 @@
+![](resource:images/cauliflower.png)
 #  What's  Cauliflower?
 cauliflower is a member of the Brassicaceae family, closely related to broccoli and cabbage. It is characterized by its compact, rounded head, known as the curd, which is composed of tightly packed, undeveloped flower buds.
 Cauliflower is known for its crisp texture and mild, nutty flavor. It comes in various colors, including the traditional creamy white, as well as purple, green, and orange varieties. This versatile vegetable can be enjoyed raw, steamed, roasted, or used in a variety of culinary creations.

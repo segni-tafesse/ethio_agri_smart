@@ -1,3 +1,4 @@
+![](resource:images/Berries.png)
 #  What's  Berries?
 berries are small, juicy, and often brightly colored fruits that grow on various plants. They come in a variety of types, including strawberries, blueberries, raspberries, blackberries, and more. Berries are known for their vibrant flavors, nutritional benefits, and versatility in culinary creations. Whether enjoyed fresh, added to desserts, used in jams and preserves, or incorporated into smoothies and salads, berries bring a burst of sweetness and joy to our palates. So, indulge in these nature's gems and savor the delightful essence of berries!
 # Name

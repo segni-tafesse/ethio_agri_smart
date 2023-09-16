@@ -1,3 +1,4 @@
+![](resource:images/mustard.png)
 #  What's  Ethiopian Mustard?
 Ethiopian mustard, also known as Abyssinian mustard, is a leafy green vegetable characterized by its pungent flavor and vibrant green leaves. It is often used in traditional Ethiopian dishes such as stews, salads, and sautés.
 

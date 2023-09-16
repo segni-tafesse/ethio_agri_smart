@@ -1,3 +1,4 @@
+![](resource:images/blackcab.png)
 #  What's  Ethiopian  Cabbages?
 Ethiopian cabbages refer to the varieties of cabbage (Brassica oleracea) grown and consumed in Ethiopia. Here's a short and brief overview:
 

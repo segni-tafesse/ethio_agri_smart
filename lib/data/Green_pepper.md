@@ -1,3 +1,4 @@
+![](resource:images/greenpepper.png)
 #  What's Green pepper?
 the green pepper plant, a delightful addition to any garden or kitchen! In botanical terms, the green pepper plant is known as Capsicum annuum. It is a member of the Solanaceae family and is commonly grown for its vibrant green bell peppers. These peppers are crisp, mildly sweet, and often used in various culinary dishes, adding a delightful flavor and color. So, my friend, if you're looking to grow or enjoy some green peppers, Capsicum annuum is the botanical name you seek!
 # Name

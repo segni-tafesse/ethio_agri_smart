@@ -1,3 +1,4 @@
+![](resource:images/peppers.png)
 #  What's  Ethiopia peppers?
 Ethiopian peppers, also known as Ethiopian chili peppers or berbere peppers, are a type of hot pepper that is native to Ethiopia. They are widely used in Ethiopian cuisine and are known for their vibrant red color and spicy flavor. Ethiopian peppers are often used to make berbere spice, which is a key ingredient in many Ethiopian dishes.
 # Name

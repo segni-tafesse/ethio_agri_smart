@@ -1,5 +1,6 @@
+![](resource:images/African_lilly.png)
 #  What's  African lily?
-African Lily, scientifically known as Agapanthus, is a flowering plant native to Africa. It features strap-shaped leaves and produces showy globe-shaped flower clusters on tall stalks. The flowers come in various colors, including blue, purple, and white. African Lily is commonly cultivated for its ornamental value and is well-suited to temperate and subtropical climates. It is popular in gardens, rock gardens, and container plantings, attracting pollinators like bees and butterflies. With its striking blooms and adaptability, African Lily adds beauty and charm to landscapes worldwide.
+African Lily,scientifically known as Agapanthus, is a flowering plant native to Africa. It features strap-shaped leaves and produces showy globe-shaped flower clusters on tall stalks. The flowers come in various colors, including blue, purple, and white. African Lily is commonly cultivated for its ornamental value and is well-suited to temperate and subtropical climates. It is popular in gardens, rock gardens, and container plantings, attracting pollinators like bees and butterflies. With its striking blooms and adaptability, African Lily adds beauty and charm to landscapes worldwide.
 # Name
 Botanic name:  Agapanthus
 

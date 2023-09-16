@@ -1,5 +1,5 @@
+![](resource:images/grapes.png)
 # What is Grape ?
-
 Grapes are a type of fruit that grow on deciduous woody vines of the genus Vitis. They are widely cultivated and consumed around the world. Grapes are typically small, round, and come in a variety of colors, including green (such as the popular variety called "Thompson Seedless"), red (such as "Crimson Seedless" or "Red Globe"), and black (such as "Concord" or "Black Seedless"). Grapes are known for their sweet and juicy flavor, and they can be eaten fresh or used to make various products, such as wine, juice, jams, and raisins. Grapes are rich in nutrients, particularly vitamins C and K, and are often considered a healthy snack option.
 # Names
 Scientifical name: Vitis vinifera L.

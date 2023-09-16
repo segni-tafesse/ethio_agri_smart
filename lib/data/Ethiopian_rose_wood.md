@@ -1,3 +1,4 @@
+![](resource:images/rosewood.png)
 #  What's  Ethiopian rosewood?
 Ethiopian rose is not a well-known term or specific to any particular item. It could potentially refer to a variety of things, such as a type of rose flower that is native to Ethiopia or a specific rose variety that is commonly cultivated in Ethiopia. Without further context, it is difficult to provide a definitive answer.
 # Name

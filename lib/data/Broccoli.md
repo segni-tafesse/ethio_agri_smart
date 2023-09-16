@@ -1,3 +1,4 @@
+![](resource:images/broccoli.png)
 #  What's  Broccoli?
 Broccoli, a close relative of cauliflower, is a nutritious and versatile vegetable. It consists of a cluster of small, tight flower buds that form a central head. With its vibrant green color and unique shape, broccoli is known for its health benefits and delicious taste. Packed with essential vitamins, minerals, and fiber, it is a popular choice for those seeking a nutritious addition to their diet. Whether steamed, sautéed, roasted, or enjoyed raw, broccoli offers a delightful crunch and a slightly bitter, yet pleasant flavor. So, embrace the power of this marvelous vegetable and let it bring a burst of goodness to your plate!
 # Name

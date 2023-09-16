@@ -2,7 +2,7 @@
        
 
     <application
-        android:label="ethio_agri_smart"
+        android:label="SmartAgri"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

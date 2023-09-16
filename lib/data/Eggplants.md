@@ -1,5 +1,4 @@
-
-
+![](resource:images/eggplant.png)
 #  What's  Eggplants?
 
 Eggplant, also known as aubergine, is a vegetable that belongs to the nightshade family. It is characterized by its smooth, shiny, and typically purple skin, although there are also white, green, and striped varieties. Eggplant has a mild, slightly bitter taste and a firm texture. It is commonly used in cooking and is a popular ingredient in various cuisines worldwide. Eggplant can be grilled, roasted, sautéed, or used in dishes such as ratatouille, moussaka, and baba ganoush. It is a versatile vegetable that adds flavor and texture to a wide range of recipes.

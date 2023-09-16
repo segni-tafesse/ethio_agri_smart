@@ -1,3 +1,4 @@
+![](resource:images/kale.png)
 #  What's  Kale
  kale, the hearty and nutritious leafy green! In a short and brief way, kale can be described as a dark, leafy vegetable that belongs to the cabbage family. It is known for its rich green color, slightly bitter taste, and robust texture. Packed with vitamins, minerals, and antioxidants, kale is often hailed as a superfood and can be enjoyed in various dishes, such as salads, smoothies, stir-fries, and even as crispy kale chips. So, in essence, kale is a versatile and nutrient-dense vegetable that adds a healthy boost to your meals!
 # Name

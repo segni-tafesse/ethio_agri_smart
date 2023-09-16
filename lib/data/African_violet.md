@@ -1,3 +1,4 @@
+![](resource:images/African_violet.png)
 #  What's  African violet?
 African violet is a popular houseplant with fuzzy, rounded leaves and clusters of colorful flowers. It thrives in bright, indirect light and prefers moderate humidity levels. With proper care, African violets can add beauty and charm to indoor spaces.
 # Name

@@ -1,3 +1,4 @@
+![](resource:images/dates.png)
 # What are Dates?
 Dates are a fruit cultivated from date palm (Phoenix dactylifera), a plant native to the Middle East and North Africa. Dates have a natural sweetness and rich flavor that people often associate with dessert.
 # Names

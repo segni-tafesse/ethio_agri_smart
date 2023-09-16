@@ -1,3 +1,4 @@
+![](resource:images/coffee.png)
 #  What's Coffee
 Coffee is a popular beverage made from the roasted seeds of the Coffea plant. It is known for its stimulating effects due to the presence of caffeine. Coffee is enjoyed worldwide for its rich flavor and aroma. It can be prepared in various ways, such as brewing, espresso, or instant coffee. People often use it to increase alertness and combat fatigue. Coffee has become an integral part of many cultures and social interactions, often enjoyed in cafes or as a morning ritual.
 

@@ -1,3 +1,4 @@
+![](resource:images/legumes.png)
 #  What's Legumes?
 Legumes are a family of plants that includes a wide variety of species such as beans, peas, lentils, chickpeas, and soybeans. They are known for their ability to "fix" nitrogen from the air into the soil through a symbiotic relationship with special bacteria called rhizobia. This nitrogen-fixing ability enriches the soil and benefits other plants nearby. Legumes are valued for their high protein content, dietary fiber, and essential nutrients.
 # Name

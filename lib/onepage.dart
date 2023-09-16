@@ -27,30 +27,15 @@ Image.asset("images/apple")
 */
 class _SearchPageState extends State<SearchPage> {
   static List<CropModel> main_crops_list = [
-    CropModel(
-        "African lily: Agapanthus ",
-        "https://images.unsplash.com/photo-1553126459-51816d8c44e8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fEFmcmljYW4lMjBsaWx5fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    CropModel("African lily: Agapanthus ", "images/African_lilly.png",
         'African_lily.md'),
-    CropModel(
-        "African violet: Saintpaulia spp ",
-        "https://images.unsplash.com/photo-1645286975285-61e710b35a87?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8QWZyaWNhbiUyMHZpb2xldHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    CropModel("African violet: Saintpaulia spp ", "images/African_violet.png",
         'African_violet.md'),
-    CropModel(
-        "Apple:Malus sylvestris",
-        "https://w0.peakpx.com/wallpaper/209/667/HD-wallpaper-fruits-apple-fruit-black-food.jpg",
-        'apple.md'),
-    CropModel(
-        "Avocado:Persea Americana",
-        "https://images.unsplash.com/photo-1601039641847-7857b994d704?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YXZvY2Fkb3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
-        'avocado.md'),
-    CropModel(
-        "Banana:Musa acuminata",
-        "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8YmFuYW5hfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
-        'Banana.md'),
-    CropModel(
-        "Barriers: Fragaria ananassa",
-        "https://images.unsplash.com/photo-1486328228599-85db4443971f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Y2FiYmFnZSUyMGltYWdlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
-        'Barriers.md'),
+    CropModel("Apple:Malus sylvestris", "images/woo.png", 'apple.md'),
+    CropModel("Avocado:Persea Americana", "images/Avocado.png", 'avocado.md'),
+    CropModel("Banana:Musa acuminata", "images/Banana.png", 'Banana.md'),
+    CropModel("Berries: Fragaria ananassa", "images/Berries.png", 'Berries.md'),
+    CropModel("Barley: Hordeum vulgare", "images/Barley.png", 'Barley.md'),
     CropModel(
         "Beans: Phaseolus vulgaris ",
         "https://plus.unsplash.com/premium_photo-1666976504656-75eca1e9aaf5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJlcnJpZXJzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",

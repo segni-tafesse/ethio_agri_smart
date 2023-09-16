@@ -5,9 +5,7 @@ import 'package:ethio_agri_smart/dart.dart';
 import 'package:ethio_agri_smart/decision_sup.dart';
 import 'package:ethio_agri_smart/message.dart';
 // import 'package:ethio_agri_smart/fer.dart';
-
 // import 'package:ethio_agri_smart/fiveth.dart';
-
 import 'package:ethio_agri_smart/rotation.dart';
 import 'package:ethio_agri_smart/scanplant.dart';
 import 'package:ethio_agri_smart/weather_screen.dart';
@@ -139,7 +137,7 @@ class _HomeState extends State<Home> with TickerProviderStateMixin {
                 onPressed: () {
                   Navigator.push(context, MaterialPageRoute(
                     builder: (context) {
-                      return MyApp31();
+                      return TelegramApp();
                     },
                   ));
                 },
