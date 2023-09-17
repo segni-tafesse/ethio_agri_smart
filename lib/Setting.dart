@@ -1,27 +1,21 @@
+import 'package:ethio_agri_smart/main.dart';
+import 'package:ethio_agri_smart/security_settings.dart';
 import 'package:flutter/material.dart';
-//import 'package:flutter_tts/flutter_tts.dart';
+import 'package:flutter/services.dart';
 
-class SettingsPage extends StatefulWidget {
+class SettingsScreen extends StatefulWidget {
   @override
-  _SettingsPageState createState() => _SettingsPageState();
+  _SettingsScreenState createState() => _SettingsScreenState();
 }
 
-class _SettingsPageState extends State<SettingsPage> {
-  String _selectedLanguage = 'English';
-  bool _darkThemeEnabled = false;
-  bool _textToSpeechEnabled = false;
-  // FlutterTts flutterTts;
+class _SettingsScreenState extends State<SettingsScreen> {
+  bool _notificationEnabled = true;
 
-  @override
-  void initState() {
-    super.initState();
-    // flutterTts = FlutterTts();
-  }
-
-  @override
-  void dispose() {
-    // flutterTts.stop();
-    super.dispose();
+  void _handleNotificationSwitch(bool value) {
+    setState(() {
+      _notificationEnabled = value;
+    });
+    // Perform any other actions based on the switch state change
   }
 
   @override
@@ -31,82 +25,109 @@ class _SettingsPageState extends State<SettingsPage> {
         title: Text('Settings'),
       ),
       body: ListView(
-        padding: EdgeInsets.all(16.0),
         children: [
           ListTile(
+            leading: Icon(Icons.notifications),
+            title: Text('Notifications'),
+            trailing: Switch(
+              value: _notificationEnabled,
+              onChanged: _handleNotificationSwitch,
+            ),
+          ),
+          ListTile(
+            leading: Icon(Icons.language),
             title: Text('Language'),
-            subtitle: Text(_selectedLanguage),
+            trailing: Icon(Icons.arrow_forward_ios),
             onTap: () {
-              _showLanguageDialog();
+              showDialog(
+                context: context,
+                builder: (BuildContext context) {
+                  return AlertDialog(
+                    title: Text('Select Language'),
+                    content: Column(
+                      mainAxisSize: MainAxisSize.min,
+                      children: [
+                        ListTile(
+                          title: Text('English'),
+                          onTap: () {
+                            // Handle English language selection
+                            Navigator.pop(context); // Close the dialog
+                          },
+                        ),
+                        ListTile(
+                          title: Text('Amharic'),
+                          onTap: () {
+                            // Handle Amharic language selection
+                            Navigator.pop(context); // Close the dialog
+                          },
+                        ),
+                        ListTile(
+                          title: Text('Afaan Oromo'),
+                          onTap: () {
+                            // Handle Afaan Oromo language selection
+                            Navigator.pop(context); // Close the dialog
+                          },
+                        ),
+                      ],
+                    ),
+                  );
+                },
+              );
             },
           ),
-          SwitchListTile(
-            title: Text('Dark Theme'),
-            value: _darkThemeEnabled,
-            onChanged: (value) {
-              setState(() {
-                _darkThemeEnabled = value;
-                _applyTheme();
-              });
+          ListTile(
+            leading: Icon(Icons.security),
+            title: Text('Security'),
+            trailing: Icon(Icons.arrow_forward_ios),
+            onTap: () {
+              Navigator.push(
+                context,
+                MaterialPageRoute(builder: (context) => SecuritySettingsPage()),
+              );
             },
           ),
-          SwitchListTile(
-            title: Text('Text-to-Speech'),
-            value: _textToSpeechEnabled,
-            onChanged: (value) {
-              setState(() {
-                _textToSpeechEnabled = value;
-                //  _speakText();
-              });
+          ListTile(
+            leading: Icon(Icons.light_mode_outlined),
+            title: Text('Theme'),
+            trailing: Icon(Icons.arrow_forward_ios),
+            onTap: () {
+              Navigator.push(
+                context,
+                MaterialPageRoute(builder: (context) => SettingsPage()),
+              );
+            },
+          ),
+          ListTile(
+            leading: Icon(Icons.exit_to_app),
+            title: Text('Logout'),
+            onTap: () {
+              showDialog(
+                context: context,
+                builder: (BuildContext context) {
+                  return AlertDialog(
+                    title: Text('Confirm Logout'),
+                    content: Text('Are you sure you want to exit the app?'),
+                    actions: [
+                      TextButton(
+                        child: Text('Cancel'),
+                        onPressed: () {
+                          Navigator.pop(context); // Close the dialog
+                        },
+                      ),
+                      TextButton(
+                        child: Text('Logout'),
+                        onPressed: () {
+                          SystemNavigator.pop(); // Exit the app
+                        },
+                      ),
+                    ],
+                  );
+                },
+              );
             },
           ),
         ],
       ),
     );
   }
-
-  void _showLanguageDialog() {
-    showDialog(
-      context: context,
-      builder: (BuildContext context) {
-        return AlertDialog(
-          title: Text('Choose Language'),
-          content: SingleChildScrollView(
-            child: Column(
-              children: [
-                _buildLanguageOption('English'),
-                _buildLanguageOption('Afaan Oromo'),
-                _buildLanguageOption('Amharic'),
-              ],
-            ),
-          ),
-        );
-      },
-    );
-  }
-
-  Widget _buildLanguageOption(String language) {
-    return ListTile(
-      title: Text(language),
-      onTap: () {
-        setState(() {
-          _selectedLanguage = language;
-        });
-        Navigator.of(context).pop();
-      },
-    );
-  }
-
-  void _applyTheme() {
-    // Implement your theme changing logic here
-  }
-
-  // Future<void> _speakText() async {
-  //   if (_textToSpeechEnabled) {
-  //     await flutterTts.setLanguage('en-US'); // Set the desired language
-  //     await flutterTts.speak('Hello, world!'); // Speak the desired text
-  //   } else {
-  //     await flutterTts.stop(); // Stop the text-to-speech engine
-  //   }
-  // }
 }

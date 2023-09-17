@@ -1,92 +1,134 @@
 import 'package:ethio_agri_smart/Aboutus.dart';
+import 'package:ethio_agri_smart/FAQ.dart';
 import 'package:ethio_agri_smart/Setting.dart';
-import 'package:ethio_agri_smart/share.dart';
+import 'package:ethio_agri_smart/main.dart';
 import 'package:flutter/material.dart';
-import 'package:share/share.dart';
+import 'package:flutter/services.dart';
+import 'package:url_launcher/url_launcher.dart';
 
-class Mydrawer extends StatefulWidget {
-  @override
-  _MydrawerState createState() => _MydrawerState();
-}
+class CustomDrawer extends StatelessWidget {
+  void _launchURL(String url) async {
+    if (await canLaunch(url)) {
+      await launch(url);
+    } else {
+      throw 'Could not launch $url';
+    }
+  }
 
-class _MydrawerState extends State<Mydrawer> {
   @override
   Widget build(BuildContext context) {
-    return Container(
-      child: Drawer(
+    return Drawer(
+      child: Container(
+        color: Colors.white,
         child: ListView(
+          padding: EdgeInsets.zero,
           children: [
             DrawerHeader(
-                child: Center(
-              child: Image.asset(
-                "images/logo light.png",
-                width: double.infinity,
-                fit: BoxFit.cover,
+              decoration: BoxDecoration(
+                color: Colors.blue,
               ),
-            )),
-            ElevatedButton.icon(
-              onPressed: () {
-                _openSettingsPage(context);
-              },
-              icon: Icon(Icons.settings),
-              label: Text('Settings'),
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                mainAxisAlignment: MainAxisAlignment.end,
+                children: [
+                  Text(
+                    'Smart Agri',
+                    style: TextStyle(
+                      color: Colors.white,
+                      fontSize: 18,
+                      fontWeight: FontWeight.bold,
+                    ),
+                  ),
+                ],
+              ),
             ),
-            ElevatedButton.icon(
-              onPressed: () {
-                _openAboutUsPage(context);
+            ListTile(
+              leading: Icon(Icons.home),
+              title: Text('Home'),
+              onTap: () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (context) => MyApp()),
+                );
               },
-              icon: Icon(Icons.info),
-              label: Text('About Us'),
             ),
-            ElevatedButton.icon(
-              onPressed: () {
-                _rateApp();
+            ListTile(
+              leading: Icon(Icons.settings),
+              title: Text('Settings'),
+              onTap: () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (context) => SettingsScreen()),
+                );
               },
-              icon: Icon(Icons.star),
-              label: Text('Rate Us'),
             ),
-            ElevatedButton.icon(
-              onPressed: () {
-                _shareApp();
+            ListTile(
+              leading: Icon(Icons.star),
+              title: Text('Rate Us'),
+              onTap: () {
+                _launchURL('https://example.com/rate');
               },
-              icon: Icon(Icons.share),
-              label: Text('Share'),
             ),
-            ElevatedButton.icon(
-              onPressed: () {
-                _getHelp();
+            ListTile(
+              leading: Icon(Icons.help),
+              title: Text('Help'),
+              onTap: () {
+                _launchURL('https://example.com/help');
               },
-              icon: Icon(Icons.question_mark),
-              label: Text('Help'),
-            )
+            ),
+            ListTile(
+              leading: Icon(Icons.info),
+              title: Text('About Us'),
+              onTap: () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (context) => AboutUsPage()),
+                );
+              },
+            ),
+            ListTile(
+              leading: Icon(Icons.question_mark_outlined),
+              title: Text('FAQ'),
+              onTap: () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (context) => HelpPage()),
+                );
+              },
+            ),
+            Divider(),
+            ListTile(
+              leading: Icon(Icons.exit_to_app),
+              title: Text('Logout'),
+              onTap: () {
+                showDialog(
+                  context: context,
+                  builder: (BuildContext context) {
+                    return AlertDialog(
+                      title: Text('Confirm Logout'),
+                      content: Text('Are you sure you want to exit the app?'),
+                      actions: [
+                        TextButton(
+                          child: Text('Cancel'),
+                          onPressed: () {
+                            Navigator.pop(context); // Close the dialog
+                          },
+                        ),
+                        TextButton(
+                          child: Text('Logout'),
+                          onPressed: () {
+                            SystemNavigator.pop(); // Exit the app
+                          },
+                        ),
+                      ],
+                    );
+                  },
+                );
+              },
+            ),
           ],
         ),
       ),
     );
   }
-}
-
-void _getHelp() {}
-
-void _openSettingsPage(BuildContext context) {
-  Navigator.push(
-    context,
-    MaterialPageRoute(builder: (context) => SettingsPage()),
-  );
-}
-
-void _shareApp() {
-  final String text = 'Check out this awesome app!';
-  Share.share(text);
-}
-
-void _openAboutUsPage(BuildContext context) {
-  Navigator.push(
-    context,
-    MaterialPageRoute(builder: (context) => AboutUsPage()),
-  );
-}
-
-void _rateApp() {
-  print('Rate Us button pressed!');
 }

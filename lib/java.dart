@@ -14,15 +14,13 @@ class PlantScanPage extends StatefulWidget {
 }
 
 class _PlantScanPageState extends State<PlantScanPage> {
-  final apiKey = "2b106tqQLP6f0OGh8UUtkeBe"; // Set your API_KEY here
+  final apiKey = "2b106tqQLP6f0OGh8UUtkeBe"; // Replace with your API key
   final project = "all"; // Try "weurope" or "canada"
   File? pickedImage;
-  bool? loading = false;
-  List<dynamic> commonName = [];
+  bool loading = false;
+  List<String> plantDetails = [];
 
   Future<void> getPlantData() async {
-    List<dynamic> resCommonNames;
-
     final apiEndpoint = Uri.parse(
         "https://my-api.plantnet.org/v2/identify/$project?api-key=$apiKey");
 
@@ -32,16 +30,25 @@ class _PlantScanPageState extends State<PlantScanPage> {
 
       if (response.statusCode == 200) {
         final jsonResponse = json.decode(await response.stream.bytesToString());
-        print('Status Code: ${response.statusCode}');
+        final results = jsonResponse['results'];
 
-        resCommonNames =
-            await jsonResponse['results'][2]['species']['commonNames'];
+        if (results.isNotEmpty) {
+          final species = results[0]['species'];
+          final List<dynamic> resCommonNames = species['commonNames'];
+          final String scientificName = species['scientificName'];
+          final String family = species['family'];
+          final String genus = species['genus'];
 
-        print(
-            'Result: ${jsonResponse['results'][2]['species']['commonNames'].runtimeType}');
-        setState(() {
-          commonName = resCommonNames;
-        });
+          setState(() {
+            plantDetails = [];
+            plantDetails.addAll(resCommonNames.cast<String>());
+            plantDetails.add('Scientific Name: $scientificName');
+            plantDetails.add('Family: $family');
+            plantDetails.add('Genus: $genus');
+          });
+        } else {
+          print('No results found.');
+        }
       } else {
         print('Request failed with status: ${response.statusCode}');
       }
@@ -57,6 +64,7 @@ class _PlantScanPageState extends State<PlantScanPage> {
       'images',
       imageBytes,
       filename: 'image.jpg',
+      contentType: MediaType('image', 'jpeg'),
     ));
 
     return await request.send();
@@ -75,27 +83,59 @@ class _PlantScanPageState extends State<PlantScanPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: const Color.fromARGB(255, 247, 247, 247),
-      appBar: ScanAppBar(),
-      body: Center(
+      backgroundColor: const Color(0xFFF7F7F7),
+      appBar: AppBar(
+        backgroundColor: const Color(0xFF03B96A),
+        title: Text(
+          'Plant Recognition App',
+          style: TextStyle(color: Colors.white),
+        ),
+        centerTitle: true,
+      ),
+      body: Padding(
+        padding: const EdgeInsets.all(16.0),
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            pickedImage != null
-                ? Image.file(
-                    pickedImage!,
-                    height: 150,
-                  )
-                : Text('No image selected.'),
-            ElevatedButton(
-              onPressed: () => pickImage(ImageSource.gallery),
-              child: Text('Pick from Gallery'),
+            Expanded(
+              flex: 1,
+              child: Container(
+                decoration: BoxDecoration(
+                  border: Border.all(color: Colors.grey),
+                  borderRadius: BorderRadius.circular(8.0),
+                ),
+                child: pickedImage != null
+                    ? ClipRRect(
+                        borderRadius: BorderRadius.circular(8.0),
+                        child: Image.file(
+                          pickedImage!,
+                          fit: BoxFit.cover,
+                        ),
+                      )
+                    : Center(
+                        child: Text(
+                          'No image selected.',
+                          style: TextStyle(fontSize: 16.0),
+                        ),
+                      ),
+              ),
             ),
-            ElevatedButton(
-              onPressed: () => pickImage(ImageSource.camera),
-              child: Text('Pick from Camera'),
+            SizedBox(height: 16.0),
+            Row(
+              mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+              children: [
+                ElevatedButton(
+                  onPressed: () => pickImage(ImageSource.gallery),
+                  child: Text('Pick from Gallery'),
+                ),
+                ElevatedButton(
+                  onPressed: () => pickImage(ImageSource.camera),
+                  child: Text('Pick from Camera'),
+                ),
+              ],
             ),
-            loading!
+            SizedBox(height: 16.0),
+            loading
                 ? CircularProgressIndicator()
                 : ElevatedButton(
                     onPressed: () async {
@@ -109,7 +149,17 @@ class _PlantScanPageState extends State<PlantScanPage> {
                     },
                     child: Text('Upload and Get Data'),
                   ),
-            commonName.isNotEmpty ? Text(commonName[0]) : SizedBox(),
+            SizedBox(height: 16.0),
+            if (plantDetails.isNotEmpty)
+              Column(
+                children: [
+                  for (String detail in plantDetails)
+                    Text(
+                      detail,
+                      style: TextStyle(fontSize: 18.0),
+                    ),
+                ],
+              ),
           ],
         ),
       ),
@@ -117,39 +167,9 @@ class _PlantScanPageState extends State<PlantScanPage> {
   }
 }
 
-class ScanAppBar extends StatelessWidget implements PreferredSizeWidget {
-  const ScanAppBar({Key? key});
-
-  @override
-  Widget build(BuildContext context) {
-    return AppBar(
-      backgroundColor: Color.fromARGB(255, 3, 185, 106),
-      elevation: 3,
-      centerTitle: true,
-      title: Text(
-        'SMART AGRI',
-        style: TextStyle(color: Colors.white),
-      ),
-      //toolbarHeight: 80,
-    );
-  }
-
-  @override
-  Size get preferredSize => Size.fromHeight(kToolbarHeight);
-}
-
 void main() {
-  final String IMAGE1 = '../data/image_1.jpeg';
-  final String ORGAN1 = 'flower';
-  final String IMAGE2 = '../data/image_2.jpeg';
-  final String ORGAN2 = 'leaf';
-
-  final String PROJECT = 'all'; // try "weurope" or "canada"
-  final String API_URL =
-      'https://my-api.plantnet.org/v2/identify/$PROJECT?api-key=';
-  final String API_PRIVATE_KEY = 'your-private-api-key'; // secret
-  final String API_SIMSEARCH_OPTION =
-      '&include-related-images=true'; // optional: get most similar images
-  final String API_LANG =
-      '&lang=fr'; // default:I apologize for the confusion, but it seems that there are two different sets of code snippets in your request. The first code snippet is a Flutter code for a plant scanning page, and the second code snippet is a Dart code for a plant recognition API.
+  runApp(MaterialApp(
+    title: 'Plant Recognition App',
+    home: PlantScanPage(),
+  ));
 }

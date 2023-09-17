@@ -1,4 +1,12 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/material.dart';
+
+class MyWidget extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Icon(Icons.eco); // Fertilizer icon from Material Icons
+  }
+}
 
 class FertilizerCalculatorApp1 extends StatefulWidget {
   @override

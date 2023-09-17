@@ -1,6 +1,8 @@
 import 'package:ethio_agri_smart/MarkDownPage.dart';
 import 'package:ethio_agri_smart/Setting.dart';
+import 'package:ethio_agri_smart/main.dart';
 import 'package:ethio_agri_smart/model/crop_model.dart';
+import 'package:ethio_agri_smart/onePsound.dart';
 import 'package:flutter/material.dart';
 
 class MyApp extends StatelessWidget {
@@ -27,68 +29,89 @@ Image.asset("images/apple")
 */
 class _SearchPageState extends State<SearchPage> {
   static List<CropModel> main_crops_list = [
-    CropModel("African lily: Agapanthus ", "images/African_lilly.png",
+    CropModel(
+        "African lily: Agapanthus ",
+        "https://w7.pngwing.com/pngs/190/780/png-transparent-water-lily-water-lily-computer-wallpaper-sacred-lotus-flower-thumbnail.png",
         'African_lily.md'),
-    CropModel("African violet: Saintpaulia spp ", "images/African_violet.png",
+    CropModel(
+        "African violet: Saintpaulia spp ",
+        "https://w7.pngwing.com/pngs/907/75/png-transparent-sweet-violet-african-violets-parma-violet-others-purple-violet-color-thumbnail.png",
         'African_violet.md'),
-    CropModel("Apple:Malus sylvestris", "images/woo.png", 'apple.md'),
-    CropModel("Avocado:Persea Americana", "images/Avocado.png", 'avocado.md'),
-    CropModel("Banana:Musa acuminata", "images/Banana.png", 'Banana.md'),
-    CropModel("Berries: Fragaria ananassa", "images/Berries.png", 'Berries.md'),
-    CropModel("Barley: Hordeum vulgare", "images/Barley.png", 'Barley.md'),
+    CropModel(
+        "Apple:Malus sylvestris",
+        "https://w7.pngwing.com/pngs/653/960/png-transparent-apple-apple-food-heart-fruit-thumbnail.png",
+        'apple.md'),
+    CropModel(
+        "Avocado:Persea Americana",
+        "https://w7.pngwing.com/pngs/381/546/png-transparent-avocado-guacamole-euclidean-fruit-avocado-natural-foods-food-logo-thumbnail.png",
+        'avocado.md'),
+    CropModel(
+        "Banana:Musa acuminata",
+        "https://w7.pngwing.com/pngs/731/89/png-transparent-banana-yellow-bananas-image-file-formats-food-orange-thumbnail.png",
+        'Banana.md'),
+    CropModel(
+        "Berries: Fragaria ananassa",
+        "https://w7.pngwing.com/pngs/834/345/png-transparent-sour-cherry-berry-cherry-natural-foods-food-photography-thumbnail.png",
+        'Berries.md'),
+    CropModel(
+        "Barley: Hordeum vulgare",
+        "https://w7.pngwing.com/pngs/911/669/png-transparent-beer-barley-cereal-beer-grass-beer-rice-thumbnail.png",
+        'Barley.md'),
     CropModel(
         "Beans: Phaseolus vulgaris ",
-        "https://plus.unsplash.com/premium_photo-1666976504656-75eca1e9aaf5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJlcnJpZXJzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "https://w7.pngwing.com/pngs/345/888/png-transparent-kidney-bean-common-bean-red-beans-and-rice-drybeans-food-photography-adzuki-bean-thumbnail.png",
         'Beans.md'),
     CropModel(
         "Bell  peppers: Capsicum annuum ",
-        "https://images.unsplash.com/photo-1621953723422-6023013f659d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmVsbCUyMHBlcHBlcnN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "https://w7.pngwing.com/pngs/446/457/png-transparent-bell-pepper-chili-pepper-vegetable-paprika-bell-pepper-natural-foods-food-tomato-thumbnail.png",
         'Bell_peppers.md'),
     CropModel(
         "Broccoli: Brassica oleracea ",
-        "https://images.unsplash.com/photo-1594885270039-f8871b502f7f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGJyb2Njb2xpfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "https://w7.pngwing.com/pngs/362/547/png-transparent-broccoli-broccoli-fresh-fruits-thumbnail.png",
         'Broccoli.md'),
     CropModel(
         "Cabbage:Hordeum vulgare",
-        "https://images.unsplash.com/photo-1486328228599-85db4443971f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Y2FiYmFnZSUyMGltYWdlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "https://w7.pngwing.com/pngs/874/309/png-transparent-cabbage-roll-carrot-napa-cabbage-vegetable-cabbage-leaf-vegetable-food-napa-cabbage-thumbnail.png",
         'Barley.md'),
-    CropModel("Carrot:Daucus carota",
-        "https://cdn.wallpapersafari.com/23/6/3dkWMI.jpg", 'Carrot.md'),
+    CropModel(
+        "Carrot:Daucus carota",
+        "https://w7.pngwing.com/pngs/140/351/png-transparent-carrot-vegetable-carrot-natural-foods-food-orange-thumbnail.png",
+        'Carrot.md'),
     CropModel(
         "Cauliflower: Brassica oleracea var. botrytis",
-        "https://images.unsplash.com/photo-1510627498534-cf7e9002facc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y2F1bGlmbG93ZXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "https://w7.pngwing.com/pngs/749/252/png-transparent-fried-cauliflower-dal-broccoli-cauliflower-leaf-vegetable-food-recipe-thumbnail.png",
         'Cauliflower.md'),
     CropModel(
         "Coffee: Cofea",
-        "https://images.unsplash.com/photo-1611330556082-0ba06d2780d0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Y29mZmVlJTIwcGxhbnR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "https://w7.pngwing.com/pngs/75/914/png-transparent-arabica-coffee-cafe-coffee-bean-coffee-roasting-coffee-food-cafe-coffee-thumbnail.png",
         'Coffee.md'),
     CropModel(
         "Cotton: Gossypium hirsutum  or Gossypium barbadense",
-        "https://images.unsplash.com/photo-1510627498534-cf7e9002facc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y2F1bGlmbG93ZXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "https://w7.pngwing.com/pngs/757/531/png-transparent-white-cotton-sea-island-cotton-sateen-bt-cotton-seed-cotton-plant-textile-branch-computer-wallpaper-thumbnail.png",
         'Cotton.md'),
     CropModel(
         "Dates:Phoenix Dactylifera",
-        "https://images.unsplash.com/photo-1634337781106-4c6a12b820a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGNvdHRvbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "https://w7.pngwing.com/pngs/1022/516/png-transparent-date-palm-dates-dried-fruit-food-date-palm-eating-arecaceae-fruit-thumbnail.png",
         'Dates.md'),
     CropModel(
         "EarthPea:Tuberous Pea",
-        "https://climate.nasa.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdVltIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bb8cadb7590090195eb1a8b6dd5175027db68424/pea-earth-536px-95.jpg",
+        "https://w7.pngwing.com/pngs/889/806/png-transparent-pea-pod-peas-natural-foods-food-sticker-thumbnail.png",
         'Earth-Pea.md'),
     CropModel(
         "Eggplants: Solanum melongena",
-        "https://images.unsplash.com/photo-1613881553903-4543f5f2cac9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGVnZ3BsYW50fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "https://w7.pngwing.com/pngs/27/797/png-transparent-eggplant-vegetable-eggplant-purple-food-violet-thumbnail.png",
         'Eggplants.md'),
     CropModel(
         "Ethiopian Banana: Ensete ventricosum",
-        "https://images.unsplash.com/photo-1593280443077-ae46e0100ad1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fEJBTkFOQXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "https://w7.pngwing.com/pngs/332/204/png-transparent-banana-banana-natural-foods-food-fitness-thumbnail.png",
         'Ethiopian_Banana.md'),
     CropModel(
         "Ethiopia mustard: Brassica carinata ",
-        "https://images.unsplash.com/photo-1578129377420-4795675e892e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8bXVzdGFyZHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "https://w7.pngwing.com/pngs/698/159/png-transparent-sarso-oil-mustard-oil-thumbnail.png",
         'Ethiopian_mustard.md'),
     CropModel(
         "Ethiopia peppers: Aframomum corrorima",
-        "https://images.unsplash.com/photo-1602062083396-750ace19e226?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8UEVQUEVSU3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "https://w7.pngwing.com/pngs/787/17/png-transparent-green-chili-serrano-pepper-bell-pepper-chili-pepper-cayenne-pepper-green-chili-pepper-food-birds-eye-chili-vegetables-thumbnail.png",
         'Ethiopian_Peppers.md'),
     CropModel(
         "Ethiopia rosewood: Dalbergia melanoxylon",
@@ -289,7 +312,7 @@ class _SearchPageState extends State<SearchPage> {
               onPressed: () {
                 Navigator.push(context, MaterialPageRoute(
                   builder: (context) {
-                    return SettingsPage();
+                    return TextToSpeechApp1();
                   },
                 ));
               }),
