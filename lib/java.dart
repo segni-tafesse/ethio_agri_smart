@@ -36,15 +36,11 @@ class _PlantScanPageState extends State<PlantScanPage> {
           final species = results[0]['species'];
           final List<dynamic> resCommonNames = species['commonNames'];
           final String scientificName = species['scientificName'];
-          final String family = species['family'];
-          final String genus = species['genus'];
 
           setState(() {
             plantDetails = [];
-            plantDetails.addAll(resCommonNames.cast<String>());
-            plantDetails.add('Scientific Name: $scientificName');
-            plantDetails.add('Family: $family');
-            plantDetails.add('Genus: $genus');
+            plantDetails.add('COMMON NAME: ${resCommonNames.join(", ")}');
+            plantDetails.add('SCIENTIFIC NAME: $scientificName');
           });
         } else {
           print('No results found.');

@@ -111,21 +111,23 @@ class _SearchPageState extends State<SearchPage> {
         'Ethiopian_mustard.md'),
     CropModel(
         "Ethiopia peppers: Aframomum corrorima",
-        "https://w7.pngwing.com/pngs/787/17/png-transparent-green-chili-serrano-pepper-bell-pepper-chili-pepper-cayenne-pepper-green-chili-pepper-food-birds-eye-chili-vegetables-thumbnail.png",
+        "https://w7.pngwing.com/pngs/846/598/png-transparent-serrano-pepper-chili-con-carne-pasilla-chili-pepper-pepper-creative-leaf-creative-artwork-creative-ads-thumbnail.png",
         'Ethiopian_Peppers.md'),
     CropModel(
         "Ethiopia rosewood: Dalbergia melanoxylon",
-        "https://images.unsplash.com/photo-1602062083396-750ace19e226?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8UEVQUEVSU3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "https://w7.pngwing.com/pngs/47/472/png-transparent-narra-tree-dalbergieae-rosewood-plumeria-branch-plane-trees-arecaceae-thumbnail.png",
         'Ethiopian_rose_wood.md'),
-    CropModel("Grape:Vitis Vinifera L.",
-        "https://images4.alphacoders.com/884/884560.jpg", 'Grapes.md'),
+    CropModel(
+        "Grape:Vitis Vinifera L.",
+        "https://w7.pngwing.com/pngs/456/89/png-transparent-grapes-juice-isabella-common-grape-vine-table-grape-grape-pattern-natural-foods-frutti-di-bosco-food-thumbnail.png",
+        'Grapes.md'),
     CropModel(
         "Green peppers: Capsicum annuum",
-        "https://images.unsplash.com/photo-1576181235989-714125739ed7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGdyZWVuJTIwcGVwcGVyc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "https://w7.pngwing.com/pngs/357/687/png-transparent-green-bell-pepper-chili-pepper-peppers-natural-foods-image-file-formats-food-thumbnail.png",
         'Green_pepper.md'),
     CropModel(
         "Guavas:  Psidium guajava",
-        "https://images.unsplash.com/photo-1629367308496-a2496ba22f88?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Z3VhdmFzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "https://w7.pngwing.com/pngs/62/197/png-transparent-sliced-guava-fruits-common-guava-tropical-fruit-strawberry-guava-guava-natural-foods-food-orange-thumbnail.png",
         'Guavas.md'),
     CropModel(
         "Kale:   Brassica oleracea var. sabellica",
@@ -285,7 +287,7 @@ class _SearchPageState extends State<SearchPage> {
         'Yam.md'),
     CropModel(
         "Zucchini: Cucurbita pepo",
-        "https://images.unsplash.com/photo-1563252722-6434563a985d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8enVjY2hpbml8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "https://w7.pngwing.com/pngs/447/808/png-transparent-zucchini-summer-squash-cucurbita-vegetable-italian-cuisine-vegetable-natural-foods-leaf-vegetable-food-thumbnail.png",
         'Zucchini.md'),
   ];
 
