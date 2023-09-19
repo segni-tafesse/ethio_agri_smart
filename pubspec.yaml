@@ -54,6 +54,8 @@ dependencies:
   share: ^2.0.4
   flutter_tts: ^3.8.3
   flutter_svg: ^2.0.7
+  cached_network_image: ^3.2.3
+  connectivity: ^3.0.6
 
  
  #path_provider: ^2.1.0

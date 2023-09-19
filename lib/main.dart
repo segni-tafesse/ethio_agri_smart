@@ -1,10 +1,13 @@
+import 'package:ethio_agri_smart/Dr_crop.dart';
 import 'package:ethio_agri_smart/all.dart';
 import 'package:ethio_agri_smart/dart.dart';
 import 'package:ethio_agri_smart/java.dart';
+import 'package:ethio_agri_smart/market.dart';
 import 'package:ethio_agri_smart/message.dart';
 import 'package:ethio_agri_smart/onepage.dart';
 import 'package:ethio_agri_smart/rotation.dart';
 import 'package:ethio_agri_smart/sound.dart';
+import 'package:ethio_agri_smart/Video_player.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import './navigation_drawer.dart';
@@ -249,6 +252,46 @@ class Home extends StatelessWidget {
               },
               icon: Icon(Icons.swap_horiz), // Specify the icon
               label: Text('Crop Rotation'), // Specify the button label
+            ),
+            ElevatedButton.icon(
+              style: ElevatedButton.styleFrom(
+                primary: Colors.teal, // Customize the button color
+                onPrimary: Colors.white, // Customize the text color
+                shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.circular(
+                      10), // Customize the button's border radius
+                ),
+              ),
+              onPressed: () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (context) {
+                    return MyApp5();
+                  }),
+                );
+              },
+              icon: Icon(Icons.add), // Specify the icon
+              label: Text('Dr.Crop'), // Specify the button label
+            ),
+            ElevatedButton.icon(
+              style: ElevatedButton.styleFrom(
+                primary: Colors.teal, // Customize the button color
+                onPrimary: Colors.white, // Customize the text color
+                shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.circular(
+                      10), // Customize the button's border radius
+                ),
+              ),
+              onPressed: () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (context) {
+                    return VideoPlayer1();
+                  }),
+                );
+              },
+              icon: Icon(Icons.play_arrow_outlined), // Specify the icon
+              label: Text('AgriVid'), // Specify the button label
             ),
           ],
         ),

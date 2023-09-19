@@ -34,6 +34,9 @@ Toxicity: Apple flesh and peel are very healthful and pose no risk. Yet seeds re
    6.  Fertilizing: Apple trees benefit from regular fertilization. Apply a balanced fertilizer in early spring and late fall, following the instructions on the product packaging. 
    7.  Pest and Disease Management: Monitor your apple tree for common pests like aphids, codling moths, or apple maggots, and implement appropriate control measures if necessary. Organic approaches like maintaining good tree hygiene, promoting biodiversity, and using biological controls are often preferred. 
  8.  Harvesting: Apples typically ripen in late summer or fall, depending on the variety. Harvest the fruit when it reaches its proper maturity stage by gently twisting it or lifting and testing for easy separation.
+##### Check out this Awesome Video to help you grow Apples!!
+[![How to grow an apple tree from seed _an easy step-by-step process _ Germinating apple seeds at home](https://img.youtube.com/vi/epaXkdnjO8I/0.jpg)](https://www.youtube.com/watch?v=epaXkdnjO8I)
+##### link: https://www.youtube.com/watch?v=epaXkdnjO8I
 # Light
 Apple trees need full sun to grow properly and produce fruit. This level of exposure means the tree will see at least six to eight hours of direct sunlight each day. Anything less than this will result in poor fruit yields or a lack of fruit entirely.
 # Soil
