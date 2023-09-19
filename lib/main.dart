@@ -1,4 +1,4 @@
-import 'package:ethio_agri_smart/Dr_crop.dart';
+import 'package:ethio_agri_smart/disease_identification.dart';
 import 'package:ethio_agri_smart/all.dart';
 import 'package:ethio_agri_smart/dart.dart';
 import 'package:ethio_agri_smart/java.dart';
@@ -266,7 +266,7 @@ class Home extends StatelessWidget {
                 Navigator.push(
                   context,
                   MaterialPageRoute(builder: (context) {
-                    return MyApp5();
+                    return DiseaseIdentifier();
                   }),
                 );
               },

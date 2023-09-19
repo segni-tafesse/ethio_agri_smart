@@ -28,12 +28,14 @@ class _TextToSpeechPageState extends State<TextToSpeechPage> {
   String text = '''
 Welcome to Smart Agri!
 Here on the Home page you can find:
-  1. Recommendations button
-  2.Weather Flora button
-  3.Scan plants button
-  4.Agro Calculator button
-  5.Crop Market button
-  6.Crop Rotation button.
+  1. Recommendations button: where you can find informations like plant information,plant growth requirements,plant's scientific and common names,charcteristics of plant,disease and etc...
+  2.Weather Flora button: Where you can find accurate weather forecastings and recommendations for all cities around the world.
+  3.Scan plants button: Where you can identify the plant, and get all informations by either capturing image directly from camera or by picking image from the gallery.
+  4.Agro Calculator button: Where you can calculate the precise amount of agrochemicals like fertilizers, pesticides and herbicides for your plant or crop.
+  5.Crop Market button: Where you can find the real-time crop price information across Ethiopia.
+  6.Crop Rotation button: Where you can find a recomendation for good practice of crop rotation.
+  7.Dr.crop button: Where you can detect the plant's disease and get recommendation by capturing image from camera or by picking it from gallery.
+  8.AgriVid button: Where you can find awesome! videos of agriculture.
   Thank You!''';
 
   bool isSpeaking = false;

@@ -43,7 +43,57 @@ Here on the Recommendations button you can find:
   13.Cauliflower or Brassica oleracea var.botrytis
   14.Coffee or cofea
   15.Cotton or Gossypisum hirsutum(Gossypisum barbadense)
-  16.Dates or Phoenix Dactylifera and etc...
+  16.Dates or Phoenix Dactylifera 
+  17.Earth Pea or Tuberous Pea
+  18.Eggplants or Solanum melongena
+  19.Ethiopian Banana or Ensete Ventricosum
+  20.Ethiopian Mustard or Brassica Carinata
+  21.Ethiopian Peppers or Aframomum corrorima
+  22.Ethiopian rosewood or Dalbergia melanoxylon
+  23.Grape or vitis Vinifera L.
+  24.Green peppers or capsicum annuum
+  25.Guavas or Psidium guajava
+  26.Kale or Brassica oleracea var.sabellica
+  27.Legumes or Chickpea,Garbanzo bean
+  28.Lemon or Citrus Limon
+  29.Lettuce or Lactuca sativa
+  30.Limes or Citrus aurantifolia
+  31.Maize or Zea Mays
+  32.Mandarin or  Kid glove oranges,loose_skin oranges,tangerine oranges,tangerines
+  33.Mango or Mangifera Indica
+  34.Millet or Pennisetum glaucom
+  35.Mushrooms or Agaricus spp
+  36.Oilpalm or Elaeis Guineensis
+  37.Oilseed or Helianthus annuus 
+  38.Okra or Abelmoshus esculentus
+  39.Onion or Allium cepa
+  40.Orange or Citrus x sinenis
+  41.Papaya or Carica papaya
+  42.Peaches or Prunus persica 
+  43.Peas or pisum sativum 
+  44.PineApple or Ananas comosus
+  45.Potato or Solanum tuberosum
+  46.Pulse or Phaseolus vulgaris 
+  47.Pumpkin or Cucurbita annuum
+  48.Radish or Raphanus sativus 
+  49.Red peppers or Capsicum annuum
+  50.Rice or Orzya sativa 
+  51.Rose or rosa rubinginosa
+  52.Sorghum or Sorghum bicolor(L.)Moench
+  53.Spinach or spinacia oleracea
+  54.Sugarcane or Saccharum officinarum
+  55.Sunflower or Carthamus tinctorius
+  56.Sweet potatoes or pomea batatas
+  57.Swiss chard or Beta vulgaris subsp.cicia
+  58.Tea or Camellia sinenis 
+  59.Teff or Eragotis teff
+  60.Tobacco or Grand title Nicotiana
+  61.Tomato or Solanum lycopersicum 
+  62.Turnips or Brassica rapa subsp.rapa
+  63.Watermelon or Genus Citrullus
+  64.Wheat or Triticum
+  65.Yam or purple yam,winged yam,greater yam
+  66.Zucchini or Cucurbita pepo
   Thank You!''';
 
   bool isSpeaking = false;
