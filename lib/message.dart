@@ -16,33 +16,60 @@ class _TelegramAppState extends State<TelegramApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Crop  Market',
+      title: 'Crop Market',
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.green,
+        visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Crop  Market'),
+          title: Text('Crop Market'),
           centerTitle: true,
         ),
         body: Column(
           children: [
             Expanded(
-              child: ListView.builder(
-                itemCount: messages.length,
-                itemBuilder: (context, index) {
-                  return Container(
-                    padding: EdgeInsets.all(8.0),
-                    alignment: messages[index].isMe
-                        ? Alignment.centerRight
-                        : Alignment.centerLeft,
-                    child: Text(messages[index].text),
-                  );
-                },
+              child: Container(
+                color: Colors.grey.shade200,
+                child: ListView.builder(
+                  reverse: true, // Display messages in reverse order
+                  itemCount: messages.length,
+                  itemBuilder: (context, index) {
+                    return Container(
+                      padding: EdgeInsets.all(8.0),
+                      alignment: messages[index].isMe
+                          ? Alignment.centerRight
+                          : Alignment.centerLeft,
+                      child: Material(
+                        elevation: 4.0,
+                        borderRadius: BorderRadius.circular(8.0),
+                        color: messages[index].isMe
+                            ? Colors.greenAccent
+                            : Colors.white,
+                        child: Padding(
+                          padding: EdgeInsets.symmetric(
+                            vertical: 10.0,
+                            horizontal: 12.0,
+                          ),
+                          child: Text(
+                            messages[index].text,
+                            style: TextStyle(
+                              color: messages[index].isMe
+                                  ? Colors.black
+                                  : Colors.black,
+                              fontSize: 16.0,
+                            ),
+                          ),
+                        ),
+                      ),
+                    );
+                  },
+                ),
               ),
             ),
             Container(
               padding: EdgeInsets.all(8.0),
+              color: Colors.white,
               child: PlantInput(
                 onSend: (plantType) {
                   setState(() {
@@ -61,7 +88,7 @@ class _TelegramAppState extends State<TelegramApp> {
 
   void getPrice(String plantType) {
     setState(() {
-      messages.add(Message(text: 'Price', isMe: false));
+      messages.add(Message(text: 'Fetching price...', isMe: false));
     });
 
     // Simulate an asynchronous process using Future.delayed
@@ -115,6 +142,7 @@ class _TelegramAppState extends State<TelegramApp> {
         'Sugarcane': '1Kg                  150 Birr',
         'Red pepper': '1Kg                  500 Birr',
         'Apple': '1Kg            140 Birr',
+        // Add more plant types and prices as needed
       };
 
       final response = plantTypePriceMap[plantType] ?? 'Price not available';
@@ -154,15 +182,19 @@ class _PlantInputState extends State<PlantInput> {
             controller: _textEditingController,
             decoration: InputDecoration(
               labelText: 'Plant Type',
+              border: OutlineInputBorder(),
             ),
           ),
         ),
         MaterialButton(
-          child: Text('More Info'),
+          child: Text(
+            'More Info',
+            style: TextStyle(color: Colors.white),
+          ),
           onPressed: () {
             launch('https://www.selinawamucii.com/insights/prices/ethiopia/');
           },
-          color: Color.fromARGB(255, 61, 192, 140),
+          color: Colors.green,
         ),
         IconButton(
           icon: Icon(Icons.send),
@@ -176,11 +208,5 @@ class _PlantInputState extends State<PlantInput> {
         ),
       ],
     );
-  }
-
-  @override
-  void dispose() {
-    _textEditingController.dispose();
-    super.dispose();
   }
 }

@@ -1,3 +1,4 @@
+![](resource:images/turnips.png)
 #  What's Turnips?
 Turnips are a versatile and nutritious vegetable that belong to the Brassicaceae family. They are renowned for their round or bulbous shape, often adorned with a purple or white skin. Beneath their skin, turnips reveal a crisp, white flesh that can vary in texture from tender to slightly fibrous.
 

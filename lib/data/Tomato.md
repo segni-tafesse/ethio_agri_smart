@@ -1,3 +1,4 @@
+![](resource:images/Tomato.png)
 # What's Tomato?
 Tomato, scientifically known as Solanum lycopersicum, is a widely cultivated fruit that is commonly used as a vegetable in various culinary dishes. It belongs to the nightshade family, Solanaceae, and is native to western South America. Tomatoes are known for their vibrant red color, juicy flesh, and distinctive sweet-tart flavor.
 # Name

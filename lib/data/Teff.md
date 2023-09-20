@@ -1,3 +1,4 @@
+![](resource:images/Teff.png)
 # What's Teff?
 Teff, a wondrous grain indeed! In short, teff is a tiny grain native to the highlands of Ethiopia. It is naturally gluten-free and packed with nutrients, making it quite a popular choice for those seeking a wholesome and nourishing diet. Teff grains are known for their nutty flavor and versatility in various dishes, such as injera, a traditional Ethiopian flatbread. So, if you're looking for a grain that's small in size but mighty in benefits
 #  Name

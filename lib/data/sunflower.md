@@ -1,3 +1,4 @@
+![](resource:images/Sunflower.png)
 # What is  Sufflower?
 Safflower oil is composed mainly of oleic and linoleic acids. These two unsaturated fats make up 90% of safflower oil. The saturated fatty acids palmitic acid and stearic acid make up the remaining 10% ( 6 ).
 # Name

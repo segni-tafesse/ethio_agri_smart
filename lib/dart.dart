@@ -165,7 +165,8 @@ class _WeatherInterfaceState extends State<WeatherInterface> {
                                             Center(
                                               child: Column(
                                                 children: [
-                                                  Text('Fertilizers:'),
+                                                  Text(
+                                                      'Fertilizers:                        '),
                                                   DropdownButton<String>(
                                                     value: selectedPlantType,
                                                     onChanged: (newValue) {
@@ -217,7 +218,8 @@ class _WeatherInterfaceState extends State<WeatherInterface> {
                                                 Center(
                                                   child: Column(
                                                     children: [
-                                                      Text('Fertilizers:'),
+                                                      Text(
+                                                          'Fertilizers:                      '),
                                                       DropdownButton<String>(
                                                         value:
                                                             selectedPlantType,
@@ -271,7 +273,8 @@ class _WeatherInterfaceState extends State<WeatherInterface> {
                                         Center(
                                           child: Column(
                                             children: [
-                                              Text('Fertilizers:'),
+                                              Text(
+                                                  'Fertilizers:                    '),
                                               DropdownButton<String>(
                                                 value: selectedPlantType,
                                                 onChanged: (newValue) {
@@ -302,7 +305,8 @@ class _WeatherInterfaceState extends State<WeatherInterface> {
                               temperature >= 10 && temperature < 15
                                   ? Column(
                                       children: [
-                                        Text('Pesticides:'),
+                                        Text(
+                                            'Pesticides:                           '),
                                         DropdownButton<String>(
                                           value: selectedPlantType,
                                           onChanged: (newValue) {
@@ -329,7 +333,8 @@ class _WeatherInterfaceState extends State<WeatherInterface> {
                               temperature >= 15 && temperature < 20
                                   ? Column(
                                       children: [
-                                        Text('Pesticides:'),
+                                        Text(
+                                            'Pesticides:                          '),
                                         DropdownButton<String>(
                                           value: selectedPlantType,
                                           onChanged: (newValue) {
@@ -373,7 +378,8 @@ class _WeatherInterfaceState extends State<WeatherInterface> {
                               temperature >= 20 && temperature < 30
                                   ? Column(
                                       children: [
-                                        Text('Pesticides:'),
+                                        Text(
+                                            'Pesticides:                                 '),
                                         DropdownButton<String>(
                                           value: selectedPlantType,
                                           onChanged: (newValue) {
@@ -424,7 +430,8 @@ class _WeatherInterfaceState extends State<WeatherInterface> {
                               temperature >= 30
                                   ? Column(
                                       children: [
-                                        Text('Pesticides:'),
+                                        Text(
+                                            'Pesticides:                                 '),
                                         DropdownButton<String>(
                                           value: selectedPlantType,
                                           onChanged: (newValue) {
@@ -450,7 +457,8 @@ class _WeatherInterfaceState extends State<WeatherInterface> {
                               temperature >= 10 && temperature < 15
                                   ? Column(
                                       children: [
-                                        Text('Herbicides:'),
+                                        Text(
+                                            'Herbicides:                                 '),
                                         DropdownButton<String>(
                                           value: selectedPlantType,
                                           onChanged: (newValue) {
@@ -478,7 +486,8 @@ class _WeatherInterfaceState extends State<WeatherInterface> {
                               temperature >= 15 && temperature < 20
                                   ? Column(
                                       children: [
-                                        Text('Herbicides:'),
+                                        Text(
+                                            'Herbicides:                                 '),
                                         DropdownButton<String>(
                                           value: selectedPlantType,
                                           onChanged: (newValue) {
@@ -519,7 +528,8 @@ class _WeatherInterfaceState extends State<WeatherInterface> {
                               temperature >= 20 && temperature < 30
                                   ? Column(
                                       children: [
-                                        Text('Herbicides:'),
+                                        Text(
+                                            'Herbicides:                               '),
                                         DropdownButton<String>(
                                           value: selectedPlantType,
                                           onChanged: (newValue) {
@@ -570,7 +580,8 @@ class _WeatherInterfaceState extends State<WeatherInterface> {
                               temperature >= 30
                                   ? Column(
                                       children: [
-                                        Text('Herbicides:'),
+                                        Text(
+                                            'Herbicides:                                    '),
                                         DropdownButton<String>(
                                           value: selectedPlantType,
                                           onChanged: (newValue) {
@@ -624,7 +635,8 @@ class _WeatherInterfaceState extends State<WeatherInterface> {
                               temperature >= 15 && temperature < 20
                                   ? Column(
                                       children: [
-                                        Text('Sowing:'),
+                                        Text(
+                                            'Sowing:                                    '),
                                         DropdownButton<String>(
                                           value: selectedPlantType,
                                           onChanged: (newValue) {
@@ -855,7 +867,7 @@ class _WeatherInterfaceState extends State<WeatherInterface> {
                                   ? Column(
                                       children: [
                                         Text(
-                                            'Plotting:                                   '),
+                                            'Plotting:                                     '),
                                         DropdownButton<String>(
                                           value: selectedPlantType,
                                           onChanged: (newValue) {

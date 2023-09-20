@@ -1,3 +1,4 @@
+![](resource:images/Sweetpotato.png)
 #  What's  Sweet potato?
  sweet potatoes, those delightful tubers that grace our tables with their sweetness and versatility. In short and brief, sweet potatoes are a nutritious root vegetable that come in a variety of colors, including orange, purple, and white. They are rich in vitamins, minerals, and fiber, making them a valuable addition to a balanced diet. Sweet potatoes can be roasted, boiled, mashed, or even made into fries or pies. They offer a naturally sweet taste and a creamy texture that is loved by many. So, indulge in the deliciousness and nourishment that sweet potatoes have to offer!
 

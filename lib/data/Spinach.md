@@ -1,3 +1,4 @@
+![](resource:images/Spinach.png)
 #  What's Spinach?
 spinach, a delightful leafy green! In short, spinach is a nutritious and delicious vegetable. It's both the botanic and common name for this wonderful plant. So, whether you're adding it to a salad, stir-fry, or smoothie, spinach is a fantastic choice for a healthy and vibrant meal. Enjoy the green goodness of spinach and let it bring nourishment to your plate!
 # Name

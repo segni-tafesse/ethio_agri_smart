@@ -11,9 +11,14 @@ class TextToSpeechApp extends StatelessWidget {
     return MaterialApp(
       title: 'Text to Speech App',
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.blueGrey,
       ),
       home: TextToSpeechPage(),
+      routes: {
+        '/recommendations': (context) => RecommendationsPage(),
+        '/weather': (context) => WeatherPage(),
+        '/scanPlants': (context) => ScanPlantsPage(),
+      },
     );
   }
 }
@@ -116,8 +121,97 @@ Here on the Home page you can find:
             ),
             SizedBox(height: 16),
             LinearProgressIndicator(value: progress),
+            SizedBox(height: 16),
+            ElevatedButton(
+              onPressed: () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (context) {
+                    return RecommendationsPage();
+                  }),
+                );
+              },
+              child: Column(
+                children: [
+                  Text('Recommendations'),
+                  SizedBox(height: 8),
+                  ElevatedButton(
+                    onPressed: () {
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(builder: (context) {
+                          return RecommendationsPage();
+                        }),
+                      );
+                    },
+                    child: Text('Apple'),
+                  ),
+                  SizedBox(height: 8),
+                  ElevatedButton(
+                    onPressed: () {
+                      // Add your logic for the second nested button here
+                    },
+                    child: Text('Banana'),
+                  ),
+                ],
+              ),
+            ),
+            ElevatedButton(
+              onPressed: () {
+                Navigator.pushNamed(context, '/weather');
+              },
+              child: Text('Weather Flora'),
+            ),
+            ElevatedButton(
+              onPressed: () {
+                Navigator.pushNamed(context, '/scanPlants');
+              },
+              child: Text('Scan Plants'),
+            ),
           ],
         ),
+      ),
+    );
+  }
+}
+
+class RecommendationsPage extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: Text('Recommendations Page'),
+      ),
+      body: Center(
+        child: Text('Recommendations Page'),
+      ),
+    );
+  }
+}
+
+class WeatherPage extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: Text('Weather Flora Page'),
+      ),
+      body: Center(
+        child: Text('Weather Flora Page'),
+      ),
+    );
+  }
+}
+
+class ScanPlantsPage extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: Text('Scan Plants Page'),
+      ),
+      body: Center(
+        child: Text('Scan Plants Page'),
       ),
     );
   }

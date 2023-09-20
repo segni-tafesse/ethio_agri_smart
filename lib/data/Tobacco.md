@@ -1,3 +1,4 @@
+![](resource:images/Tobacco.png)
 #  What's Tobacco?
 Tobacco, in short, is a plant that holds both cultural and commercial significance. Its leaves contain nicotine, a naturally occurring compound that can have stimulating effects when consumed. Tobacco has been cultivated and used for centuries, primarily for smoking, chewing, or as an ingredient in various tobacco products such as cigarettes, cigars, and pipe tobacco. However, it is important to note that tobacco use can lead to various health risks and is addictive. As such, it is crucial to approach tobacco consumption with caution and be mindful of its potential consequences on personal well-being.
 # Name

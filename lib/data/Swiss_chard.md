@@ -1,3 +1,4 @@
+![](resource:images/Swisschard.png)
 #  What's Swiss chard?
 Swiss chard, a leafy green vegetable that adds a vibrant touch to our meals! In short, Swiss chard is a nutritious and versatile plant with colorful stems and large, flavorful leaves. It belongs to the beet family and is known for its mild, slightly earthy taste. Swiss chard is packed with vitamins, minerals, and antioxidants, making it a delightful addition to salads, stir-fries, soups, or sautés. It comes in various varieties, including rainbow chard, with stems ranging from red, orange, yellow, to white. So, embrace the beauty and goodness of Swiss chard, and let it elevate your culinary creations with its vibrant colors and nourishing qualities!
 # Name

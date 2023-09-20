@@ -1,3 +1,4 @@
+![](resource:images/Sugarcane.png)
 #  What's  Sugarcane?
 sugarcane, a sweet and versatile crop that has captivated the hearts and taste buds of many. In a brief and concise manner, allow me to introduce you to sugarcane:
 

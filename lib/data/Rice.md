@@ -1,3 +1,4 @@
+![](resource:images/Rice.png)
 # What's Rice?
 Rice is a cereal grain that is widely cultivated and consumed as a staple food crop in many parts of the world. It is a type of grass (Oryza sativa or Oryza glaberrima) and is one of the most important crops globally, particularly in Asia. Rice is known for its small, elongated grains that can be white, brown, or other colors depending on the variety. It is a versatile crop that can be cooked and used in a variety of dishes, such as stir-fries, curries, and sushi. Rice is a significant source of carbohydrates and provides dietary fiber, vitamins, and minerals.
 # Name

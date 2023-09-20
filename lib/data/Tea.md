@@ -1,3 +1,4 @@
+![](resource:images/Tea.png)
 # What's Tea?
 
 Tea is one of the most widely consumed beverages in the world, known for its refreshing taste and numerous health benefits. Originating from the Camellia sinensis plant, tea has a rich history that dates back thousands of years, with its cultivation and consumption deeply ingrained in various cultures and traditions. Today, tea is enjoyed in countless forms and flavors, ranging from traditional black and green teas to herbal infusions and specialty blends. Whether sipped hot or cold, tea offers a diverse range of flavors and aromas that cater to different preferences, making it a beloved beverage enjoyed by people across the globe.

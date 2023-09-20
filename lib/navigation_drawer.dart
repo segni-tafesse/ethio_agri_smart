@@ -4,6 +4,7 @@ import 'package:ethio_agri_smart/Setting.dart';
 import 'package:ethio_agri_smart/main.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import './Help.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 class CustomDrawer extends StatelessWidget {
@@ -25,7 +26,20 @@ class CustomDrawer extends StatelessWidget {
           children: [
             DrawerHeader(
               decoration: BoxDecoration(
-                color: Colors.blue,
+                image: DecorationImage(
+                  image: AssetImage('images/logo.png'),
+                  fit: BoxFit.cover,
+                  colorFilter: ColorFilter.mode(
+                      Colors.black.withOpacity(0.4), BlendMode.darken),
+                ),
+                borderRadius: BorderRadius.circular(10),
+                boxShadow: [
+                  BoxShadow(
+                    color: Colors.black.withOpacity(0.3),
+                    blurRadius: 5,
+                    offset: Offset(0, 3),
+                  ),
+                ],
               ),
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
@@ -66,14 +80,20 @@ class CustomDrawer extends StatelessWidget {
               leading: Icon(Icons.star),
               title: Text('Rate Us'),
               onTap: () {
-                _launchURL('https://example.com/rate');
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (context) => SettingsScreen()),
+                );
               },
             ),
             ListTile(
               leading: Icon(Icons.help),
-              title: Text('Help'),
+              title: Text('Help Center'),
               onTap: () {
-                _launchURL('https://example.com/help');
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (context) => AgriculturalApp()),
+                );
               },
             ),
             ListTile(

@@ -1,3 +1,4 @@
+![](resource:images/zucchini.png)
 #  What's  Zucchini?
  zucchini, a delightful vegetable indeed! In short and brief terms, zucchini is a summer squash that belongs to the Cucurbitaceae family. It is characterized by its elongated shape, smooth green skin, and mild flavor. Zucchini is highly versatile and can be enjoyed in various culinary creations, from sautés and stir-fries to soups and baked goods. It is known for its tender texture and ability to absorb flavors, making it a popular ingredient in many dishes. With its abundance during the summer months, zucchini adds a touch of freshness and vibrancy to our plates.
 # Name

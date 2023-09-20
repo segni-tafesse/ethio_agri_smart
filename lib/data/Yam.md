@@ -1,3 +1,4 @@
+![](resource:images/yam.png)
 #  What's Yam?
 Yam refers to a group of starchy tuberous root vegetables that belong to the Dioscorea genus. Yams are a staple food in many tropical and subtropical regions, particularly in Africa, Asia, and the Caribbean. They have been cultivated for centuries and play a significant role in the diets and cuisines of various cultures.
 

@@ -75,13 +75,6 @@ class AboutUsPage extends StatelessWidget {
                 style: TextStyle(fontSize: 16),
               ),
               SizedBox(height: 16),
-              Text(
-                'About Our Company',
-                style: TextStyle(
-                  fontSize: 18,
-                ),
-              ),
-              SizedBox(height: 16),
               MaterialButton(
                 child: Text(
                   'More Info',

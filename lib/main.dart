@@ -12,6 +12,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import './navigation_drawer.dart';
 import './button.dart';
+import 'package:flutter_tts/flutter_tts.dart';
 
 void main() {
   runApp(
@@ -51,6 +52,15 @@ class MyApp extends StatelessWidget {
 }
 
 class Home extends StatelessWidget {
+  final FlutterTts flutterTts = FlutterTts();
+
+  Future<void> _speak(String text) async {
+    await flutterTts.setLanguage('en-US');
+    await flutterTts.setPitch(1.0);
+    await flutterTts.setVolume(1.0);
+    await flutterTts.speak(text);
+  }
+
   @override
   Widget build(BuildContext context) {
     final themeNotifier = Provider.of<ThemeNotifier>(context);
@@ -80,12 +90,8 @@ class Home extends StatelessWidget {
           IconButton(
             icon: Icon(Icons.speaker_phone),
             onPressed: () {
-              Navigator.push(
-                context,
-                MaterialPageRoute(builder: (context) {
-                  return TextToSpeechApp();
-                }),
-              );
+              _speak(
+                  'Welcome to Smart Agri, Here on the Home Page you can find. 1.Recommendations Button: Where you can find all Informations about your plant or crop. 2.WeatherFlora button: where you can find accurate weather forecastings and recommendations. 3.Scan Plants button: Where you can capture image by camera or pick image from gallery and identify the plant\'s type. 4.Agrocalculator button: Where you can calculate the precise amounts of pesticides, herbicides and fertilizers for your plant or crop. 5.Crop Price Inquiry: Where you can get information on real time crop price information. 6.Crop Rotation button: Where you can know and use good practices of Crop Rotation. 7.Dr.Crop button: Where you can capture image by camera or pick form gallery and detect the plant\'s or crop\'s disease. 8.AgriVid button: Where you can get awesome videos related to agriculture.  Thank you!');
             },
             tooltip: 'Text to Speech',
           ),
@@ -231,7 +237,7 @@ class Home extends StatelessWidget {
                 );
               },
               icon: Icon(Icons.shopping_cart), // Specify the icon
-              label: Text('Crop Price Inquiiry'), // Specify the button label
+              label: Text('Crop Price Inquiry'), // Specify the button label
             ),
             ElevatedButton.icon(
               style: ElevatedButton.styleFrom(

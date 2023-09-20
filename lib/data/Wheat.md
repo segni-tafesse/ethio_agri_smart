@@ -1,3 +1,4 @@
+![](resource:images/wheat.png)
 # What's Wheat?
 Wheat is a cereal grain that is widely cultivated and consumed around the world. It belongs to the Triticum genus and is a member of the grass family, Poaceae. Wheat is one of the most important staple crops and a significant source of calories and nutrients for a large portion of the global population.
 # Name

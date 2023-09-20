@@ -1,3 +1,4 @@
+![](resource:images/Sorghum.png)
 # What is the sorghum?
 Sorghum is a cereal grain that belongs to the grass family (Poaceae). It is primarily grown for its edible seeds, although it can also be used as animal feed or for producing biofuels. Sorghum is a versatile crop that can tolerate drought and heat, making it suitable for cultivation in arid and semi-arid regions. It is commonly used as a staple food in many parts of Africa, Asia, and Central America. The grains of sorghum can be ground into flour for making various food products like bread, porridge, and couscous. Additionally, sorghum can be processed into syrup, used in the production of alcoholic beverages like beer or distilled into spirits.
 # Names 

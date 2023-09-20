@@ -1,3 +1,4 @@
+![](resource:images/rose.png)
 # What's Rose?
 The rose (genus Rosa) is a perennial flowering plant that belongs to the Rosaceae family. It is one of the most beloved and widely cultivated ornamental plants around the world, known for its exquisite beauty, fragrance, and symbolic significance. Roses have been cultivated for centuries and are culturally significant in various societies.
 

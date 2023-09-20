@@ -2,6 +2,7 @@ import 'package:ethio_agri_smart/main.dart';
 import 'package:ethio_agri_smart/security_settings.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:flutter_tts/flutter_tts.dart';
 
 class SettingsScreen extends StatefulWidget {
   @override
@@ -9,6 +10,7 @@ class SettingsScreen extends StatefulWidget {
 }
 
 class _SettingsScreenState extends State<SettingsScreen> {
+  FlutterTts flutterTts = FlutterTts();
   bool _notificationEnabled = true;
 
   void _handleNotificationSwitch(bool value) {
@@ -16,6 +18,19 @@ class _SettingsScreenState extends State<SettingsScreen> {
       _notificationEnabled = value;
     });
     // Perform any other actions based on the switch state change
+  }
+
+  Future<void> _speak(String text) async {
+    await flutterTts.setLanguage('en-US');
+    await flutterTts.setPitch(0.5);
+    await flutterTts.setSpeechRate(0.5);
+    await flutterTts.speak(text);
+  }
+
+  @override
+  void dispose() {
+    flutterTts.stop();
+    super.dispose();
   }
 
   @override
@@ -33,6 +48,9 @@ class _SettingsScreenState extends State<SettingsScreen> {
               value: _notificationEnabled,
               onChanged: _handleNotificationSwitch,
             ),
+            onTap: () {
+              _speak('Notifications'); // Speak the tile text
+            },
           ),
           ListTile(
             leading: Icon(Icons.language),
@@ -51,6 +69,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
                           title: Text('English'),
                           onTap: () {
                             // Handle English language selection
+                            _speak('English'); // Speak the selected language
                             Navigator.pop(context); // Close the dialog
                           },
                         ),
@@ -58,6 +77,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
                           title: Text('Amharic'),
                           onTap: () {
                             // Handle Amharic language selection
+                            _speak('Amharic'); // Speak the selected language
                             Navigator.pop(context); // Close the dialog
                           },
                         ),
@@ -65,6 +85,8 @@ class _SettingsScreenState extends State<SettingsScreen> {
                           title: Text('Afaan Oromo'),
                           onTap: () {
                             // Handle Afaan Oromo language selection
+                            _speak(
+                                'Afaan Oromo'); // Speak the selected language
                             Navigator.pop(context); // Close the dialog
                           },
                         ),
@@ -84,6 +106,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
                 context,
                 MaterialPageRoute(builder: (context) => SecuritySettingsPage()),
               );
+              _speak('Security'); // Speak the tile text
             },
           ),
           ListTile(
@@ -95,6 +118,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
                 context,
                 MaterialPageRoute(builder: (context) => SettingsPage()),
               );
+              _speak('Theme'); // Speak the tile text
             },
           ),
           ListTile(
@@ -124,6 +148,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
                   );
                 },
               );
+              _speak('Logout'); // Speak the tile text
             },
           ),
         ],

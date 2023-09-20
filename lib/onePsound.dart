@@ -9,7 +9,7 @@ class TextToSpeechApp1 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Text to Speech App',
+      title: 'Recommendations page',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
@@ -150,7 +150,7 @@ Here on the Recommendations button you can find:
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Text to Speech App'),
+        title: Text('Recommendations page'),
         actions: [
           IconButton(
             icon: Icon(Icons.volume_up),

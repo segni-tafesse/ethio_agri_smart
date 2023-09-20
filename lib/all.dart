@@ -1,3 +1,4 @@
+import 'package:flutter/material.dart';
 import 'package:ethio_agri_smart/button.dart';
 import 'package:ethio_agri_smart/fer.dart';
 import 'package:ethio_agri_smart/herbicide.dart';
@@ -6,14 +7,7 @@ import 'package:ethio_agri_smart/pest.dart';
 import 'package:ethio_agri_smart/pestcide.dart';
 import 'package:ethio_agri_smart/poe.dart';
 
-import 'package:flutter/material.dart';
-
-class Nextpage11 extends StatefulWidget {
-  @override
-  State<Nextpage11> createState() => _NextpageState();
-}
-
-class _NextpageState extends State<Nextpage11> {
+class Nextpage11 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -26,39 +20,107 @@ class _NextpageState extends State<Nextpage11> {
         backgroundColor: Color.fromARGB(255, 61, 192, 140),
       ),
       body: Container(
-        padding: EdgeInsets.all(120),
+        padding: EdgeInsets.all(32.0),
         child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          crossAxisAlignment: CrossAxisAlignment.stretch,
           children: [
-            ElevatedButton(
-                style: buttonprimary,
+            Expanded(
+              child: ElevatedButton(
+                style: ElevatedButton.styleFrom(
+                  primary: Colors.green,
+                  onPrimary: Colors.white,
+                  textStyle: TextStyle(fontSize: 24.0),
+                  padding: EdgeInsets.all(16.0),
+                  shape: RoundedRectangleBorder(
+                    borderRadius: BorderRadius.circular(8.0),
+                  ),
+                ),
                 onPressed: () {
-                  Navigator.push(context, MaterialPageRoute(
-                    builder: (context) {
-                      return FertilizerCalculatorApp1();
-                    },
-                  ));
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                      builder: (context) {
+                        return FertilizerCalculatorApp1();
+                      },
+                    ),
+                  );
                 },
-                child: Text('Fertlizer Calculator')),
-            ElevatedButton(
-                style: buttonprimary,
+                child: Column(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [
+                    Icon(Icons.calculate, size: 64.0),
+                    SizedBox(height: 16.0),
+                    Text('Fertilizer Calculator'),
+                  ],
+                ),
+              ),
+            ),
+            SizedBox(height: 16.0),
+            Expanded(
+              child: ElevatedButton(
+                style: ElevatedButton.styleFrom(
+                  primary: Colors.blue,
+                  onPrimary: Colors.white,
+                  textStyle: TextStyle(fontSize: 24.0),
+                  padding: EdgeInsets.all(16.0),
+                  shape: RoundedRectangleBorder(
+                    borderRadius: BorderRadius.circular(8.0),
+                  ),
+                ),
                 onPressed: () {
-                  Navigator.push(context, MaterialPageRoute(
-                    builder: (context) {
-                      return PesticideCalculatorApp();
-                    },
-                  ));
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                      builder: (context) {
+                        return PesticideCalculatorApp();
+                      },
+                    ),
+                  );
                 },
-                child: Text('Pesticides calculator')),
-            ElevatedButton(
-                style: buttonprimary,
+                child: Column(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [
+                    Icon(Icons.local_florist, size: 64.0),
+                    SizedBox(height: 16.0),
+                    Text('Pesticide Calculator'),
+                  ],
+                ),
+              ),
+            ),
+            SizedBox(height: 16.0),
+            Expanded(
+              child: ElevatedButton(
+                style: ElevatedButton.styleFrom(
+                  primary: Colors.orange,
+                  onPrimary: Colors.white,
+                  textStyle: TextStyle(fontSize: 24.0),
+                  padding: EdgeInsets.all(16.0),
+                  shape: RoundedRectangleBorder(
+                    borderRadius: BorderRadius.circular(8.0),
+                  ),
+                ),
                 onPressed: () {
-                  Navigator.push(context, MaterialPageRoute(
-                    builder: (context) {
-                      return HerbicideCalculatorApp();
-                    },
-                  ));
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                      builder: (context) {
+                        return HerbicideCalculatorApp();
+                      },
+                    ),
+                  );
                 },
-                child: Text('Herbicides calculator')),
+                child: Column(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [
+                    Icon(Icons.eco, size: 64.0),
+                    SizedBox(height: 16.0),
+                    Text('Herbicide Calculator'),
+                  ],
+                ),
+              ),
+            ),
+            SizedBox(height: 16.0),
           ],
         ),
       ),
