@@ -53,6 +53,7 @@ class _DiseaseIdentifierState extends State<DiseaseIdentifier> {
         cloudImageUrl = jsonMap['url'];
         uploadingImage = false;
         testable = true;
+        diagnosisAvailable = false;
       });
       print(cloudImageUrl);
     } else {
@@ -140,7 +141,18 @@ class _DiseaseIdentifierState extends State<DiseaseIdentifier> {
                           ],
                         ),
                   diagnosisAvailable
-                      ? DiagnosisBox(data: diagnosisData)
+                      ? diagnosisData['is_healthy_probability'] > 0.5
+                          ? Padding(
+                              padding: const EdgeInsets.all(20.0),
+                              child: Text(
+                                "Plant is healthy",
+                                style: TextStyle(fontSize: 20),
+                              ),
+                            )
+                          //: StyledDiagnosisBox(data: diagnosisData)
+                          : KeyValueWidget(data: diagnosisData)
+                      //  DiagnosisBox(data: diagnosisData)
+
                       : diagnosingImage
                           ? const Center(
                               child: Text('Diagnosing plant'),
@@ -208,7 +220,6 @@ class PlantApi {
         "cause",
         "common_names",
         "classification",
-        "description",
         "treatment",
       ],
     };
@@ -225,7 +236,7 @@ class PlantApi {
     );
 
     if (response.statusCode == 200) {
-      print(json.decode(response.body)['health_assessment']['diseases']);
+      print(json.decode(response.body)['health_assessment']);
       return json.decode(response.body)['health_assessment'];
     } else {
       throw Exception('Failed to identify plant: ${response.statusCode}');
@@ -241,5 +252,108 @@ class PlantApi {
       throw Exception(
           'Failed to fetch and encode image: ${response.statusCode}');
     }
+  }
+}
+
+class StyledDiagnosisBox extends StatelessWidget {
+  final Map<String, dynamic> data;
+  const StyledDiagnosisBox({super.key, required this.data});
+
+  @override
+  Widget build(BuildContext context) {
+    dynamic health_probability = data['is_healthy_probability'];
+    health_probability = (health_probability * 100);
+    dynamic disease_name = data['diseases'][0]['name'];
+    dynamic treatment =
+        data['diseases'][0]['disease_details']['treatment']['chemical'][0];
+    dynamic prevention =
+        data['diseases'][0]['disease_details']['treatment']['prevention'][0];
+
+    return Padding(
+      padding: const EdgeInsets.all(20.0),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Text(
+            "Diagnosis",
+            style: TextStyle(fontSize: 30, fontWeight: FontWeight.bold),
+            textAlign: TextAlign.center,
+          ),
+          Text("Health Probabality: ${health_probability.toStringAsFixed(2)}%"),
+          Text("Caused by: ${disease_name}"),
+          Divider(),
+          Text(
+            "Treatment",
+            style: TextStyle(fontSize: 25, fontWeight: FontWeight.normal),
+          ),
+          Text("${treatment}"),
+          Divider(),
+          Text("Prevention",
+              style: TextStyle(fontSize: 25, fontWeight: FontWeight.normal)),
+          Text(
+              "${data['diseases'][0]['disease_details']['treatment']['prevention'][0]}"),
+        ],
+      ),
+    );
+  }
+}
+
+class KeyValueWidget extends StatelessWidget {
+  final Map<String, dynamic> data;
+  final int level;
+
+  KeyValueWidget({required this.data, this.level = 0});
+
+  String cleanValue(dynamic value) {
+    // Convert the value to a string and remove unwanted characters
+    if (value is Map<String, dynamic>) {
+      // If the value is a map, handle it recursively
+      return KeyValueWidget(data: value, level: level + 1).toString();
+    } else {
+      final cleanedValue =
+          value.toString().replaceAll(RegExp(r'[{}\[\],"]'), '');
+      return cleanedValue;
+    }
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    final fontSize =
+        16.0 + (2.0 * level); // Adjust the font size based on the level
+    final fontWeight = FontWeight.bold;
+
+    return Padding(
+      padding: const EdgeInsets.all(20.0),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: data.entries.map((entry) {
+          final key = entry.key;
+          final value = entry.value;
+
+          return Padding(
+            padding: EdgeInsets.only(left: 8.0 * level),
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Text(
+                  '$key:',
+                  style: TextStyle(fontSize: fontSize, fontWeight: fontWeight),
+                ),
+                if (value
+                    is Map<String, dynamic>) // Check if the value is a map
+                  KeyValueWidget(
+                      data: value,
+                      level: level + 1) // Recursively create a KeyValueWidget
+                else
+                  Text(
+                    '  ${cleanValue(value)}', // Display the cleaned value
+                    style: TextStyle(fontSize: fontSize),
+                  ),
+              ],
+            ),
+          );
+        }).toList(),
+      ),
+    );
   }
 }

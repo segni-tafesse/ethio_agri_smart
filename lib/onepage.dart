@@ -186,7 +186,7 @@ class _SearchPageState extends State<SearchPage> {
     CropModel(
         "Orange:Citrus x sinensis",
         "https://w7.pngwing.com/pngs/193/536/png-transparent-orange-citrus-fruit-orange-juice-fruit-fresh-orange-natural-foods-food-olive-thumbnail.png",
-        'Orange.md'),
+        'orange.md'),
     CropModel(
         "Papaya:  Carica papaya",
         "https://w7.pngwing.com/pngs/19/949/png-transparent-papaya-fruit-papaya-fruit-auglis-papaya-natural-foods-dried-fruit-food-thumbnail.png",
@@ -194,11 +194,11 @@ class _SearchPageState extends State<SearchPage> {
     CropModel(
         "Peaches:  Prunus persica",
         "https://w7.pngwing.com/pngs/642/518/png-transparent-peach-peach-food-orange-sticker-thumbnail.png",
-        'Peaches.md'),
+        'peaches.md'),
     CropModel(
         "Peas:    Pisum sativum",
         "https://w7.pngwing.com/pngs/939/560/png-transparent-pea-pea-natural-foods-food-fruit-thumbnail.png",
-        'Pear.md'),
+        'pea.md'),
     CropModel(
         "Pine apple:   Ananas comosus",
         "https://w7.pngwing.com/pngs/9/79/png-transparent-pineapple-fruit-pineapple-pineapple-fruit-pineapple-clipart-thumbnail.png",
@@ -230,11 +230,11 @@ class _SearchPageState extends State<SearchPage> {
     CropModel(
         "Rose:Rosa rubiginosa",
         "https://w7.pngwing.com/pngs/731/230/png-transparent-red-rose-illustration-blue-rose-red-rose-purple-blue-image-file-formats-thumbnail.png",
-        'Rose.md'),
+        'rose.md'),
     CropModel(
         "Sorghum:Sorghum bicolor(L.)Moench",
         "https://w7.pngwing.com/pngs/954/242/png-transparent-broom-corn-sweet-sorghum-grain-seed-food-sorghum-white-nutrition-superfood-thumbnail.png",
-        'Sorghum.md'),
+        'sorghum.md'),
     CropModel(
         "Spinach: Spinacia oleracea",
         "https://w7.pngwing.com/pngs/644/961/png-transparent-vegetarian-cuisine-leaf-vegetable-spinach-salad-spinach-food-leaf-eating-thumbnail.png",

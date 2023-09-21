@@ -109,6 +109,117 @@ class _VideoPlayer1State extends State<VideoPlayer1> {
       posterUrl:
           'https://images.unsplash.com/photo-1601039641847-7857b994d704?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YXZvY2Fkb3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60',
     ),
+    Video(
+      title: 'How to eat an Avocado: Nutrition Benefits, Tips & Preparation',
+      youtubeLink: 'https://www.youtube.com/watch?v=QmfcXR-bXxw',
+      posterUrl:
+          'https://plus.unsplash.com/premium_photo-1672860633119-fc2ff8b7a537?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8QXZvY2Fkb3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60',
+    ),
+    Video(
+      title: 'The BEST Way To Grow Avocado From Seed | 0 - 5 Months of Growth',
+      youtubeLink: 'https://www.youtube.com/watch?v=CL0IVzjmB_U',
+      posterUrl:
+          'https://plus.unsplash.com/premium_photo-1672860633119-fc2ff8b7a537?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8QXZvY2Fkb3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60',
+    ),
+    Video(
+      title: 'Avocado Tree Diseases and Pests | Management',
+      youtubeLink: 'https://www.youtube.com/watch?v=cQxduuvdW8g',
+      posterUrl:
+          'https://plus.unsplash.com/premium_photo-1672860633119-fc2ff8b7a537?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8QXZvY2Fkb3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60',
+    ),
+    Video(
+      title:
+          'Avocado growers in Oromia Region are benefiting from using improved seeds - Ethiopia',
+      youtubeLink: 'https://www.youtube.com/watch?v=q5KGkJINm5o',
+      posterUrl:
+          'https://plus.unsplash.com/premium_photo-1672860633119-fc2ff8b7a537?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8QXZvY2Fkb3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60',
+    ),
+    Video(
+      title:
+          'ሃስ አቮካዶ ማዳቀል | Hass Avocado Grafting and Seedling | Ethio-Agri Technology',
+      youtubeLink: 'https://www.youtube.com/watch?v=jNXYeYnExiw',
+      posterUrl:
+          'https://plus.unsplash.com/premium_photo-1672860633119-fc2ff8b7a537?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8QXZvY2Fkb3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60',
+    ),
+    Video(
+      title: 'Dr Joe Schwarcz: The benefits of dates',
+      youtubeLink: 'https://www.youtube.com/watch?v=NNMgD1A-tNs',
+      posterUrl:
+          'https://plus.unsplash.com/premium_photo-1672753749524-7553762bfb0e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZGF0ZXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60',
+    ),
+    Video(
+      title:
+          'What Will Happen If You Start Eating 2 Dates Every Day for a Week',
+      youtubeLink: 'https://www.youtube.com/watch?v=9_dcByPWUTU',
+      posterUrl:
+          'https://plus.unsplash.com/premium_photo-1672753749524-7553762bfb0e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZGF0ZXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60',
+    ),
+    Video(
+      title: 'Growing a DATE PALM TREE Time-lapse',
+      youtubeLink: 'https://www.youtube.com/watch?v=A4KrAhdCFlk',
+      posterUrl:
+          'https://plus.unsplash.com/premium_photo-1672753749524-7553762bfb0e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZGF0ZXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60',
+    ),
+    Video(
+      title:
+          'Dates palm Harvesting by Shaking Machine - Packing Dates Modern Agricultural Technology',
+      youtubeLink: 'https://www.youtube.com/watch?v=i8qpqiWc00g',
+      posterUrl:
+          'https://plus.unsplash.com/premium_photo-1672753749524-7553762bfb0e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZGF0ZXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60',
+    ),
+    Video(
+      title: 'How to prune a Dwarf Date Palm (Phoenix Roebelenii)',
+      youtubeLink: 'https://www.youtube.com/watch?v=RwFvRs3NDl4',
+      posterUrl:
+          'https://plus.unsplash.com/premium_photo-1672753749524-7553762bfb0e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZGF0ZXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60',
+    ),
+    Video(
+      title:
+          'WHEAT Documentary: Everything You Ever Wanted to Know about Wheat',
+      youtubeLink: 'https://www.youtube.com/watch?v=SJv8bHTq4mU',
+      posterUrl:
+          'https://images.unsplash.com/photo-1437252611977-07f74518abd7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8d2hlYXR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60',
+    ),
+    Video(
+      title: 'How to Grow Wheat | Seed to Harvest',
+      youtubeLink: 'https://www.youtube.com/watch?v=AonJkhqCRwk',
+      posterUrl:
+          'https://images.unsplash.com/photo-1437252611977-07f74518abd7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8d2hlYXR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60',
+    ),
+    Video(
+      title: 'White Flour vs. Wheat Flour || Which One Is Healthy for You?',
+      youtubeLink: 'https://www.youtube.com/watch?v=0bMnC3YU93w',
+      posterUrl:
+          'https://images.unsplash.com/photo-1437252611977-07f74518abd7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8d2hlYXR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60',
+    ),
+    Video(
+      title: 'Ethiopia begins to export wheat in the Horn of Africa',
+      youtubeLink: 'https://www.youtube.com/watch?v=SeOPVBhjrag',
+      posterUrl:
+          'https://images.unsplash.com/photo-1437252611977-07f74518abd7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8d2hlYXR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60',
+    ),
+    Video(
+      title:
+          'AFRICA should learn from the success of wheat Production in Ethiopia | One Africa, One Passport',
+      youtubeLink: 'https://www.youtube.com/watch?v=nqQHxE17veI',
+      posterUrl:
+          'https://images.unsplash.com/photo-1437252611977-07f74518abd7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8d2hlYXR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60',
+    ),
+    Video(
+        title: 'What is Teff?',
+        youtubeLink: 'https://www.youtube.com/watch?v=12ABB7JM66M',
+        posterUrl:
+            'https://images.unsplash.com/photo-1655226650825-e6e6ea13c929?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dGVmZnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60'),
+    Video(
+        title: 'How Teff Is Made?',
+        youtubeLink: 'https://www.youtube.com/watch?v=KbDRw9HaOZY',
+        posterUrl:
+            'https://images.unsplash.com/photo-1655226650825-e6e6ea13c929?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dGVmZnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60'),
+    Video(
+        title: 'Teff Grass - 13 Days After Planting',
+        youtubeLink: 'https://www.youtube.com/watch?v=ZbqITH9-8II',
+        posterUrl:
+            'https://images.unsplash.com/photo-1655226650825-e6e6ea13c929?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dGVmZnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60'),
   ];
 
   List<Video> filteredVideos = [];

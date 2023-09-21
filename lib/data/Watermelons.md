@@ -1,7 +1,13 @@
 ![](resource:images/watermelon.png)
 # what''s Watermelons?
 
+Watermelon is a juicy and refreshing fruit that belongs to the Cucurbitaceae family. It is scientifically known as Citrullus lanatus. Watermelons are large, round or oblong in shape, and typically have a thick green rind with a lighter green or yellowish pattern. The inside of a watermelon is filled with sweet, juicy, and vibrant red or pink flesh, although there are also varieties with yellow or orange flesh.
 
+Watermelons are composed of about 92% water, making them an excellent hydrating fruit, especially during hot summer months. They are also low in calories and fat, making them a popular choice for a refreshing and healthy snack. In addition to water, watermelons contain essential nutrients such as vitamins A and C, as well as minerals like potassium and lycopene, which is a powerful antioxidant.
+
+Watermelons are typically eaten fresh on their own, sliced into wedges or cubes. They are also used in salads, smoothies, juices, and various desserts. In some cultures, watermelon is even pickled or used to make refreshing beverages.
+
+Overall, watermelon is not only delicious but also provides hydration and a range of nutrients, making it a popular and healthy choice during hot summer days.
 # Name
 Botanic name:  genus Citrullus
 

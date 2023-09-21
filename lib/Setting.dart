@@ -1,8 +1,9 @@
-import 'package:ethio_agri_smart/main.dart';
-import 'package:ethio_agri_smart/security_settings.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_tts/flutter_tts.dart';
+
+import 'package:ethio_agri_smart/main.dart';
+import 'package:ethio_agri_smart/security_settings.dart';
 
 class SettingsScreen extends StatefulWidget {
   @override
@@ -36,58 +37,92 @@ class _SettingsScreenState extends State<SettingsScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: Colors.white,
       appBar: AppBar(
-        title: Text('Settings'),
+        title: Text(
+          'Settings',
+          style: TextStyle(
+            color: Colors.black,
+            fontSize: 20,
+            fontWeight: FontWeight.bold,
+          ),
+        ),
+        backgroundColor: Colors.white,
+        elevation: 0,
       ),
       body: ListView(
         children: [
           ListTile(
-            leading: Icon(Icons.notifications),
-            title: Text('Notifications'),
+            leading: Icon(
+              Icons.notifications,
+              color: Colors.blue,
+            ),
+            title: Text(
+              'Notifications',
+              style: TextStyle(
+                fontSize: 16,
+                fontWeight: FontWeight.bold,
+              ),
+            ),
             trailing: Switch(
               value: _notificationEnabled,
               onChanged: _handleNotificationSwitch,
+              activeColor: Colors.blue,
             ),
             onTap: () {
-              _speak('Notifications'); // Speak the tile text
+              _speak('Notifications');
             },
           ),
           ListTile(
-            leading: Icon(Icons.language),
-            title: Text('Language'),
-            trailing: Icon(Icons.arrow_forward_ios),
+            leading: Icon(
+              Icons.language,
+              color: Colors.green,
+            ),
+            title: Text(
+              'Language',
+              style: TextStyle(
+                fontSize: 16,
+                fontWeight: FontWeight.bold,
+              ),
+            ),
+            trailing: Icon(
+              Icons.arrow_forward_ios,
+              color: Colors.grey,
+            ),
             onTap: () {
               showDialog(
                 context: context,
                 builder: (BuildContext context) {
                   return AlertDialog(
-                    title: Text('Select Language'),
+                    title: Text(
+                      'Select Language',
+                      style: TextStyle(
+                        fontSize: 18,
+                        fontWeight: FontWeight.bold,
+                      ),
+                    ),
                     content: Column(
                       mainAxisSize: MainAxisSize.min,
                       children: [
                         ListTile(
                           title: Text('English'),
                           onTap: () {
-                            // Handle English language selection
-                            _speak('English'); // Speak the selected language
-                            Navigator.pop(context); // Close the dialog
+                            _speak('English');
+                            Navigator.pop(context);
                           },
                         ),
                         ListTile(
                           title: Text('Amharic'),
                           onTap: () {
-                            // Handle Amharic language selection
-                            _speak('Amharic'); // Speak the selected language
-                            Navigator.pop(context); // Close the dialog
+                            _speak('Amharic');
+                            Navigator.pop(context);
                           },
                         ),
                         ListTile(
                           title: Text('Afaan Oromo'),
                           onTap: () {
-                            // Handle Afaan Oromo language selection
-                            _speak(
-                                'Afaan Oromo'); // Speak the selected language
-                            Navigator.pop(context); // Close the dialog
+                            _speak('Afaan Oromo');
+                            Navigator.pop(context);
                           },
                         ),
                       ],
@@ -98,38 +133,77 @@ class _SettingsScreenState extends State<SettingsScreen> {
             },
           ),
           ListTile(
-            leading: Icon(Icons.security),
-            title: Text('Security'),
-            trailing: Icon(Icons.arrow_forward_ios),
+            leading: Icon(
+              Icons.security,
+              color: Colors.orange,
+            ),
+            title: Text(
+              'Security',
+              style: TextStyle(
+                fontSize: 16,
+                fontWeight: FontWeight.bold,
+              ),
+            ),
+            trailing: Icon(
+              Icons.arrow_forward_ios,
+              color: Colors.grey,
+            ),
             onTap: () {
               Navigator.push(
                 context,
                 MaterialPageRoute(builder: (context) => SecuritySettingsPage()),
               );
-              _speak('Security'); // Speak the tile text
+              _speak('Security');
             },
           ),
           ListTile(
-            leading: Icon(Icons.light_mode_outlined),
-            title: Text('Theme'),
-            trailing: Icon(Icons.arrow_forward_ios),
+            leading: Icon(
+              Icons.light_mode_outlined,
+              color: Colors.yellow,
+            ),
+            title: Text(
+              'Theme',
+              style: TextStyle(
+                fontSize: 16,
+                fontWeight: FontWeight.bold,
+              ),
+            ),
+            trailing: Icon(
+              Icons.arrow_forward_ios,
+              color: Colors.grey,
+            ),
             onTap: () {
               Navigator.push(
                 context,
                 MaterialPageRoute(builder: (context) => SettingsPage()),
               );
-              _speak('Theme'); // Speak the tile text
+              _speak('Theme');
             },
           ),
           ListTile(
-            leading: Icon(Icons.exit_to_app),
-            title: Text('Logout'),
+            leading: Icon(
+              Icons.exit_to_app,
+              color: Colors.red,
+            ),
+            title: Text(
+              'Logout',
+              style: TextStyle(
+                fontSize: 16,
+                fontWeight: FontWeight.bold,
+              ),
+            ),
             onTap: () {
               showDialog(
                 context: context,
                 builder: (BuildContext context) {
                   return AlertDialog(
-                    title: Text('Confirm Logout'),
+                    title: Text(
+                      'Confirm Logout',
+                      style: TextStyle(
+                        fontSize: 18,
+                        fontWeight: FontWeight.bold,
+                      ),
+                    ),
                     content: Text('Are you sure you want to exit the app?'),
                     actions: [
                       TextButton(
